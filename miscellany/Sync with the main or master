@@ -1,4 +1,4 @@
 git checkout main
 git pull
-git checkout add-jane
+git checkout "your branch name"
 git merge main
