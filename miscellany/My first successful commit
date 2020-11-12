@@ -1,0 +1,16 @@
+Terminal
+
+1. git clone "your git url" (clone your files)
+2. cd your git folder
+3. git checkout -b <add-your-name> (create a branch)
+4. mkdir "your dir"
+5. create "a file" under "your dir" (git can not detect the folder)
+6. git add "a file" (add the change to the branch)
+7. git status
+8. git commit -m "your comment of this change" (add the change to the branch)
+9. git push origin <add-your-branch-name>
+
+Github page
+
+10. "Compare & pull request"
+11. Comfirm the merge! Bob's your uncle!
