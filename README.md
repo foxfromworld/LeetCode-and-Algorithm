@@ -1,5 +1,4 @@
-# Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book
-
+My coding interview preparation with LeetCode and the algorithm book: The Algorithm Design Manual
 
 
 | Algorithm | LeetCode # |
