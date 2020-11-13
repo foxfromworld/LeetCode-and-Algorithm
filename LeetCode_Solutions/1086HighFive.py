@@ -15,8 +15,7 @@ class Solution:
         returnL.insert(0, [student, sum//5])
         student = items[i][0]
         temp = []
-        cnt = 0
-        sum = 0       
+        cnt = sum = 0  
       if cnt<5 : # Sum the scores
         sum += items[i][1]
         cnt += 1     
