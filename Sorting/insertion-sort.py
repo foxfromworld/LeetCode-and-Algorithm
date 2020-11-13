@@ -1,5 +1,5 @@
-# foxfromworld
-# 12/11/2020
+# Author : foxfromworld
+# Date   : 12/11/2020
 
 """
   S = (n-1) + (n-2) + (n-3) + ... + 3 + 2 + 1
