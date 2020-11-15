@@ -24,3 +24,4 @@ def insertion_sort(nums):
     while (j>0) and nums[j-1]>nums[j] : 
       nums[j-1], nums[j] = nums[j], nums[ j-1] # swap the two elements
       j -= 1 # start checking from the last element of the sorted part
+  return nums      
