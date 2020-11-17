@@ -1,10 +1,26 @@
 <h3>Finding Counterexamples</h3>
 
 <h4>1-1. Show that a + b can be less than min(a, b). </h4>
+ 
+a + b < a  
+=>  b < 0  
+=>  a < 0
 
+a + b < b  
+=>  a < 0  
+=>  b < 0
 
+So when a < 0 and b < 0, a + b < min(a,b)
 
-1-2. Show that a × b can be less than min(a, b).
+For example:
+
+-3 + -5 = -8
+min(-3,-5) = -5
+
+=> -8 < -5
+
+<h4>1-2. Show that a × b can be less than min(a, b).</h4>
+
 
 1-3. Design/draw a road network with two points a and b such that the fastest route between a and b is not the shortest route.
 
