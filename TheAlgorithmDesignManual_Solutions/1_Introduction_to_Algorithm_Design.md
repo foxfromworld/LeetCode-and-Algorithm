@@ -173,15 +173,13 @@ a**(n+1) + (a**(n+1) - 1)/(a-1) = (a**((n+1)+1) - 1)/(a-1)
 
 <h4>1-17.</h4>
 
+E(n) = n-1
+
+E(n+1) = n + 1 - 1 = E(n) + 1 = n - 1 + 1 = n
 
 <h4>1-18. </h4>
 
 https://en.wikipedia.org/wiki/Squared_triangular_number
-
-<h4></h4>
-
-E(n) = n-1
-E(n+1) = n + 1 - 1 = E(n) + 1 = n - 1 + 1 = n
 
 <h4>1-19.</h4>
 
