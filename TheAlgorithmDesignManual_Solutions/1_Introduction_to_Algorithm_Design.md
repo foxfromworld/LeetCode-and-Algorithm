@@ -201,14 +201,42 @@ School library: 1000000 books * 500 pages = 500 million pages
 
 <h4>1-22.</h4>
 
+50*400 = 20000...? Sorry...really no idea!
 
 <h4>1-23. </h4>
 
+Depth: 0.02 mile
+
+Width: 1 mile
+
+Flow velocity: 10 miles/hour
+
+0.02 * 1 * 10 * 24 = 4.8 cubic miles of water/day
 
 <h4>1-24.</h4>
 
+Disk drive access time is normally measured in milliseconds: http://db.cs.duke.edu/courses/cps104/fall98/lectures/week14-l1/tsld012.htm
+
+The RAM memory accesses a word in less than a microsecond: "Fast RAM chips have an access time of 10 nanoseconds (ns) or less"
+
+=>A microsecond is equal to 1000 nanoseconds. So the anser is less.
+
+Instructions that a CPU can execute in one year: 
+ 
+For example: i7 3 GHz (3,000,000,000 cycles/sec)
+
+
+    1,000,000,000 billion
+    
+1,000,000,000,000 trillion
+
+300 trillion * 3.65 * 24 *3.6 ~ 67500 trillion... 
 
 <h4>1-25.</h4>
+
+(a) a = 1000**2 = 1000000 ; b = 10000**2 = 100000000 ; b/a = 100 seconds
+
+(b) a = 1000*log2(1000) ; b = 10000*log2(10000) ; b/a ~ 10*(13.2877/9.96578) ~13.33 seconds
 
 <h3>Implementation Projects</h3>
 
