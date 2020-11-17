@@ -14,8 +14,11 @@
 T = 23. Find counterexamples to each of the following algorithms for the knapsack problem. That is, giving an S and T such that the subset is selected using the algorithm does not leave the knapsack completely full, even though such a solution exists.
 
 　　　(a) Put the elements of S in the knapsack in left to right order if they fit, i.e. the first-fit algorithm.
+   
   　　(b) Put the elements of S in the knapsack from smallest to largest, i.e. the best-fit algorithm.
+    
 　　　(c) Put the elements of S in the knapsack from largest to smallest.
+   
   
 
 
