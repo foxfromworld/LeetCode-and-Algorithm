@@ -210,12 +210,15 @@ School library: 1000000 books * 500 pages = 500 million pages
 
 <h4>1-25.</h4>
 
-Implementation Projects
+<h3>Implementation Projects</h3>
 
 <h4>1-26.</h4>
+
+
 <h4>1-27.</h4>
 
-Interview Problems
+
+<h3>Interview Problems</h3>
 
 <h4>1-28.</h4>
 <h4>1-29.</h4>
@@ -225,7 +228,7 @@ Interview Problems
 <h4>1-33</h4>
 <h4>1-34</h4>
 
-Programming Challenges
+<h3>Programming Challenges</h3>
 
 <h4>1-1</h4>
 <h4>1-2</h4>
