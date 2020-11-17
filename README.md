@@ -4,18 +4,18 @@
 
 | Algorithm | LeetCode # |
 | --- | --- |
-|  |  |
+| Sort | [HighFive](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086HighFive.py "link") |
 |  |  |
 
 
-LeetCode Problems (Sorted by #)
+<h3>LeetCode Problems (Sorted by #)</h3>
 
 | #	| Title	| Difficulty |
 | --- | --- | --- |
-|  | |
+| 1086 | [HighFive](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086HighFive.py "link") |
 |  | |
 
-LeetCode Problems (Categorized by Difficulty)
+<h3>LeetCode Problems (Categorized by Difficulty)</h3>
 
 Easy
 
