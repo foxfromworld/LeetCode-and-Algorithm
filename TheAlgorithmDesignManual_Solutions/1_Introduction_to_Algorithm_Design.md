@@ -183,12 +183,21 @@ https://en.wikipedia.org/wiki/Squared_triangular_number
 
 <h4>1-19.</h4>
 
+My books: 100 books * 500 pages = 50000 pages = 0.5 million pages
+
+School library: 1000000 books * 500 pages = 500 million pages
 
 <h4>1-20.</h4>
 
+~50*40 (per page) * 700 pages
 
 <h4>1-21. </h4>
 
+1 hour = 3600 seconds
+
+1000/3.6 => (1000/3 + 1000/4)/2 => (333+250)/2 ~290 hours
+
+24hours/day => 240*10 + 24*2 => 12 days
 
 <h4>1-22.</h4>
 
