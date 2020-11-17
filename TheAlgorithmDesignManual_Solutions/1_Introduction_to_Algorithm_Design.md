@@ -21,8 +21,41 @@ min(-3,-5) = -5
 
 <h4>1-2. Show that a × b can be less than min(a, b).</h4>
 
+a x b < a
+
+=> a x b - a < 0
+
+=> a x (b-1) < 0
+
+=> a < 0 and b-1 > 0　(b > 1)
+
+=> b > 1 and a < 0
+
+=> a > 0 and b-1 < 0　(b < 1)
+
+=> 0<a<b<1
+
+a x b < b
+
+=> a x b - b < 0
+
+=> b x (a-1) < 0
+
+=> b < 0 and a-1 > 0
+
+=> b > 0 and a-1 < 0
+
+=> ...
 
 1-3. Design/draw a road network with two points a and b such that the fastest route between a and b is not the shortest route.
+
+a-c-b:
+
+a-d-b:
+
+a------c------b                        
+|             |
+-------D-------
 
 1-4. Design/draw a road network with two points a and b such that the shortest route between a and b is not the route with the fewest turns.
 
