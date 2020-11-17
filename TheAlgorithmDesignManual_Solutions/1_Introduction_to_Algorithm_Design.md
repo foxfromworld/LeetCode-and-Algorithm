@@ -15,7 +15,7 @@ T = 23. Find counterexamples to each of the following algorithms for the knapsac
 
 　　　(a) Put the elements of S in the knapsack in left to right order if they fit, i.e. the first-fit algorithm.
    
-  　　(b) Put the elements of S in the knapsack from smallest to largest, i.e. the best-fit algorithm.
+　　　(b) Put the elements of S in the knapsack from smallest to largest, i.e. the best-fit algorithm.
     
 　　　(c) Put the elements of S in the knapsack from largest to smallest.
    
