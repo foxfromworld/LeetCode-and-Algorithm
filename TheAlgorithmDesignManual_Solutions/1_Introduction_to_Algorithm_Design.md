@@ -1,6 +1,6 @@
 <h3>Finding Counterexamples</h3>
 
-1-1. Show that a + b can be less than min(a, b).
+<h4>1-1. Show that a + b can be less than min(a, b). </h4>
 
 1-2. Show that a × b can be less than min(a, b).
 
