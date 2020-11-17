@@ -98,5 +98,4 @@ y*z = y * (z - (z mod c)) + y * (z mod c) = y*c - y (z mod c) + y * (z mod c) = 
 
 <h4>1-8. </h4>
 [Correctness of Horner’s Rule](https://atekihcan.github.io/CLRS/P02-03/ "link") 
-
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+[HighFive](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086HighFive.py "link")
