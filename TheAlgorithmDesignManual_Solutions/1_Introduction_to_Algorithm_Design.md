@@ -272,6 +272,15 @@ https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-A
 
 <h4>1-29.</h4>
 
+     ┌  5
+     
+     │  5
+     
+25   │  5
+
+     │  5
+     
+     └  5
 
 <h4>1-30.</h4>
 
