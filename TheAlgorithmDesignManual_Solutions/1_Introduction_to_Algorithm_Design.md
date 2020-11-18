@@ -275,16 +275,23 @@ https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-A
             5 races
      ┌  A1 A2 A3 A4 A5 - Assume A1 is the fastest (discard A4 and A5) 
      
-     │  B1 B2 B3 B4 B5 - Assume B1 is the fastest (discard B4 and B5) 
+     │  B1 B2 B3 B4 B5 - Assume B1 is the fastest (discard B4 and B5)          +1 race
      
-25   │  C1 C2 C3 C4 C5 - Assume C1 is the fastest (discard C4 and C5)  —　A1 B1 C1 D1 E1 － Assume A1 is the fastest 
+25   │  C1 C2 C3 C4 C5 - Assume C1 is the fastest (discard C4 and C5)  —　A1 B1 C1 D1 E1 － Assume A1 is the fastest (discard C3, D group, and E group)
 
      │  D1 D2 D3 D4 D5 - Assume D2 is the fastest (discard D4 and D5) 
      
      └  E1 E2 E3 E4 E5 - Assume E1 is the fastest (discard E4 and E5) 
 
+       +1 race
+ 
+=> A2, A3, B1, B2, C1 => Totally 7 races
+
 <h4>1-30.</h4>
 
+World population ~7,800,000,000 (7.8 billion = 7800 million)
+
+Guess: 1 piano/100 people => 78 million pianos
 
 <h4>1-31.</h4>
 
