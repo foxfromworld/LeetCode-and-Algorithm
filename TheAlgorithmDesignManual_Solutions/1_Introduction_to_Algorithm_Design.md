@@ -272,15 +272,16 @@ https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-A
 
 <h4>1-29.</h4>
 
-     ┌  5
+            5 races
+     ┌  A1 A2 A3 A4 A5 - Assume A1 is the fastest (discard A4 and A5) 
      
-     │  5
+     │  B1 B2 B3 B4 B5 - Assume B1 is the fastest (discard B4 and B5) 
      
-25   │  5
+25   │  C1 C2 C3 C4 C5 - Assume C1 is the fastest (discard C4 and C5)  —　A1 B1 C1 D1 E1 － Assume A1 is the fastest 
 
-     │  5
+     │  D1 D2 D3 D4 D5 - Assume D2 is the fastest (discard D4 and D5) 
      
-     └  5
+     └  E1 E2 E3 E4 E5 - Assume E1 is the fastest (discard E4 and E5) 
 
 <h4>1-30.</h4>
 
