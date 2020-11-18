@@ -260,19 +260,42 @@ Some interesting examples: https://jupyter.brynmawr.edu/services/public/dblank/j
 
 <h4>1-27.</h4>
 
+https://blog.wakatta.jp/blog/2012/02/10/psychic-modeling/
+
+https://mikkqu.com/notes/psychic-modeling/
 
 <h3>Interview Problems</h3>
 
 <h4>1-28.</h4>
+
+https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/PerformIntegerDivisionWithoutUsingOperators.py
+
 <h4>1-29.</h4>
+
+
 <h4>1-30.</h4>
+
+
 <h4>1-31.</h4>
+
+
 <h4>1-32.</h4>
+
+
 <h4>1-33</h4>
+
+
 <h4>1-34</h4>
+
 
 <h3>Programming Challenges</h3>
 
 <h4>1-1</h4>
+
+
 <h4>1-2</h4>
+
+
 <h4>1-3</h4>
+
+
