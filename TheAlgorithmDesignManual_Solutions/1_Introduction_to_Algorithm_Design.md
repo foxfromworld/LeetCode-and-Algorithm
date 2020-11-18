@@ -295,9 +295,14 @@ Guess: 1 piano/100 people => 78 million pianos
 
 <h4>1-31.</h4>
 
+168000...(Yes, I Googled...)
+50 states * 3000 ???
 
 <h4>1-32.</h4>
 
+Size of the rink
+
+North American: 200 ft (~60.96m) * 85ft (~25.9m)
 
 <h4>1-33</h4>
 
