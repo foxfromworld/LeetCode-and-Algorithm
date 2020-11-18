@@ -242,6 +242,21 @@ For example: i7 3 GHz (3,000,000,000 cycles/sec)
 
 <h4>1-26.</h4>
 
+Nearest Neighbor
+
+https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/NearestNeighbor.py
+
+Closest Pair (Not exactly finished)
+
+https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/ClosestPair.py
+
+Both are not true in all examples
+
+Can you devise a heuristic that works better than both of them?
+
+Obviously, this is why I need to learn! Of course I cannot come up with the answer right now...(I'll come back to this later)
+
+Some interesting examples: https://jupyter.brynmawr.edu/services/public/dblank/jupyter.cs/FLAIRS-2015/TSPv3.ipynb
 
 <h4>1-27.</h4>
 
