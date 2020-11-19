@@ -331,7 +331,13 @@ Area of US: 9,834,000 km2 ~ 10,000,000 km2 ~ 5000km *2000km
 
 <h4>1-34. On average, how many times would you have to flip open the Manhattan phone book at random in order to find a specific name?</h4>
 
+https://math.stackexchange.com/questions/1780476/manhattan-phone-book
 
+Assume the phone book has 1,000 pages. => 500 openins. Set the probability as 5%
+
+Suppose you will not revisit the same page: 
+
+pn= (500−n)/500=1−n/500. Now Setting pn≤0.05 yields n≥475.
 
 <h3>Programming Challenges</h3>
 
