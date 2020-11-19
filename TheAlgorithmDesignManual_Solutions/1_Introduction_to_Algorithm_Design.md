@@ -302,12 +302,26 @@ Guess: 1 piano/100 people => 78 million pianos
 
 Size of the rink
 
-North American: 200 ft (~60.96m) * 85ft (~25.9m)
+The density of ice ~ 0.9 g/cm3
+
+60 m (length) * 30 m (width) * 0.75*2.5*1/100 m (thickness) => 33000 kg
 
 <h4>1-33</h4>
 
+https://www.artba.org/about/faq/
+
+hahahaha...
+
+1 km ~ 0.621 miles
+
+Area of US: 9,834,000 km2 ~ 10,000,000 km2 ~ 5000km *2000km 
+
+=> 3 road /1 km => 1700 roads (horizontal) and 600 roads (vertical)
+
+(1700*2000km+600*5000)*0.621 => 3960000 miles
 
 <h4>1-34</h4>
+
 
 
 <h3>Programming Challenges</h3>
