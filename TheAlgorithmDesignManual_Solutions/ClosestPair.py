@@ -1,3 +1,7 @@
+# Author : foxfromworld
+# Date  : 18/11/2020
+# Second attempt 
+
 import math
 nums = [[10,0],[11,0],[0,0],[8,0],[15,0]]
 
