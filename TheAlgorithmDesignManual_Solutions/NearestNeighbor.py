@@ -1,3 +1,8 @@
+# Source : https://leetcode.com/problems/high-five/
+# Author : foxfromworld
+# Date  : 18/11/2020
+# Second attempt 
+
 import math
 unvisited = [[1,1],[3,1],[2,3],[1,4],[4,4]]
 def calc_dist(p1,p2): # Calculate the distance between two points
