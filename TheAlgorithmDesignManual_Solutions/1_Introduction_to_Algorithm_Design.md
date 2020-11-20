@@ -343,8 +343,10 @@ pn= (500−n)/500=1−n/500. Now Setting pn≤0.05 yields n≥475.
 
 <h4>1-1. “The 3n + 1 Problem” – Programming Challenges 110101, UVA Judge 100.</h4>
 
+https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/The3n%2B1Problem.py
 
 <h4>1-2. “The Trip” – Programming Challenges 110103, UVA Judge 10137.</h4>
+
 
 
 <h4>1-3. “Australian Voting” – Programming Challenges 110108, UVA Judge 10142.</h4>
