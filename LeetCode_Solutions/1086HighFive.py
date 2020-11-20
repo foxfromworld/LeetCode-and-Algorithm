@@ -1,8 +1,7 @@
 # Source : https://leetcode.com/problems/high-five/
 # Author : foxfromworld
 # Date  : 20/11/2020
-# First attempt 
-
+# Second attempt 
 import collections
 class Solution:
   def highFive(self, items: List[List[int]]) -> List[List[int]]:
