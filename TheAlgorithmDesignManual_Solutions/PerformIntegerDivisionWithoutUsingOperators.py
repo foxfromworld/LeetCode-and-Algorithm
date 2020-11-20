@@ -1,3 +1,7 @@
+# Author : foxfromworld
+# Date  : 18/11/2020
+# Second attempt 
+
 def go(dividend,divisor): # Recursively subtract the divisor
   result = dividend-divisor
   if result < 0:
