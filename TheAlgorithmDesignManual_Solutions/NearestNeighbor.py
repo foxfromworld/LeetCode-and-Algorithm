@@ -1,4 +1,3 @@
-# Source : https://leetcode.com/problems/high-five/
 # Author : foxfromworld
 # Date  : 18/11/2020
 # Second attempt 
