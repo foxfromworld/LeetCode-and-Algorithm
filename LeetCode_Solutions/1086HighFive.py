@@ -1,8 +1,18 @@
 # Source : https://leetcode.com/problems/high-five/
 # Author : foxfromworld
-# Date  : 13/11/2020
+# Date  : 20/11/2020
 # First attempt 
 
+import collections
+class Solution:
+  def highFive(self, items: List[List[int]]) -> List[List[int]]:
+    new_dict = collections.defaultdict(list)
+    for item in items:
+      new_dict[item[0]].append(item[1])
+    return sorted([[key, sum(sorted(scores)[-5:])//5] for key, scores in new_dict.items()])
+  
+# Date  : 13/11/2020
+# First attempt 
 from typing import List
 class Solution:
   def highFive(self, items: List[List[int]]) -> List[List[int]]:
