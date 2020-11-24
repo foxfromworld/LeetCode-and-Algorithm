@@ -1,5 +1,6 @@
 # Author : foxfromworld
 # Date   : 23/11/2020
+# O(nm)
 
 t = "aababba" # len = 7
 p = "abba" # len = 4
