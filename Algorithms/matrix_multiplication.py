@@ -12,7 +12,8 @@ def matrix_multiplication_original(A,B):
       for k in range(len(B)):
         result[i][j] += A[i][k] * B[k][j]        
   return result
-  
+
+# https://www.programiz.com/python-programming/examples/multiply-matrix
 def matrix_multiplication(A,B):
   result = [[sum(a*b for a,b in zip(X_row,Y_col)) for Y_col in zip(*B)] for X_row in A]  
   return result
