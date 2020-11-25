@@ -1,5 +1,17 @@
 # Source : https://leetcode.com/problems/high-five/
 # Author : foxfromworld
+# Date  : 25/11/2020
+# Third attempt 
+
+class Solution:
+  def numUniqueEmails(self, emails: List[str]) -> int:
+    setL = set()
+    for email in emails:
+      localName, domainName = email.split('@')
+      ret = localName.find('+')
+      localName = localName[:ret] if ret > 0 else localName
+      setL.add(localName.replace('.', '')+'@'+domainName)
+    return len(setL)
 
 # Date  : 25/11/2020
 # Second attempt 
