@@ -29,11 +29,14 @@ p := p + ai ∗ xpower (ii)
 
 (c) https://en.wikipedia.org/wiki/Horner%27s_method
 
+```python
 result = 0   
 
 for i in range(n,-1,-1):
 
   result = result*x + poly[i]
+```
+
     
 <h4>2-5.</h4> 
   
