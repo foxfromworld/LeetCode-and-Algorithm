@@ -1,7 +1,7 @@
 # Source : https://leetcode.com/problems/employee-importance/
 # Author : foxfromworld
 # Date  : 06/12/2020
-# Second attempt 
+# First attempt 
 
 class Solution:
   def getImportance(self, employees: List['Employee'], id: int) -> int:
