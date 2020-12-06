@@ -1,6 +1,17 @@
 # Source : https://leetcode.com/problems/employee-importance/
 # Author : foxfromworld
 # Date  : 06/12/2020
+# Third attempt 
+
+class Solution:
+  def getImportance(self, employees: List['Employee'], id: int) -> int:    
+    map = {item.id:item for item in employees}
+    def getValue(id):
+      employee = map[id]
+      return employee.importance + sum([getValue(em) for em in employee.subordinates])
+    return getValue(id)    
+
+# Date  : 06/12/2020
 # Second attempt 
 
 class Solution:
