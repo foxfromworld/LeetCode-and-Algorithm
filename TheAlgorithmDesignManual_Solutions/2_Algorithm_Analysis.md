@@ -64,9 +64,12 @@ a nice, tight bound on f(n).
 ![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-8.jpg)
 
 <h4>2-9.</h4> 
+
 ![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-9.jpg)
 
+
 <h4>2-10.</h4> <h4>2-11.</h4> <h4>2-13.</h4> <h4>2-14.</h4> 
+
 ![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-10_11_13_14.jpg)
 
 <h4>2-12.</h4> 
