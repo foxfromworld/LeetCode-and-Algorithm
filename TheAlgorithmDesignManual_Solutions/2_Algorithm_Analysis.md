@@ -68,7 +68,7 @@ a nice, tight bound on f(n).
 ![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-9.jpg)
 
 
-<h4>2-10.</h4> <h4>2-11.</h4> <h4>2-13.</h4> <h4>2-14.</h4> 
+<h4>2-10. 2-11. 2-13. 2-14.</h4> 
 
 ![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-10_11_13_14.jpg)
 
@@ -76,4 +76,4 @@ a nice, tight bound on f(n).
 
 (a) c = 1 (b) c = 2 (c) c = 2
 
-<h4>2-15.</h4> 
+<h4>2-15. 2-16. 2-17. 2-18.</h4> 
