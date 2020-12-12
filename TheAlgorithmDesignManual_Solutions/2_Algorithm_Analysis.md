@@ -76,4 +76,6 @@ a nice, tight bound on f(n).
 
 (a) c = 1 (b) c = 2 (c) c = 2
 
-<h4>2-15. 2-16. 2-17. 2-18.</h4> 
+<h4>2-15. 2-16. 2-17. 2-18. 2-19. 2-20.</h4> 
+
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-15_16_17_18_19_20.jpg)
