@@ -11,7 +11,7 @@ class Solution:
     space = 0
     string = ""
     collection = []
-    for ch in text:
+    for ch in text:# calculate spaces and words
       if ch == " ":
         space+=1
         if string!="":
