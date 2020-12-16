@@ -2,6 +2,18 @@
 # Source : https://leetcode.com/problems/rearrange-spaces-between-words/
 # Author : foxfromworld
 # Date  : 16/12/2020
+# Second attempt 
+
+class Solution:
+  def reorderSpaces(self, text: str) -> str:
+    space = text.count(" ")# calculate spaces
+    collection = text.split()# calculate words
+    if len(collection)-1 <=0:
+      return "".join(collection)+(" "*space)
+    a,b = divmod(space,len(collection)-1)
+    return (" "*a).join(collection) + (" "*b)
+  
+# Date  : 16/12/2020
 # First attempt 
 
 class Solution:
