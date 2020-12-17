@@ -79,3 +79,37 @@ a nice, tight bound on f(n).
 <h4>2-15. 2-16. 2-17. 2-18. 2-19. 2-20.</h4> 
 
 ![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-15_16_17_18_19_20.jpg)
+
+<h4>2-21.</h4> 
+
+(a) True
+
+(b) False (c) True (Because square root of n dominates logn)
+
+(d) False (logn = 2 log (square root of n) and the square root of n dominates logn)
+
+(e) True
+
+(f) True (logn = 2 log (square root of n))
+
+(g) False (the other way round is correct)
+
+<h4>2-22.</h4> 
+
+(a) f(n) = Ω(g(n))
+
+(b) f(n) = O(g(n))
+
+(c) f(n) = Ω(g(n))
+
+<h4>2-23.</h4> 
+
+(a) Yes. The worst case is just the upper bound. So it's possible.
+
+(b) Yes. The worst case is just the upper bound. So it's possible.
+
+(c) Yes. 
+
+(d) No. (I don't quite know why...)
+
+(e) Yes. Both are Θ(n^2)
