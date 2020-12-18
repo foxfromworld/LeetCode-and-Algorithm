@@ -16,10 +16,10 @@ class MovingAverage:
     self.queue = []
   def next(self, val: int) -> float:
     length = len(self.queue)
-    if length == self.divisor:
-      self.queue.pop()
+    if length == self.divisor:# lenght of queue == divisor
+      self.queue.pop() # to keep to length of the list as the size of divisor
       self.queue.insert(0,val)
       return sum(self.queue)/self.divisor
-    else: 
+    else: # lenght of queue < divisor
       self.queue.insert(0,val)
       return sum(self.queue)/(length+1)
