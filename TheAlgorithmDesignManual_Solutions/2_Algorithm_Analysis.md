@@ -113,3 +113,7 @@ a nice, tight bound on f(n).
 (d) No. (I don't quite know why...)
 
 (e) Yes. Both are Θ(n^2)
+
+<h4>2-24. 2-25. 2-26. 2-27. 2-29. 2-30.</h4> 
+
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-24_25_26_27_29_30.jpg)
