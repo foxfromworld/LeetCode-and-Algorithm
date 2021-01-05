@@ -14,6 +14,8 @@
 | 1086 | [High Five](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086HighFive.py "link") | Easy
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592RearrangeSpacesBetweenWords.py "link") | Easy
 
+***
+
 <h3>LeetCode Problems (Categorized by Difficulty)</h3>
 
 Easy
