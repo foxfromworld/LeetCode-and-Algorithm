@@ -4,6 +4,7 @@
 
 | #	| Title	| Difficulty |
 | --- | --- | --- |
+| 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98ValidateBinarySearchTree.py "link") | Medium
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163MissingRanges.py "link") | Easy
 | 346 | [Moving Average from Data Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/346MovingAverage_fromDataStream.py "link") | Easy
 | 349 | [Intersection of Two Arrays](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/349Intersection_of_TwoArrays.py "link") | Easy
@@ -32,7 +33,7 @@ Medium
 
 | #	| Title	|
 | --- | --- |
-|  | 
+| 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98ValidateBinarySearchTree.py "link") | Medium
 |  | 
 
 Hard
