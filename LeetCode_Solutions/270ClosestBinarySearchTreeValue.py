@@ -1,4 +1,4 @@
-# Source : https://leetcode.com/problems/closest-binary-search-tree-value/submissions/
+# Source : https://leetcode.com/problems/closest-binary-search-tree-value/
 # Author : foxfromworld
 # Date  : 06/01/2021
 # First attempt 
