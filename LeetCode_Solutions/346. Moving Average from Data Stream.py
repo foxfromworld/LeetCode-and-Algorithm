@@ -1,4 +1,4 @@
-# Source : https://leetcode.com/problems/high-five/
+# Source : https://leetcode.com/problems/moving-average-from-data-stream/
 # Author : foxfromworld
 # Date  : 19/12/2020
 # Third attempt
