@@ -1,4 +1,4 @@
-# Source : https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/submissions/
+# Source : https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 # Author : foxfromworld
 # Date  : 29/12/2020
 # First attempt 
