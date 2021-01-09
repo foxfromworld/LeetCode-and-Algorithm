@@ -1,5 +1,19 @@
 # Source : https://leetcode.com/problems/inorder-successor-in-bst/
 # Author : foxfromworld
+# Date  : 09/01/2020
+# Second attempt 
+
+class Solution:
+  def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
+    target = None
+    while root:
+      if p.val > root.val:
+        root = root.right
+      else:
+        target = root
+        root = root.left
+    return target
+
 # Date  : 08/01/2020
 # First attempt 
 
