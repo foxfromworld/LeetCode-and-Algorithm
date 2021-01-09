@@ -6,12 +6,13 @@
 class Solution:
   def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
     target = None
-    while root:
-      if p.val > root.val:
-        root = root.right
+    current = root
+    while current:
+      if current.val > p.val: # Find the p and memorise the previous begger number
+        target = current
+        current = current.left        
       else:
-        target = root
-        root = root.left
+        current = current.right        
     return target
 
 # Date  : 08/01/2020
