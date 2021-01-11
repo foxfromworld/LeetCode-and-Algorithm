@@ -7,8 +7,8 @@ class Solution:
   def insertIntoBST(self, root: TreeNode, val: int) -> TreeNode:
     if not root:
       return TreeNode(val)
-    if val > root.val:
-      root.right = self.insertIntoBST(root.right, val)
+    if val > root.val: # Recusively find the place to insert the node. Bigger -> right; Smaller -> left.
+      root.right = self.insertIntoBST(root.right, val) 
     else:
       root.left = self.insertIntoBST(root.left, val)
     return root
@@ -26,7 +26,7 @@ class Solution:
   def insertIntoBST(self, root: TreeNode, val: int) -> TreeNode:
     new = TreeNode(val)
     current = root
-    while current:
+    while current: # Keep finding the place to insert the node. Bigger -> right; Smaller -> left.
       if val > current.val:
         if current.right == None:
           current.right = new
