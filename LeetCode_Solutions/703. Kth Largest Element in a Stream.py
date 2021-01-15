@@ -3,6 +3,8 @@
 # Date  : 15/01/2021
 # First attempt 
 
+# The idea is to keep the K largest elements in a heap
+
 import heapq
 
 class KthLargest:
