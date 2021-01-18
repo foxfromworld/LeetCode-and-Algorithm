@@ -9,6 +9,7 @@
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | Easy
 | 215 | [Kth Largest Element in an Array](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.py "link") | Medium
 | 226 | [Invert Binary Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/226.%20Invert%20Binary%20Tree.py "link") | Easy
+| 253 | [Meeting Rooms II](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/253.%20Meeting%20Rooms%20II.py "link") | Medium
 | 270 | [Closest Binary Search Tree Value](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/270.%20Closest%20Binary%20Search%20Tree%20Value.py "link") | Easy
 | 285 | [Inorder Successor in BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") | Medium
 | 346 | [Moving Average from Data Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/346.%20Moving%20Average%20from%20Data%20Stream.py "link") | Easy
@@ -54,6 +55,7 @@ Medium
 | --- | --- |
 | 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98.%20Validate%20Binary%20Search%20Tree.py "link") |
 | 215 | [Kth Largest Element in an Array](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.py "link") | 
+| 253 | [Meeting Rooms II](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/253.%20Meeting%20Rooms%20II.py "link") |
 | 285 | [Inorder Successor in BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") |
 | 450 | [Delete Node in a BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/450.%20Delete%20Node%20in%20a%20BST.py "link") |
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") |
