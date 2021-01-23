@@ -1,7 +1,7 @@
 # Source : https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 # Author : foxfromworld
 # Date  : 07/01/2021
-# Second attempt (Really slow...)
+# Second attempt
 
 class Solution:
   def numSmallerByFrequency(self, queries: List[str], words: List[str]) -> List[int]:
