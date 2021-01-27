@@ -1,7 +1,56 @@
 # Source : https://leetcode.com/problems/design-hashmap/
 # Author : foxfromworld
 # Date  : 27/01/2021
-# Second attempt (Still not so fast)
+# Fourth attempt (Still not so fast)
+# Reference: https://en.wikipedia.org/wiki/Hash_table
+
+class Bucket:
+  def __init__(self):
+    self.bucket = []
+  def insert(self, key, value):
+    for i, entry in enumerate(self.bucket):
+      if entry[0] == key:
+        self.bucket[i][1] = value      
+        return
+    self.bucket.append([key, value])
+  def search(self, key):
+    for entry in self.bucket:
+      if entry[0] == key:
+        return entry[1]
+    return -1
+  def delete(self, key):
+    for i, entry in enumerate(self.bucket):
+      if entry[0] == key:
+        del self.bucket[i]  
+    return
+class MyHashMap:
+  def __init__(self):
+    """
+    Initialize your data structure here.
+    """
+    self.size = 1747
+    self.MyHashMap = [Bucket() for _ in range(self.size)]
+  def put(self, key: int, value: int) -> None:
+    """
+    value will always be non-negative.
+    """
+    index = key % self.size
+    self.MyHashMap[index].insert(key, value)
+  def get(self, key: int) -> int:
+    """
+    Returns the value to which the specified key is mapped, or -1 if this map contains no mapping for the key
+    """    
+    index = key % self.size
+    return self.MyHashMap[index].search(key)
+  def remove(self, key: int) -> None:
+    """
+    Removes the mapping of the specified value key if this map contains a mapping for the key
+    """
+    index = key % self.size
+    return self.MyHashMap[index].delete(key)
+
+# Date  : 27/01/2021
+# Third attempt (Still not so fast)
 
 class Bucket:
   def __init__(self):
