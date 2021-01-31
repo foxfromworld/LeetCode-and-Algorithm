@@ -1,5 +1,26 @@
 # Source : https://leetcode.com/problems/add-strings/
 # Author : foxfromworld
+# Date  : 31/01/2021
+# Third attempt 
+
+class Solution:
+  def addStrings(self, num1: str, num2: str) -> str:
+    carry = 0
+    result = [] 
+    pt1 = len(num1) - 1
+    pt2 = len(num2) - 1
+    while pt1>=0 or pt2>=0:
+      digit1 = ord(num1[pt1])-ord('0') if pt1>=0 else 0
+      digit2 = ord(num2[pt2])-ord('0') if pt2>=0 else 0
+      sum = (digit1 + digit2 + carry)%10
+      carry = (digit1 + digit2 + carry)//10
+      result.append(sum)
+      pt1 -= 1
+      pt2 -= 1
+    if carry:
+      result.append(carry)
+    return ''.join(str(digit) for digit in result[::-1])
+
 # Date  : 30/01/2021
 # Second attempt (not very fast)
 
