@@ -11,11 +11,11 @@
 
 <h4>2-3.</h4> 
 
-![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-3.jpg)
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercise%202-3.jpg)
 
 <h4>2-4.</h4> 
 
-![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-4.jpg)
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercise%202-4.jpg)
 
 <h4>2-5.</h4> 
 
@@ -61,16 +61,16 @@ a lower bound on f(n), for all n ≥ n0. Thus there exist constants c1 and c2
 such that f(n) ≤ c1 ·g(n) and f(n) ≥ c2 ·g(n). This means that g(n) provides
 a nice, tight bound on f(n).
 
-![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-8.jpg)
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercises%202-8.jpg)
 
 <h4>2-9.</h4> 
 
-![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-9.jpg)
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercises%202-9.jpg)
 
 
 <h4>2-10. 2-11. 2-13. 2-14.</h4> 
 
-![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-10_11_13_14.jpg)
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercises%202-10_11_13_14.jpg)
 
 <h4>2-12.</h4> 
 
@@ -78,7 +78,7 @@ a nice, tight bound on f(n).
 
 <h4>2-15. 2-16. 2-17. 2-18. 2-19. 2-20.</h4> 
 
-![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-15_16_17_18_19_20.jpg)
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercises%202-15_16_17_18_19_20.jpg)
 
 <h4>2-21.</h4> 
 
@@ -116,4 +116,4 @@ a nice, tight bound on f(n).
 
 <h4>2-24. 2-25. 2-26. 2-27. 2-29. 2-30.</h4> 
 
-![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%202-24_25_26_27_29_30.jpg)
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercises%202-24_25_26_27_29_30.jpg)
