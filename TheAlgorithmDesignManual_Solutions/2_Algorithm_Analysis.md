@@ -61,11 +61,11 @@ a lower bound on f(n), for all n ≥ n0. Thus there exist constants c1 and c2
 such that f(n) ≤ c1 ·g(n) and f(n) ≥ c2 ·g(n). This means that g(n) provides
 a nice, tight bound on f(n).
 
-![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercises%202-8.jpg)
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercise%202-8.jpg)
 
 <h4>2-9.</h4> 
 
-![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercises%202-9.jpg)
+![image](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/TheAlgorithmDesignManual_Solutions/Exercise%202-9.jpg)
 
 
 <h4>2-10. 2-11. 2-13. 2-14.</h4> 
