@@ -1,6 +1,24 @@
 # Source : https://leetcode.com/problems/reverse-linked-list/
 # Author : foxfromworld
 # Date  : 02/02/2021
+# Second attempt
+
+class Solution:      
+  def reverseList(self, head):  # Recursive
+    """
+    :type head: ListNode
+    :rtype: ListNode
+    """    
+    if not head: 
+      return head
+    if not head.next: 
+      return head
+    p = self.reverseList(head.next)
+    head.next.next = head
+    head.next = None
+    return p
+
+# Date  : 02/02/2021
 # First attempt (iterative)
 
 # Definition for singly-linked list.
@@ -10,7 +28,7 @@
 #         self.next = next
 
 class Solution:      
-  def reverseList(self, head):  # Recursive
+  def reverseList(self, head):  # Iterative
     """
     :type head: ListNode
     :rtype: ListNode
