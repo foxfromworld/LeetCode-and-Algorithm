@@ -42,12 +42,12 @@ Use the hash map to memorise the index of a value. When you add a new value, app
 (a) nx1x4/(nx1x4+nx3x4) = 1/4
 
 ```python
-#                                                  Ｏ (3 pointers x 4 bytes + 1 data field x 4bytes)
-#                                                 /  \
-# (3 pointers X 4 bytes + 1 data field $ 4bytes) Ｏ  Ｏ (3 pointers x 4 bytes + 1 data field x 4bytes)
-#                                               / \ / \
-#                                              Ｏ ＯＯ Ｏ ...(same)
+#                                                  Ｏ        ┐
+#                                                 /  \       │
+#                                                Ｏ  Ｏ　　　 ├─ n-1 internal nodes (2 pointers x 2bytes)
+#                                               / \ / \      ┘
+#                                              Ｏ ＯＯ Ｏ    ──  n leave nodes (1 data field x 4bytes)
 ```
-(b)
+(b) nx1x4/(nx1x4+(n-1)x2x2) = n/(2n-1) if n->∞ then 1/2
 
 ![image]()
