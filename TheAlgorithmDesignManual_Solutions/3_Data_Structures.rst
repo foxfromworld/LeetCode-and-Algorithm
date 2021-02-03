@@ -32,14 +32,12 @@ Use the hash map to memorise the index of a value. When you add a new value, app
 
 <h4>3-5.</h4> 
 
-    Ｏ
-   /  \
-   
-  Ｏ  Ｏ
-  
- / \ / \
- 
-Ｏ ＯＯ Ｏ
+.. code-block:: python
+#    Ｏ
+#   /  \
+#  Ｏ  Ｏ
+# / \ / \
+#Ｏ ＯＯ Ｏ
 
 
 ![image]()
