@@ -32,12 +32,22 @@ Use the hash map to memorise the index of a value. When you add a new value, app
 
 <h4>3-5.</h4> 
 
-.. code-block:: python
-#    Ｏ
-#   /  \
-#  Ｏ  Ｏ
-# / \ / \
-#Ｏ ＯＯ Ｏ
+```python
+#                                                  Ｏ (3 pointers x 4 bytes + 1 data field x 4bytes)
+#                                                 /  \
+# (3 pointers X 4 bytes + 1 data field $ 4bytes) Ｏ  Ｏ (3 pointers x 4 bytes + 1 data field x 4bytes)
+#                                               / \ / \
+#                                              Ｏ ＯＯ Ｏ ...(same)
+```
+(a) nx1x4/(nx1x4+nx3x4) = 1/4
 
+```python
+#                                                  Ｏ (3 pointers x 4 bytes + 1 data field x 4bytes)
+#                                                 /  \
+# (3 pointers X 4 bytes + 1 data field $ 4bytes) Ｏ  Ｏ (3 pointers x 4 bytes + 1 data field x 4bytes)
+#                                               / \ / \
+#                                              Ｏ ＯＯ Ｏ ...(same)
+```
+(b)
 
 ![image]()
