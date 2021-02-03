@@ -26,8 +26,20 @@
 
 <h4>3-4.</h4> 
 
-| #	| Title	| 
-| --- | --- | 
-| 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | 
+https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/
+
+Use the hash map to memorise the index of a value. When you add a new value, append it and memorise the lennght-1 as the index. When you remove the value, get the key using get() function. Delete the key in the hash map, swap the value and the last value and delete the value in the list. 
+
+<h4>3-5.</h4> 
+
+    Ｏ
+   /  \
+   
+  Ｏ  Ｏ
+  
+ / \ / \
+ 
+Ｏ ＯＯ Ｏ
+
 
 ![image]()
