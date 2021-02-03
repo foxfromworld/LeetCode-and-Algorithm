@@ -3,13 +3,13 @@
 <h4>3-1.</h4> 
 
 | #	| Title	| 
-| --- | --- | --- |
-| 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | 
+| --- | --- | 
+| 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") |
 
 <h4>3-2.</h4> 
 
 | #	| Title	| 
-| --- | --- | --- |
+| --- | --- | 
 | 206 | [Reverse Linked List](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/206.%20Reverse%20Linked%20List.py "link") | 
 
 <h4>3-3.</h4> 
@@ -23,5 +23,7 @@
 --> Ex: when the size 4 array is one-fourth full, cut its size in half, and so on.
 
 <h3>Trees and Other Dictionary Structures</h3>
+
+<h4>3-4.</h4> 
 
 ![image]()
