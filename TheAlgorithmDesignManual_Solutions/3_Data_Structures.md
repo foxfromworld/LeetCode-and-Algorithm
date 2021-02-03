@@ -50,4 +50,14 @@ Use the hash map to memorise the index of a value. When you add a new value, app
 ```
 (b) nx1x4/(nx1x4+(n-1)x2x2) = n/(2n-1) if n->∞ then 1/2
 
+<h4>3-６.</h4> 
+
+```python
+#    Ｏ predecessor
+#   /  \↖
+#  Ｏ  Ｏ
+#  / \ / \↘      
+# Ｏ ＯＯ Ｏ successor
+```
+
 ![image]()
