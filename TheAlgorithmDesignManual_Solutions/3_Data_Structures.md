@@ -52,6 +52,8 @@ Use the hash map to memorise the index of a value. When you add a new value, app
 
 <h4>3-６.</h4> 
 
+Use a double-linked list to access the predecessor and the successor
+
 ```python
 #    Ｏ predecessor
 #   /  \↖
@@ -59,5 +61,9 @@ Use the hash map to memorise the index of a value. When you add a new value, app
 #  / \ / \↘      
 # Ｏ ＯＯ Ｏ successor
 ```
+
+<h4>3-7.</h4> 
+
+
 
 ![image]()
