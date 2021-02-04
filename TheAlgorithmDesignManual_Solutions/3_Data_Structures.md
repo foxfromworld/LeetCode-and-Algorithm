@@ -64,6 +64,30 @@ Use a double-linked list to access the predecessor and the successor
 
 <h4>3-7.</h4> 
 
+Sounds like a tree structure
 
+1. Keep the value of the min and max value and update them at deletion or insertion
+
+2. Use the doubly-linked list so the beginning and end node will be min and max repectively
+
+3. Use max/min heap
+
+Reference: https://github.com/abdulapopoola/TADMBook/blob/master/Chapter%203/3.07.md
+
+<h4>3-8.</h4> 
+
+"All operations must take O(log n) time on an n-element set." A self-balancing binary search tree will do. (Binary search tree has its limit with the worst case complexity of O(n) https://en.wikipedia.org/wiki/Binary_search_tree)
+
+https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
+
+Some examples of the self-balancing binary search tree:
+
+https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
+
+https://en.wikipedia.org/wiki/AVL_tree
+
+<h4>3-9.</h4> 
+
+<h4>3-10.</h4> 
 
 ![image]()
