@@ -98,7 +98,7 @@ https://www.youtube.com/watch?v=5IBxA-bZZH8
 #    /  \                     /  \
 #   1    3                   4    6
 #               (Solution 1)                                        (Solution2 - more balanced)
-#                      5                                            4                       3  
+#                      5                                            4 (min in S2)           3 (max in S1)
 #                     / \                                          / \                    /   \  
 # (smallest child)   4   6                                        2    5          or     2     5
 #                  /                                            / \     \               /     / \
