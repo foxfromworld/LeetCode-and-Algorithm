@@ -82,11 +82,34 @@ https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
 
 Some examples of the self-balancing binary search tree:
 
-https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
+https://en.wikipedia.org/wiki/AVL_tree (https://www.programiz.com/dsa/avl-tree#code)
 
-https://en.wikipedia.org/wiki/AVL_tree
+https://en.wikipedia.org/wiki/Red%E2%80%93black_tree (https://www.programiz.com/dsa/red-black-tree)
+
+http://www.btechsmartclass.com/data_structures/red-black-trees.html
+
+https://www.youtube.com/watch?v=5IBxA-bZZH8
 
 <h4>3-9.</h4> 
+
+```Python
+#    (S1)                     (S2)
+#     2                        5
+#    /  \                     /  \
+#   1    3                   4    6
+#               (Solution 1)                                        (Solution2 - more balanced)
+#                      5                                            4                       3  
+#                     / \                                          / \                    /   \  
+# (smallest child)   4   6                                        2    5          or     2     5
+#                  /                                            / \     \               /     / \
+#                 2                                            1  3      6             1     4   6
+#                / \
+#               1  3 
+#
+#
+#
+```
+
 
 <h4>3-10.</h4> 
 
