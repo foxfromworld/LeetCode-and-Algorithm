@@ -90,6 +90,12 @@ http://www.btechsmartclass.com/data_structures/red-black-trees.html
 
 https://www.youtube.com/watch?v=5IBxA-bZZH8
 
+My notes:
+
+![image](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/TheAlgorithmDesignManual_Solutions/AVL%20Tree1.jpg)
+
+![image](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/TheAlgorithmDesignManual_Solutions/AVL%20Tree2.jpg)
+
 <h4>3-9.</h4> 
 
 ```Python
@@ -110,7 +116,5 @@ https://www.youtube.com/watch?v=5IBxA-bZZH8
 #
 ```
 
-
 <h4>3-10.</h4> 
 
-![image]()
