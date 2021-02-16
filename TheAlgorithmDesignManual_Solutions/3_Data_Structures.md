@@ -96,6 +96,8 @@ My notes:
 
 ![image](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/TheAlgorithmDesignManual_Solutions/AVL%20Tree2.jpg)
 
+![image](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/TheAlgorithmDesignManual_Solutions/Red-black%20Tree.jpg)
+
 <h4>3-9.</h4> 
 
 ```Python
