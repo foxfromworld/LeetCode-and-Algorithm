@@ -11,7 +11,6 @@ class Solution:
     for i in range(len(s)):
       if s[i] in 'aeiouAEIOU':
         vowelinS.append(s[i])
-        s[i] = '_'
         index.append(i)
     for i in range(len(vowelinS)):
       s[index[i]] = vowelinS[::-1][i]
