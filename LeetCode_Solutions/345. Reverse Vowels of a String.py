@@ -1,5 +1,18 @@
 # Source : https://leetcode.com/problems/reverse-vowels-of-a-string/
 # Author : foxfromworld
+# Date  : 25/02/2021
+# Third attempt 
+
+class Solution:
+  def reverseVowels(self, s: str) -> str:  
+    s = list(s)  
+    backup = []
+    backup[:] = s
+    vowelIndex = [i for i, ch in enumerate(s) if ch in 'aeiouAEIOU']
+    for i, j in zip(vowelIndex[:], vowelIndex[::-1]):
+      s[i] = backup[j]
+    return ''.join(s)
+
 # Date  : 24/02/2021
 # Second attempt # still slow
 
