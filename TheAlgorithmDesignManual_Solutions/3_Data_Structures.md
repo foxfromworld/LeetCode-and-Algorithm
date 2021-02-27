@@ -119,4 +119,15 @@ My notes:
 ```
 
 <h4>3-10.</h4> 
+*Best-fit
+Use a binary search tree. 
+1. Start with the full capacity at the beginning
+2. Find the right bin (enough capacity) for the item
+3. Find the bin and remove the respective node
+4. Minus the weigh and re-insert the node
+5. Repeat 2-4
 
+Or use a self-balancing tree?
+*Worst-fit
+
+Always choose the node with the least space
