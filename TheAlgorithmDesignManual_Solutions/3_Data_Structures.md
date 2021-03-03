@@ -142,9 +142,17 @@ Always choose the node with the least space
 
 <h4>3-11.</h4> 
 
+(a) Create a table to store every smallest value corresponging to the (i, j) combination 
+
+(b) Use the a Cartesian tree https://www.youtube.com/watch?v=2R1vV00SQ6g
 
 <h4>3-12.</h4> 
 
+1. Input the S. If it returns False, it means S doesn't contain any subset that adds up to k.
+
+2. Remove elements one by one to check if the element is necessary to add up k. If it still returns True after removing the element then that means the element is not necessary.
+
+3. After checking all elemnets, you will get the right subset.
 
 <h4>3-13.</h4> 
 
@@ -152,6 +160,4 @@ Always choose the node with the least space
 <h4>3-14.</h4> 
 
 
-
 <h4>3-15.</h4> 
-
