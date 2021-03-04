@@ -156,9 +156,20 @@ Always choose the node with the least space
 
 <h4>3-13.</h4> 
 
-
+![image](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%203-13.jpg)
 
 <h4>3-14.</h4> 
 
+Similiar to 3-13.
+
+Add(k,y): find the node and add value "y" to every node on the path to the node
+
+Insert(k,y): find the place to insert the node, balance the tree, and update the values of the nodes
+
+Delete(k): find the node and subtract the value "y" from every node on the path to the node
+
+Partial-sum(k): "With the left sub tree sum values stored in the nodes this operation only involves searching for the element with the specified key, and summing sub tree sums along the way."
+
+https://www.algorist.com/algowiki/index.php/3.29
 
 <h4>3-15.</h4> 
