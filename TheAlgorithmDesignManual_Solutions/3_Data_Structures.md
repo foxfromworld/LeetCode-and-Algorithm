@@ -218,7 +218,11 @@ https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Soluti
 
 <h4>3-21.</h4> 
 
+This is very similiar this symmietric tree problem
 
+Just change the comparison from "left.left vs. right.right" and "left.right vs. right.left" to "left.left vs. right.left" and "left.right vs. right.right" considering one tree as left sub-tree and the other as the right sub-tree
+
+https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/101.%20Symmetric%20Tree.py
 
 <h4>3-22.</h4> 
 
