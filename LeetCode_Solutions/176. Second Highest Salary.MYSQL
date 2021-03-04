@@ -1,0 +1,10 @@
+# Source : https://leetcode.com/problems/second-highest-salary/
+# Author : foxfromworld
+# Date  : 04/03/2021
+# First attempt 
+
+SELECT( 
+    SELECT DISTINCT Salary 
+    FROM Employee 
+    ORDER BY  Salary DESC LIMIT 1,1
+) AS SecondHighestSalary
