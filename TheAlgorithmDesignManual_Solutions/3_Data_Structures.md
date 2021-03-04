@@ -117,6 +117,7 @@ My notes:
 #
 #
 ```
+<h3>Applications of Tree Structures</h3>
 
 <h4>3-10.</h4> 
 
@@ -172,4 +173,74 @@ Partial-sum(k): "With the left sub tree sum values stored in the nodes this oper
 
 https://www.algorist.com/algowiki/index.php/3.29
 
+<h3>Applications of Tree Structures</h3>
+
 <h4>3-15.</h4> 
+Important elements:
+
+1. counter, occurance
+
+2. A: to keep the counter
+
+3. B: to keep the value
+
+ADD
+
+c = c+1
+
+A[X] = c
+
+B[c] = X
+
+Delete ==> A[B[c]] = A[X];  B[A[X]] = B[c]; c = c-1;
+
+<h3>Implementation Projects</h3>
+
+<h4>3-17.</h4> 
+
+https://en.wikipedia.org/wiki/Caesar_cipher
+
+Since there are only a limited number of possible shifts (25 in English), they can each be tested in turn in a brute force attack.
+
+<h3>Interview Problems</h3>
+
+<h4>3-18.</h4> 
+
+Sorted Binary Search Tree
+
+<h4>3-19.</h4> 
+
+Sort shirts by colour and do sub-class sorting 
+
+<h4>3-20.</h4> 
+
+https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/876.%20Middle%20of%20the%20Linked%20List.py
+
+<h4>3-21.</h4> 
+
+
+
+<h4>3-22.</h4> 
+
+
+
+<h4>3-23.</h4> 
+
+
+
+<h4>3-24.</h4> 
+
+
+
+<h4>3-25.</h4> 
+
+
+
+<h4>3-26.</h4> 
+
+<h4>3-27.</h4> 
+
+<h4>3-28.</h4> 
+
+<h4>3-29.</h4> 
+
