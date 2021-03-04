@@ -7,6 +7,7 @@
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | Easy
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
 | 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98.%20Validate%20Binary%20Search%20Tree.py "link") | Medium
+| 101 | [Symmetric Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/101.%20Symmetric%20Tree.py "link") | Easy
 | 157 | [Read N Characters Given Read4](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/157.%20Read%20N%20Characters%20Given%20Read4.py "link") | Easy
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | Easy
 | 168 | [Excel Sheet Column Title](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/168.%20Excel%20Sheet%20Column%20Title.py "link") | Easy
@@ -48,6 +49,7 @@ Easy
 | --- | --- |
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | 
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | 
+| 101 | [Symmetric Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/101.%20Symmetric%20Tree.py "link") | 
 | 157 | [Read N Characters Given Read4](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/157.%20Read%20N%20Characters%20Given%20Read4.py "link") | 
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | 
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") |
