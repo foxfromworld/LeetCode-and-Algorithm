@@ -19,7 +19,6 @@
 | 253 | [Meeting Rooms II](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/253.%20Meeting%20Rooms%20II.py "link") | Medium
 | 270 | [Closest Binary Search Tree Value](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/270.%20Closest%20Binary%20Search%20Tree%20Value.py "link") | Easy
 | 285 | [Inorder Successor in BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") | Medium
-https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py
 | 345 | [Reverse Vowels of a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/345.%20Reverse%20Vowels%20of%20a%20String.py "link") | Easy
 | 346 | [Moving Average from Data Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/346.%20Moving%20Average%20from%20Data%20Stream.py "link") | Easy
 | 349 | [Intersection of Two Arrays](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/349.%20Intersection%20of%20Two%20Arrays.py "link") | Easy
