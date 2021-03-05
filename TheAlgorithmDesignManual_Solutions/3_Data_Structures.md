@@ -226,7 +226,7 @@ https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Soluti
 
 <h4>3-22.</h4> 
 
-
+https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py
 
 <h4>3-23.</h4> 
 
