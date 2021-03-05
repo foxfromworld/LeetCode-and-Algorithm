@@ -8,7 +8,7 @@
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
 | 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98.%20Validate%20Binary%20Search%20Tree.py "link") | Medium
 | 101 | [Symmetric Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/101.%20Symmetric%20Tree.py "link") | Easy
-| 114 | [Flatten Binary Tree to Linked List](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") | Medium
+| 114 | [Flatten Binary Tree to Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py "link") | Medium
 | 157 | [Read N Characters Given Read4](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/157.%20Read%20N%20Characters%20Given%20Read4.py "link") | Easy
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | Easy
 | 168 | [Excel Sheet Column Title](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/168.%20Excel%20Sheet%20Column%20Title.py "link") | Easy
@@ -82,7 +82,7 @@ Medium
 | #	| Title	|
 | --- | --- |
 | 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98.%20Validate%20Binary%20Search%20Tree.py "link") |
-| 114 | [Flatten Binary Tree to Linked List](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") | 
+| 114 | [Flatten Binary Tree to Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py "link") | 
 | 215 | [Kth Largest Element in an Array](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.py "link") | 
 | 253 | [Meeting Rooms II](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/253.%20Meeting%20Rooms%20II.py "link") |
 | 285 | [Inorder Successor in BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") |
