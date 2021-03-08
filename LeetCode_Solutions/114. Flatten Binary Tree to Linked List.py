@@ -1,7 +1,24 @@
 # Source : https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 # Author : foxfromworld
+# Date  : 08/03/2021
+# Third attempt # Iterative
+
+class Solution:
+  def flatten(self, root: TreeNode) -> None:
+    if not root: return
+    node = root
+    while node:
+      if node.left:
+        rightmostNode = node.left # to search for the right most node of the node's left node
+        while rightmostNode.right:
+          rightmostNode = rightmostNode.right
+        rightmostNode.right = node.right
+        node.right = node.left
+        node.left = None
+      node = node.right
+
 # Date  : 07/03/2021
-# First attempt # Iterative
+# Second attempt # Iterative
 
 class Solution:
   def flatten(self, root: TreeNode) -> None:
