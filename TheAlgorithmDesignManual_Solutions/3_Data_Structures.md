@@ -157,7 +157,7 @@ Always choose the node with the least space
 
 <h4>3-13.</h4> 
 
-![image](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/TheAlgorithmDesignManual_Solutions/Excercises%203-13.jpg)
+![image](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/TheAlgorithmDesignManual_Solutions/Excercise%203-13.jpg)
 
 <h4>3-14.</h4> 
 
