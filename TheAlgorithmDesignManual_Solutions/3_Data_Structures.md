@@ -236,7 +236,7 @@ https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Soluti
 
 <h4>3-24.</h4> 
 
-
+Use a hashtable to keep the data.
 
 <h4>3-25.</h4> 
 
