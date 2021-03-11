@@ -240,7 +240,7 @@ Use a hashtable to keep the data.
 
 <h4>3-25.</h4> 
 
-
+Count all the characters in the magazine and start to find the desired characters. If one character is found, subtract the length of the desied string length.If it's subtracted to 0, then the string is in the magazine. If not, return False.
 
 <h4>3-26.</h4> 
 
