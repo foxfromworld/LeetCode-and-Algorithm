@@ -244,6 +244,8 @@ Count all the characters in the magazine and start to find the desired character
 
 <h4>3-26.</h4> 
 
+| 151 | [Reverse Words in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/151.%20Reverse%20Words%20in%20a%20String.py "link") |
+
 <h4>3-27.</h4> 
 
 <h4>3-28.</h4> 
