@@ -1,7 +1,28 @@
 # Source : https://leetcode.com/problems/reverse-words-in-a-string/
 # Author : foxfromworld
 # Date  : 15/03/2021
-# First attempt 
+# Third attempt 
+
+class Solution:
+  def reverseWords(self, s: str) -> str:
+    head, tail = 0, len(s)-1
+    while s[head] == ' ':
+      head += 1
+    while s[tail] == ' ':
+      tail -= 1
+    word, returnL = [], []
+    while head <= tail:
+      if s[head] != ' ':
+        word.append(s[head])
+      elif s[head] == ' ' and word:
+        returnL.insert(0, ''.join(word))
+        word = []
+      head += 1
+    returnL.insert(0, ''.join(word))
+    return ' '.join(returnL)
+
+# Date  : 15/03/2021
+# Second attempt 
 
 class Solution:
   def reverseWords(self, s: str) -> str:
