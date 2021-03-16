@@ -250,6 +250,12 @@ Count all the characters in the magazine and start to find the desired character
 
 <h4>3-27.</h4> 
 
+
+| #	| Title	| 
+| --- | --- | 
+| 142 | [Linked List Cycle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/142.%20Linked%20List%20Cycle%20II.py "link") | 
+
+
 <h4>3-28.</h4> 
 
 <h4>3-29.</h4> 
