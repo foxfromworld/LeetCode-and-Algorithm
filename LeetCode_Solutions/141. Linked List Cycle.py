@@ -1,7 +1,23 @@
 # Source : https://leetcode.com/problems/linked-list-cycle/
 # Author : foxfromworld
 # Date  : 16/03/2021
-# Third attempt #set is faster than list
+# Frouth attempt
+
+class Solution:
+  def hasCycle(self, head: ListNode) -> bool:
+    if not head:
+        return False
+    slow = head
+    fast = head
+    while fast and fast.next:
+      slow = slow.next
+      fast = fast.next.next
+      if slow == fast:
+        return True
+    return False 
+
+# Date  : 16/03/2021
+# Third attempt 
 
 class Solution:
   def hasCycle(self, head: ListNode) -> bool:
