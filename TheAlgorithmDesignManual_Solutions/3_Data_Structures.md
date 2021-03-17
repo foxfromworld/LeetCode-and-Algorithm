@@ -261,8 +261,12 @@ Count all the characters in the magazine and start to find the desired character
 | 4	| 5 | 1 | 8 | 2 |
 | --- | --- | --- | --- | --- | 
 
+Left product
+
 | 1	| 1x4 | 1x4x5 | 1x4x5x1 | 1x4x5x1x8 |
 | --- | --- | --- | --- | --- | 
+
+Right product
 
 | 1x2x8x1x5	| 1x2x8x1 | 1x2x8 | 1x2 | 1 |
 | --- | --- | --- | --- | --- | 
