@@ -258,5 +258,8 @@ Count all the characters in the magazine and start to find the desired character
 
 <h4>3-28.</h4> 
 
+| #	| 
+| --- | 
+
 <h4>3-29.</h4> 
 
