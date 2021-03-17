@@ -258,11 +258,13 @@ Count all the characters in the magazine and start to find the desired character
 
 <h4>3-28.</h4> 
 
+| 4	| 5 | 1 | 8 | 2 |
 | --- | --- | --- | --- | --- | 
-| 4	| 5 | 1 | 8 | 2 |
 
+| 1	| 1x4 | 1x4x5 | 1x4x5x1 | 1x4x5x1x8 |
+| --- | --- | --- | --- | --- | 
 
-| 4	| 5 | 1 | 8 | 2 |
+| 1x2x8x1x5	| 1x2x8x1 | 1x2x8 | 1x2 | 1 |
 | --- | --- | --- | --- | --- | 
 
 <h4>3-29.</h4> 
