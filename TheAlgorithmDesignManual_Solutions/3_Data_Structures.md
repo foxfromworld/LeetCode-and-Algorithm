@@ -277,3 +277,4 @@ Right product
 
 <h4>3-29.</h4> 
 
+Use a dictionary (Hashtable)
