@@ -258,6 +258,10 @@ Count all the characters in the magazine and start to find the desired character
 
 <h4>3-28.</h4> 
 
+| #	| Title	| 
+| --- | --- | 
+| 238 | Product of Array Except Self](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/238.%20Product%20of%20Array%20Except%20Self.py "link") |
+
 | 4	| 5 | 1 | 8 | 2 |
 | --- | --- | --- | --- | --- | 
 
