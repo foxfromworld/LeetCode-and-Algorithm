@@ -43,6 +43,7 @@
 | 1086 | [High Five](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086.%20High%20Five.py "link") | Easy
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py "link") | Easy
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py "link") | Easy
+| 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | Easy
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py "link") | Easy
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592.%20Rearrange%20Spaces%20Between%20Words.py "link") | Easy
 
@@ -82,6 +83,7 @@ Easy
 | 1086 | [High Five](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086.%20High%20Five.py "link") | 
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py "link") | 
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py "link") | 
+| 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | 
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py "link") | 
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592.%20Rearrange%20Spaces%20Between%20Words.py "link") | 
 
