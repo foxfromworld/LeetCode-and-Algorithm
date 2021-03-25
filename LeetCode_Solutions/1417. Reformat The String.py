@@ -1,6 +1,29 @@
 # Source : https://leetcode.com/problems/reformat-the-string/
 # Author : foxfromworld
 # Date  : 25/03/2021
+# Third attempt
+
+class Solution:
+  def reformat(self, s: str) -> str:
+    s_l, s_d = [], []
+    for ch in s:
+      if "a" <= ch <= "z":
+        s_l.append(ch)
+      else:
+        s_d.append(ch)
+    lenDiff = len(s_l) - len(s_d)
+    result = ""
+    if abs(lenDiff) > 1: return ""
+    if lenDiff < 0:
+      s_l, s_d = s_d, s_l
+    for i in range(len(s_d)):
+      result += s_l[i]
+      result += s_d[i]
+    if  lenDiff != 0: 
+      result += s_l[-1]
+    return result
+
+# Date  : 25/03/2021
 # Second attempt
 
 class Solution:
