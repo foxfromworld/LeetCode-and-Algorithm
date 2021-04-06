@@ -37,8 +37,8 @@
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") | Medium
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") | Easy
 | 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | Easy
-| 876 | [Middle of the Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/876.%20Middle%20of%20the%20Linked%20List.py "link") | Easy
 | 788 | [Rotated Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/788.%20Rotated%20Digits.py "link") | Easy
+| 876 | [Middle of the Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/876.%20Middle%20of%20the%20Linked%20List.py "link") | Easy
 | 929 | [Unique Email Addresses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/929.%20Unique%20Email%20Addresses.py "link") | Easy
 | 937 | [Reorder Data in Log Files](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/937.%20Reorder%20Data%20in%20Log%20Files.py "link") | Easy
 | 1021 | [Remove Outermost Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1021.%20Remove%20Outermost%20Parentheses.py "link") | Easy
@@ -79,6 +79,7 @@ Easy
 | 690 | [Employee Importance](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/690.%20Employee%20Importance.py "link") | 
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") |
 | 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | 
+| 788 | [Rotated Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/788.%20Rotated%20Digits.py "link") | 
 | 876 | [Middle of the Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/876.%20Middle%20of%20the%20Linked%20List.py "link") | 
 | 929 | [Unique Email Addresses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/929.%20Unique%20Email%20Addresses.py "link") | 
 | 937 | [Reorder Data in Log Files](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/937.%20Reorder%20Data%20in%20Log%20Files.py "link") | Easy
