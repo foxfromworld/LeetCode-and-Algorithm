@@ -72,7 +72,7 @@ Use a dictionary to do the counting
 
 <h4>4-12.</h4> 
 
-Create a min heap using O(n) and extract the kth smallest item using O(klogn) time.
+Create a heap with the min value on the top using O(n) and extract the kth smallest item using O(klogn) time.
 
 Similiar to:
 
