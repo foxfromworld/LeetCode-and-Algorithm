@@ -50,9 +50,15 @@ All can be done by using hash maps, O(n) or sorting algorithms, O(nlogn). Do the
 
 <h4>4-9.</h4> 
 
-(a)
+(a) Sort A and B then merge them using the method of (b)
 
-(b)
+(b) Use a union list to keep the union numbers. set 3 indexes for A, B, union (i, j, k) to find the number to add into the union. 
+
+    1. A[i] = B[j] -> U[k] = A[i]; i++; j++; k++
+   
+    2. A[i] < B[j] -> U[k] = A[i]; i++; k++
+
+    3. A[i] > B[j] -> U[k] = B[j]; j++; k++
 
 <h4>4-10.</h4> 
 
