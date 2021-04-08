@@ -82,13 +82,13 @@ Similiar to:
 
 <h4>4-13.</h4> 
 
-(a)
+(a) A max-heap VS sorted array -> O(1) to get the max value "draw"
 
-(b)
+(b) A max-heap -> O(logn) to delete; asorted aray -> O(n) "max-heap wins"
 
-(c)
+(c) Build up a max-heap -> O(nlogn); Sort an array -> O(nlogn) "draw"
 
-(d)
+(d) Finding the min value for a max-heap takes O(n) time; O(1) for a sorted array "sorted array" wins
 
 <h4>4-14.</h4> 
 
