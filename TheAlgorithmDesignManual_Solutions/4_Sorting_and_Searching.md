@@ -40,17 +40,13 @@ O(nlogn) + O(nlogn) -> O(nlogn)
 
 <h4>4-7.</h4> 
 
-(a)
-
-(b)
-
-(c)
+All can be done by using hash maps, O(n) or sorting algorithms, O(nlogn). Do the counting by go through the list.
 
 <h4>4-8.</h4> 
 
-(a)
+(a) Sort the list and find the x-S[i] using binary search.
 
-(b)
+(b) Create a list to keep the difference of x with every element of S and go through S to check if it exists.
 
 <h4>4-9.</h4> 
 
