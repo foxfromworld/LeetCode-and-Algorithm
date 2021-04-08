@@ -30,15 +30,33 @@ Go through the list and take red, blue, yellow items out, then put them into res
 
 <h4>4-6.</h4> 
 
+1. Sort S1 O(nlogn)
+
+2. Go through S2 and calculate the difference of S2[i] and x.
+
+  2-1. Do the Binary search n times to find if it's in S1 (logn)
+
+O(nlogn) + O(nlogn) -> O(nlogn)
 
 <h4>4-7.</h4> 
 
+(a)
+
+(b)
+
+(c)
 
 <h4>4-8.</h4> 
 
+(a)
+
+(b)
 
 <h4>4-9.</h4> 
 
+(a)
+
+(b)
 
 <h4>4-10.</h4> 
 
@@ -53,4 +71,89 @@ Go through the list and take red, blue, yellow items out, then put them into res
 
 <h4>4-13.</h4> 
 
+(a)
 
+(b)
+
+(c)
+
+(d)
+
+<h4>4-14.</h4> 
+
+<h4>4-15.</h4> 
+
+<h3>Quicksort</h3>
+
+<h4>4-16.</h4> 
+
+<h4>4-17.</h4> 
+
+<h4>4-18.</h4> 
+
+
+<h4>4-19.</h4> 
+
+<h4>4-20.</h4> 
+
+<h3>Other Sorting Algorithms</h3>
+
+<h4>4-21.</h4> 
+
+<h4>4-22.</h4> 
+
+<h4>4-23.</h4> 
+
+<h4>4-24.</h4> 
+
+<h4>4-25.</h4> 
+
+<h4>4-26.</h4> 
+
+<h4>4-27.</h4> 
+
+<h3>Lower Bounds</h3>
+
+<h4>4-28.</h4> 
+
+<h4>4-29.</h4> 
+
+<h3>Searching</h3>
+
+<h4>4-30.</h4> 
+
+<h4>4-31.</h4> 
+
+<h4>4-32.</h4> 
+
+<h4>4-33.</h4> 
+
+<h4>4-34.</h4> 
+
+<h4>4-35.</h4> 
+
+<h3>Implementation Challenges</h3>
+
+<h4>4-36.</h4> 
+
+<h4>4-37.</h4> 
+
+<h4>4-38.</h4> 
+
+<h4>4-39.</h4> 
+
+<h3>Interview Problems</h3>
+
+<h4>4-40.</h4> 
+
+<h4>4-41.</h4> 
+
+<h4>4-42.</h4> 
+
+<h4>4-43.</h4> 
+
+<h4>4-44.</h4> 
+
+<h4>4-45.</h4> 
+
+<h4>4-46.</h4> 
