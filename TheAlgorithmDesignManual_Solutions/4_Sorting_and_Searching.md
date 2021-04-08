@@ -62,14 +62,23 @@ All can be done by using hash maps, O(n) or sorting algorithms, O(nlogn). Do the
 
 <h4>4-10.</h4> 
 
+Use k-1 loops and then use binary search to find the (T-loop1value-loop2value..)
 
 <h4>4-11.</h4> 
 
+Use a dictionary to do the counting
 
 <h3>Heaps</h3>
 
 <h4>4-12.</h4> 
 
+Create a min heap using O(n) and extract the kth smallest item using O(klogn) time.
+
+Similiar to:
+
+| #	| Title	| 
+| --- | --- |
+| 215 | [Kth Largest Element in an Array](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.py "link") | 
 
 <h4>4-13.</h4> 
 
