@@ -10,7 +10,7 @@ class Solution:
     stack = [[t1, t2]]
     while stack:
       currPair = stack.pop()
-      if not currPair[1] or not currPair[0]:
+      if not currPair[1]:
         continue
       currPair[0].val += currPair[1].val
       if not currPair[0].left:
@@ -22,7 +22,6 @@ class Solution:
       else:
         stack.append((currPair[0].right, currPair[1].right))
     return t1
-
 # Date  : 09/04/2021
 # First attempt 
 
