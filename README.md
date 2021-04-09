@@ -33,6 +33,7 @@
 | 415 | [Add Strings](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/415.%20Add%20Strings.py "link") | Easy
 | 450 | [Delete Node in a BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/450.%20Delete%20Node%20in%20a%20BST.py "link") | Medium
 | 501 | [Find Mode in Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py "link") | Easy
+| 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") | Easy
 | 690 | [Employee Importance](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/690.%20Employee%20Importance.py "link") | Easy
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") | Medium
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") | Easy
@@ -77,6 +78,7 @@ Easy
 | 359 | [Logger Rate Limiter](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/359.%20Logger%20Rate%20Limiter.py "link") | 
 | 415 | [Add Strings](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/415.%20Add%20Strings.py "link") | 
 | 501 | [Find Mode in Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py "link") |
+| 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") |
 | 690 | [Employee Importance](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/690.%20Employee%20Importance.py "link") | 
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") |
 | 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | 
