@@ -106,18 +106,37 @@ Use the heap sort to find the second-largest and the third-largest key.
 
 <h4>4-16.</h4> 
 
+
+
 <h4>4-17.</h4> 
+
+(a) O(logn) comparisons x n times => O(nlogn) run time
+
+(b) O(log base3/2 (n)) x n times => O(logn/log(3/2)) x n ~= O(logn/0.58496250072) x n ~= O(1.709511291354834xlogn)xn
 
 <h4>4-18.</h4> 
 
 
+
 <h4>4-19.</h4> 
 
+(a) The permutation has (n-1) + (n-2) + (n-3) + ... + (n - n) inversions 
+
+2S = (n-1 + n-(n-1)) + ... + (n-(n-1) + (n-1)) = (n-1) x n /2
+
+(b) P: x inversions -> Pr: (n-1)n/2 - x; total inversions: x + (n-1)n/2 - x = (n-1)n/2
+
+(c) (n-1)n/2 x 1/2 possibility = (n-1)n/4
+
 <h4>4-20.</h4> 
+
+Use 0 use the pivot point => "larger than or equals to  0": right side, "less than 0": left side
 
 <h3>Other Sorting Algorithms</h3>
 
 <h4>4-21.</h4> 
+
+Settle the ties by choosing the item with a lower index value
 
 <h4>4-22.</h4> 
 
