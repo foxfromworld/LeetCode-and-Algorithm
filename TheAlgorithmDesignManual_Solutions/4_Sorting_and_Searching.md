@@ -106,7 +106,15 @@ Use the heap sort to find the second-largest and the third-largest key.
 
 <h4>4-16.</h4> 
 
+We need to find the kth largest element which means k = n/2
 
+First select one pivot and divide the list into two arrays. Check the length of the list. 
+
+ smaller |p| larger
+
+1 - k-1  |p| (k+1) - n
+
+If the length of smaller equals to k -1 then the p is the kth element. If not, keep divide the smaller/larger array until the condition is satisified.
 
 <h4>4-17.</h4> 
 
