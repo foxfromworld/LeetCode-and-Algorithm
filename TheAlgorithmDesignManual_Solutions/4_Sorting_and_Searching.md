@@ -92,7 +92,15 @@ Similiar to:
 
 <h4>4-14.</h4> 
 
+1. Take the first element of each sorted list and build a min-heap using these elemnts. O(klogk)
+
+2. Put the min value into the merged list and delete it from the heap. Take the first element from the sorted list where the last first element was deleted into the min-heap. O(logk)
+
+3. Repeat for n times. O(nlogk)
+
 <h4>4-15.</h4> 
+
+Use the heap sort to find the second-largest and the third-largest key.
 
 <h3>Quicksort</h3>
 
