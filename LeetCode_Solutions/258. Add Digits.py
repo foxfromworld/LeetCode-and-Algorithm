@@ -7,6 +7,5 @@ class Solution:
   def addDigits(self, num: int) -> int:
     if num < 10: return num
     while len(list(str(num))) > 1:
-      n = [int(i) for i in list(str(num))]
-      num = sum(n)
+      num = sum([int(i) for i in list(str(num))])
     return num
