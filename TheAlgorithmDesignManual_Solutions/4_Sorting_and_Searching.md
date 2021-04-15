@@ -124,7 +124,7 @@ If the length of smaller equals to k -1 then the p is the kth element. If not, k
 
 <h4>4-18.</h4> 
 
-
+Go through the list and use three pointers to keep the position of the first red, white, and blue items. Swap all the red from left to right first and check blue from right to left.
 
 <h4>4-19.</h4> 
 
