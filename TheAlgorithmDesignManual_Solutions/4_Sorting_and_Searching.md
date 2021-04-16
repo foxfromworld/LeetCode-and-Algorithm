@@ -178,7 +178,7 @@ Create a heap with k elements (1-k). Go through the heap (O(logk)) n times  and 
 
 <h4>4-29.</h4> 
 
-
+The lower bound O(nlogn) applies to only all comparison based sorting algorithms, with no assumptions on the values of the elements. It is possible to do faster than n log n if we make assumptions on the values. We can use the decision tree to prove it. It's not possible to just insert n numbers and extract and then extract the max value.
 
 <h3>Searching</h3>
 
