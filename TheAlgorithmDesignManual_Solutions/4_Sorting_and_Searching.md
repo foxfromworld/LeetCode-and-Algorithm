@@ -148,25 +148,47 @@ Settle the ties by choosing the item with a lower index value
 
 <h4>4-22.</h4> 
 
+Create a heap with k elements (1-k). Go through the heap (O(logk)) n times  and the count will be counted each time. -> O(nlogk)
+
 <h4>4-23.</h4> 
+
+
 
 <h4>4-24.</h4> 
 
+
+
 <h4>4-25.</h4> 
+
+
 
 <h4>4-26.</h4> 
 
+
+
 <h4>4-27.</h4> 
+
+
 
 <h3>Lower Bounds</h3>
 
 <h4>4-28.</h4> 
 
+
+
 <h4>4-29.</h4> 
+
+
 
 <h3>Searching</h3>
 
 <h4>4-30.</h4> 
+
+The time complexity of binary search is O(logn) so 10,000 sorted names -> log(10000) = 13.2877123795
+
+Worst case: log(4000) + log(6000) = 11.9657842847 + 12.5507467854 
+
+So the option 1 is better and there is no difference for the linear search.
 
 <h4>4-31.</h4> 
 
