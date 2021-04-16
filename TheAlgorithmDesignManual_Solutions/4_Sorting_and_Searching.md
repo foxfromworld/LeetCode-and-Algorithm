@@ -152,15 +152,17 @@ Create a heap with k elements (1-k). Go through the heap (O(logk)) n times  and 
 
 <h4>4-23.</h4> 
 
-
+Similiar to 4-22. Use a balanced tree and k = logn. Insert the element or increase the count accordingly.
 
 <h4>4-24.</h4> 
 
+The square root of n -> sqrt(n)
 
+Sort the unsorted array with O(sqrt(n)log(sqrt(n))) and merge the two lists with O(n) + O(sqrt(n)log(sqrt(n))) -> O(n)
 
 <h4>4-25.</h4> 
 
-
+Create a heap and go through it and increase the count accordingly. This takes O(n x log(log log n))
 
 <h4>4-26.</h4> 
 
