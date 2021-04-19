@@ -166,7 +166,9 @@ Create a heap and go through it and increase the count accordingly. This takes O
 
 <h4>4-26.</h4> 
 
+(a) Choose 0 or 1 as the pivot and compare through the list. The list will be sorted in n − 1 comparisons
 
+(b)
 
 <h4>4-27.</h4> 
 
