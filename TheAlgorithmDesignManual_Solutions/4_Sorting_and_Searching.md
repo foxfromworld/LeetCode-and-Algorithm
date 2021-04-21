@@ -168,7 +168,7 @@ Create a heap and go through it and increase the count accordingly. This takes O
 
 (a) Choose 0 or 1 as the pivot and compare through the list. The list will be sorted in n − 1 comparisons
 
-(b)
+(b) 
 
 <h4>4-27.</h4> 
 
@@ -208,29 +208,50 @@ So the option 1 is better and there is no difference for the linear search.
 
 <h4>4-33.</h4> 
 
+1. low, high = 0, n
 
+2. mid = (low + high) / 2
+
+3. if mid == a[mid-1]: return True
+
+   else:
+   
+      if a[mid-1] > mid:
+          
+          high = mid-1
+          do 2
+      else: 
+      
+          low = mid-1
+          do 2
 
 <h4>4-34.</h4> 
 
-
+Similiar to 4-33. Check if a[n-1] == n: return n if not -> n = n-1 find the gap between them.
 
 <h4>4-35.</h4> 
 
-
+Check if x > the first element of the last row. If so check the last row from the first element. or check the second last row, and so on.
 
 <h3>Implementation Challenges</h3>
 
 <h4>4-36.</h4> 
 
-
+Check if the last element of each row is equal < 0, if so, fo to the next row. If no, do the binary search to find 0. 
 
 <h4>4-37.</h4> 
 
+Reference: https://en.wikipedia.org/wiki/Sorting_algorithm
 
+![image](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/TheAlgorithmDesignManual_Solutions/comparison.png)
 
 <h4>4-38.</h4> 
 
+
+
 <h4>4-39.</h4> 
+
+
 
 <h3>Interview Problems</h3>
 
