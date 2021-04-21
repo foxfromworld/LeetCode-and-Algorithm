@@ -196,19 +196,37 @@ So the option 1 is better and there is no difference for the linear search.
 
 <h4>4-31.</h4> 
 
+1. A[k-1] will be the largest number
+
+2. Use binary search to find it
+
 <h4>4-32.</h4> 
+
+(a) Use binary search to find the 
+
+(b) Use Exponentiation the find the range and then use binary search to find the number
 
 <h4>4-33.</h4> 
 
+
+
 <h4>4-34.</h4> 
 
+
+
 <h4>4-35.</h4> 
+
+
 
 <h3>Implementation Challenges</h3>
 
 <h4>4-36.</h4> 
 
+
+
 <h4>4-37.</h4> 
+
+
 
 <h4>4-38.</h4> 
 
