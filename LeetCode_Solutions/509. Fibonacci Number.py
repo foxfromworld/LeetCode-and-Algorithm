@@ -1,6 +1,20 @@
 # Source : https://leetcode.com/problems/fibonacci-number/
 # Author : foxfromworld
 # Date  : 22/04/2021
+# Second attempt 
+
+class Solution:
+  def fib(self, N: int) -> int:
+    if N <= 1: return N
+    last = 1
+    bflast = 0
+    for i in range(2, N+1):
+      current = bflast + last
+      bflast = last      
+      last = current
+    return current
+
+# Date  : 22/04/2021
 # First attempt 
 
 class Solution:
