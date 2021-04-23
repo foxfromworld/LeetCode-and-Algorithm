@@ -257,7 +257,9 @@ Reference: https://en.wikipedia.org/wiki/Sorting_algorithm
 
 <h4>4-40.</h4> 
 
+*Avoid comparison based sorting algorithms
 
+Radix sort is a good algorithm for sorting large amount of numbers.
 
 <h4>4-41.</h4> 
 
