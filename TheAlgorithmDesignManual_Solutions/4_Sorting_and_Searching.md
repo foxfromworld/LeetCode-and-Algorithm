@@ -263,6 +263,42 @@ Radix sort is a good algorithm for sorting large amount of numbers.
 
 <h4>4-41.</h4> 
 
+*Selection Sort
+1. Advantages: in-place, easy to implement,
+2. Disadvantages: too slow
+
+*Insertion Sort
+1. Advantages: simple
+2. Disadvantages: unstable, too slow
+
+*Bubble Sort
+1. Advantages: tiny code size
+2. Disadvantages: too slow at worst cases
+
+*Merge Sort
+1. Advantages: stable, highly parallelizable
+2. Disadvantages: use large storage (n)
+
+*Quick Sort
+1. Advantages: fastest
+2. Disadvantages: low at worst cases, unstable
+
+*Heap Sort
+1. Advantages: fast (O(nlogn))
+2. Disadvantages: unstable
+
+*Counting Sort
+1. Advantages: non-comparison sort
+2. Disadvantages: depends on the range of numbers
+
+*Radix Sort
+1. Advantages: non-comparison sort, good for sorting a large amount of numbers
+2. Disadvantages: it takes more space
+
+*Bucket Sort
+1. Advantages: non-comparison sort
+2. Disadvantages: numbers need to be uniformly distributed
+
 
 
 <h4>4-42.</h4> 
