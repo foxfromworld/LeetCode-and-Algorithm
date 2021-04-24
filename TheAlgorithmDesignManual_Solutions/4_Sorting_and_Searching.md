@@ -299,15 +299,15 @@ Radix sort is a good algorithm for sorting large amount of numbers.
 1. Advantages: non-comparison sort
 2. Disadvantages: numbers need to be uniformly distributed
 
-
-
 <h4>4-42.</h4> 
-
-
+1. Create a dictionary 
+2. Go through the list and + 1 to the existing key's value
+3. find the one with value 1
 
 <h4>4-43.</h4> 
 
-
+1. Sort 2MB for 500 times and save each result into the disk
+2. Merge the result using merge sort
 
 <h4>4-44.</h4> 
 
