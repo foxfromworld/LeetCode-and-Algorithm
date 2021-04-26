@@ -311,7 +311,7 @@ Radix sort is a good algorithm for sorting large amount of numbers.
 
 <h4>4-44.</h4> 
 
-
+Not possible. You need O(n) to sort the list.
 
 <h4>4-45.</h4> 
 
@@ -319,4 +319,4 @@ Radix sort is a good algorithm for sorting large amount of numbers.
 
 <h4>4-46.</h4> 
 
-
+Split 12 in 3. Split the heavier group in 2 and so on.
