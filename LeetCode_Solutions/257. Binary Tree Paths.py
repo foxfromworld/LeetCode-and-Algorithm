@@ -1,7 +1,7 @@
 # Source : https://leetcode.com/problems/binary-tree-paths/
 # Author : foxfromworld
 # Date  : 01/05/2021
-# First attempt (iteratively)
+# Second attempt (iteratively)
 
 class Solution:
   def binaryTreePaths(self, root: TreeNode) -> List[str]:
