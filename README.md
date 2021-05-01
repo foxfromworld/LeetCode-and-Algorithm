@@ -24,6 +24,8 @@
 | 226 | [Invert Binary Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/226.%20Invert%20Binary%20Tree.py "link") | Easy
 | 238 | [Product of Array Except Self](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/238.%20Product%20of%20Array%20Except%20Self.py "link") | Medium
 | 253 | [Meeting Rooms II](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/253.%20Meeting%20Rooms%20II.py "link") | Medium
+| 257 | [Binary Tree Paths](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/257.%20Binary%20Tree%20Paths.py
+ "link") | Easy
 | 258 | [Add Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/258.%20Add%20Digits.py "link") | Easy
 | 270 | [Closest Binary Search Tree Value](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/270.%20Closest%20Binary%20Search%20Tree%20Value.py "link") | Easy
 | 285 | [Inorder Successor in BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") | Medium
