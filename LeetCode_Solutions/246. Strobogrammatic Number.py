@@ -1,11 +1,25 @@
 # Source : https://leetcode.com/problems/strobogrammatic-number/
 # Author : foxfromworld
 # Date  : 04/05/2021
+# Third attempt
+
+class Solution:
+  def isStrobogrammatic(self, num: str) -> bool:
+    dict = {'0':'0', '1':'1', '6':'9', '8':'8', '9':'6'}
+    newStr = []
+    for ch in reversed(num):
+      if ch not in dict:
+        return False
+      else:
+        newStr.append(dict[ch])
+    return ''.join(newStr) == num
+
+# Date  : 04/05/2021
 # Second attempt
 
 class Solution:
   def isStrobogrammatic(self, num: str) -> bool:
-    dict = {'1':'1', '6':'9', '8':'8', '9':'6', '8':'8', '0':'0'}
+    dict = {'0':'0', '1':'1', '6':'9', '8':'8', '9':'6'}
     left = 0
     right = len(num) - 1
     while right >= left:
@@ -20,7 +34,7 @@ class Solution:
 
 class Solution:
   def isStrobogrammatic(self, num: str) -> bool:
-    dict = {'1':'1', '6':'9', '8':'8', '9':'6', '8':'8', '0':'0'}
+    dict = {'0':'0', '1':'1', '6':'9', '8':'8', '9':'6'}
     newStr = ''
     for ch in num:
       if ch in dict:
