@@ -6,6 +6,7 @@
 | --- | --- | --- |
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | Easy
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
+| 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | Easy
 | 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98.%20Validate%20Binary%20Search%20Tree.py "link") | Medium
 | 100 | [Same Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/100.%20Same%20Tree.py "link") | Easy
 | 101 | [Symmetric Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/101.%20Symmetric%20Tree.py "link") | Easy
@@ -69,6 +70,7 @@ Easy
 | --- | --- |
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | 
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | 
+| 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | 
 | 100 | [Same Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/100.%20Same%20Tree.py "link") | 
 | 101 | [Symmetric Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/101.%20Symmetric%20Tree.py "link") | 
 | 110 | [Balanced Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/110.%20Balanced%20Binary%20Tree.py "link") | 
