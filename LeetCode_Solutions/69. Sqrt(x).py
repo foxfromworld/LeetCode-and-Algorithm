@@ -3,6 +3,13 @@
 # Date  : 10/05/2021
 # Third attempt
 
+class Solution:
+  def mySqrt(self, x: int) -> int:    
+    if x <= 1: return x
+    low = int(e ** (0.5 * log(x)))
+    high = low + 1
+    return low if high * high > x else high
+
 # Date  : 10/05/2021
 # Second attempt
 
