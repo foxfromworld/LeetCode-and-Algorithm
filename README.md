@@ -4,6 +4,7 @@
 
 | #	| Title	| Difficulty |
 | --- | --- | --- |
+| 9 | [Palindrome Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/9.%20Palindrome%20Number.py "link") | Easy
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | Easy
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
 | 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | Easy
@@ -68,6 +69,7 @@ Easy
 
 | #	| Title	|
 | --- | --- |
+| 9 | [Palindrome Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/9.%20Palindrome%20Number.py "link") | Easy
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | 
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | 
 | 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | 
