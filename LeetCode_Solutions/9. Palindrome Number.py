@@ -1,6 +1,14 @@
 # Source : https://leetcode.com/problems/palindrome-number/
 # Author : foxfromworld
 # Date  : 11/05/2021
+# Second attempt
+
+class Solution:
+  def isPalindrome(self, x: int) -> bool:
+    x = str(x)
+    return x == x[::-1]
+
+# Date  : 11/05/2021
 # First attempt
 
 class Solution:
