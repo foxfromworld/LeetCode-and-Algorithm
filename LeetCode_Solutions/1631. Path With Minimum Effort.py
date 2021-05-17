@@ -4,7 +4,7 @@
 # First attempt (Dijkstra's Algorithm)
 
 """
-       col0    col1    col2
+      col0  col1  col2
     ┌─────┬─────┬─────┐
 row0│  1  │  2  │  2  │
     │(0,0)│(0,1)│(0,2)│
