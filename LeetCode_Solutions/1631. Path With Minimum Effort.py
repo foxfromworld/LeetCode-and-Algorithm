@@ -1,6 +1,6 @@
-# Source : 
+# Source : https://leetcode.com/problems/path-with-minimum-effort/
 # Author : foxfromworld
-# Date  : 16/05/2021
+# Date  : 17/05/2021
 # First attempt (Dijkstra's Algorithm)
 
 """
