@@ -1,10 +1,10 @@
 # Source : https://leetcode.com/problems/path-with-minimum-effort/
 # Author : foxfromworld
 # Date  : 17/05/2021
-# Second attempt
-
-# Date  : 17/05/2021
 # First attempt (Dijkstra's Algorithm)
+
+# Time Complexity : O(m⋅nlog(m⋅n))
+# It takes O(m⋅n) time to visit every cell in the matrix and O(log(m⋅n)) time to re-sort the queue
 """
 
       col0  col1  col2
