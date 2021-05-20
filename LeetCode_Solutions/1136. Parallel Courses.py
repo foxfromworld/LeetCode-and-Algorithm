@@ -1,7 +1,7 @@
 # Source : https://leetcode.com/problems/parallel-courses/
 # Author : foxfromworld
 # Date  : 20/05/2021
-# First attempt 
+# First attempt #BFS
 
 class Solution:
   def minimumSemesters(self, N: int, relations: List[List[int]]) -> int:
