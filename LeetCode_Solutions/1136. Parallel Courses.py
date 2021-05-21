@@ -1,7 +1,44 @@
 # Source : https://leetcode.com/problems/parallel-courses/
 # Author : foxfromworld
 # Date  : 20/05/2021
-# First attempt #BFS
+# Third attempt # DFS2
+
+# Date  : 21/05/2021
+# Second attempt # DFS1 (Find the longest path)
+
+class Solution:
+  def minimumSemesters(self, N: int, relations: List[List[int]]) -> int:
+    graph = {v: [] for v in range(1, N + 1)}
+    for st, ed in relations: # create the graph
+      graph[st].append(ed)
+    visit_status = {}
+    def check_cycle(node): # check if there is a cyle
+      if node in visit_status:
+        return visit_status[node]
+      else:
+        visit_status[node] = -1
+      for end_node in graph[node]:
+        if check_cycle(end_node):
+          return True
+      visit_status[node] = False
+      return False
+    for node in graph:
+      if check_cycle(node):
+        return -1
+    longest_path = {}
+    def find_longest_path(node): # find the longest path
+      if node in longest_path:
+        return longest_path[node]
+      max_length = 1
+      for end_node in graph[node]:
+        length = find_longest_path(end_node)
+        max_length = max(length + 1, max_length)
+      longest_path[node] = max_length
+      return max_length
+    return max(find_longest_path(node) for node in graph)
+
+# Date  : 20/05/2021
+# First attempt # BFS
 
 class Solution:
   def minimumSemesters(self, N: int, relations: List[List[int]]) -> int:
