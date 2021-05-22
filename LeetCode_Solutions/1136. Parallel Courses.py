@@ -23,7 +23,7 @@ class Solution:
           max_length = max(length + 1, max_length)
       visit[node] = max_length
       return max_length
-    max_length = -1  
+    max_length = 1  
     for node in graph:
         length = dfs(node)
         if length == -1:
