@@ -3,6 +3,35 @@
 # Date  : 20/05/2021
 # Third attempt # DFS2
 
+class Solution:
+  def minimumSemesters(self, N: int, relations: List[List[int]]) -> int:
+    graph = { v:[] for v in range(1, N+1)}
+    for st, ed in relations:
+      graph[st].append(ed)
+    visit = {}
+    def dfs(node):
+      if node in visit:
+        return visit[node]
+      else:
+        visit[node] = -1
+      max_length = 1
+      for end_node in graph[node]:
+        length = dfs(end_node)
+        if length == -1:
+          return -1
+        else:
+          max_length = max(length + 1, max_length)
+      visit[node] = max_length
+      return max_length
+    max_length = -1  
+    for node in graph:
+        length = dfs(node)
+        if length == -1:
+          return -1
+        else:
+          max_length = max(length, max_length)
+    return max_length    
+
 # Date  : 21/05/2021
 # Second attempt # DFS1 (Find the longest path)
 
