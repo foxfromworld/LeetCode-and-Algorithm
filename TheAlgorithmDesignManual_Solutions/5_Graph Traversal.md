@@ -2,6 +2,11 @@
 
 <h4>5-1.</h4> 
 ```python
+result = 0   
+
+for i in range(n,-1,-1):
+
+  result = result*x + poly[i]
 G1
       ┌ C ┐
   ┌ B   |   F┐
@@ -10,13 +15,5 @@ G1
 A ─ D   |   H┤
   │   ╲ | ╱  │
   │     G    │   
-  └ I ─J──┘
-```
-
-```python
-result = 0   
-
-for i in range(n,-1,-1):
-
-  result = result*x + poly[i]
+  └ I ─J──┘  
 ```
