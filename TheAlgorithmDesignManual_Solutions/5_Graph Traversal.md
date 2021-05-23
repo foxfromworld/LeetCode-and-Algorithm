@@ -12,3 +12,11 @@ A ─ D   |   H┤
   │     G    │   
   └ I ─J──┘
 ```
+
+```python
+result = 0   
+
+for i in range(n,-1,-1):
+
+  result = result*x + poly[i]
+```
