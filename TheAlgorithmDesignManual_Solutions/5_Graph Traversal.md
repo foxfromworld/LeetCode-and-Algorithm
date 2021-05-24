@@ -18,23 +18,10 @@ G2: A B C D H G F E I J K L P O N M
 
 According  to the errata, the direction between F and H should be reversed.
 
-A in 0
+BFS:
 
-H in 0
+A in 0; H in 0; B in 1: A; C in 2: B, E; D in 2: A, B; E in 2: B, D; F in 4: C, E, G, H; G in 3: D, E, H; I in 1: G; J in 1: I
 
-B in 1: A
+DFS: A: [B, D]; D: [E, G]; E: [C, F, G]; C: [F]; B: [C, E]; G: [I]; I: [J]; H: [F, G, J]
 
-C in 2: B, E
-
-D in 2: A, B
-
-E in 2: B, D
-
-F in 4: C, E, G, H
-
-G in 3: D, E, H
-
-I in 1: G
-
-J in 1: I
-
+Result: H A B D E G I J C F
