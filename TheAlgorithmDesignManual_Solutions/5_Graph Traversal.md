@@ -25,3 +25,33 @@ A in 0; H in 0; B in 1: A; C in 2: B, E; D in 2: A, B; E in 2: B, D; F in 4: C, 
 DFS: A: [B, D]; D: [E, G]; E: [C, F, G]; C: [F]; B: [C, E]; G: [I]; I: [J]; H: [F, G, J]
 
 Result: H A B D E G I J C F
+
+<h3>Traversal</h3>
+
+<h4>5-3.</h4> 
+
+The tree contains nodes and leaves. Child nodes can only be accessed through the same parent. So the path is unique.
+
+<h4>5-4.</h4> 
+
+In a breadth-first search on a undirected graph G, every edge is either a tree edge or a cross edge. For example, in 5-1 G1. You can see the edges between A, B and A, D are tree edges and the edge between B and D is a cross edge. These edges are interchangeable.
+
+<h4>5-5.</h4> 
+
+No.
+
+Definition of the bipartite graph: https://en.wikipedia.org/wiki/Bipartite_graph
+
+<h4>5-6.</h4> 
+
+(a) The node v is directly connected to all n nodes.
+
+(b) The node v is connected to a chain of linked n nodes.
+
+(c) The node v is connected to two chains which have the length of n/2
+
+<h4>5-7.</h4> 
+
+<h4>5-8.</h4> 
+
+
