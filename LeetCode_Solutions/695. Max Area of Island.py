@@ -1,6 +1,6 @@
 # Source : https://leetcode.com/problems/max-area-of-island/
 # Author : foxfromworld
-# Date  : 16/02/2021
+# Date  : 26/05/2021
 # First attempt 
 
 class Solution(object):
