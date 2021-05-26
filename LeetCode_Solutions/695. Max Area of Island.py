@@ -1,6 +1,36 @@
 # Source : https://leetcode.com/problems/max-area-of-island/
 # Author : foxfromworld
 # Date  : 26/05/2021
+# S attempt 
+
+class Solution:
+  def maxAreaOfIsland(self, grid):
+    """
+    :type grid: List[List[int]]
+    :rtype: int
+    """
+    visit = set()
+    area = 0
+    grid_row = len(grid)
+    grid_col = len(grid[0])
+    for row in range(grid_row):
+      for col in range(grid_col):
+        if grid[row][col] and not (row, col) in visit:
+          stack = [[row, col]]
+          visit.add((row, col))
+          island = 0
+          while stack:
+            r, c = stack.pop()
+            island += 1
+            for d_row, d_col in (r,c+1),(r,c-1),(r+1,c),(r-1,c):
+              if (0 <= d_row < grid_row and 0 <= d_col < grid_col 
+                and grid[d_row][d_col] and not (d_row, d_col) in visit):
+                stack.append([d_row, d_col])
+                visit.add((d_row, d_col))
+          area = max(area, island)
+    return area
+
+# Date  : 26/05/2021
 # First attempt 
 
 class Solution(object):
