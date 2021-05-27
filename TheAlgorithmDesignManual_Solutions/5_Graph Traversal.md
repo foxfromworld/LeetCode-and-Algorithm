@@ -52,11 +52,14 @@ Definition of the bipartite graph: https://en.wikipedia.org/wiki/Bipartite_graph
 
 <h4>5-7.</h4> 
 
+```python
     4
    / \
   2   6
  / \ / \
 1  3 5  7
+```
+
 
 preorder: 4213657
 
