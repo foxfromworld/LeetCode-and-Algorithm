@@ -52,6 +52,15 @@ Definition of the bipartite graph: https://en.wikipedia.org/wiki/Bipartite_graph
 
 <h4>5-7.</h4> 
 
+    4
+   / \
+  2   6
+ / \ / \
+1  3 5  7
+preorder: 4213657
+inorder: 1234567
+postorder: 1325764
+
 <h4>5-8.</h4> 
 
 
