@@ -126,7 +126,9 @@ Go throuh the edges and find the paired vertices and fill in the list.
 
 <h4>5-9.</h4> 
 
+Time complexity: O(n)
 
+https://www.geeksforgeeks.org/evaluation-of-expression-tree/
 
 <h4>5-10.</h4> 
 
