@@ -75,18 +75,10 @@ It is possible to reconstruct the tree using the pre-order and in-order traversa
 Not possible the pre-order and post-order traversals.
 
 <h4>5-8.</h4> 
-Ex:
-```python
-a — b
-|   |
-c — d
-```
 
-1. adjacency matrix -> weight matrix relateion between vertices
+adjacency matrix -> weight matrix relateion between vertices
 
 https://en.wikipedia.org/wiki/Adjacency_matrix
-
-Check each row from 
 
 adjacency list -> the set of neighbors
 
@@ -96,7 +88,44 @@ incidence matrix -> relation between vertices and edges (direction and connectio
 
 https://en.wikipedia.org/wiki/Incidence_matrix
 
+Ex:
+
+  a b c d
+  
+a 0 1 1 0
+
+b 1 0 0 1
+
+b 1 0 0 1
+
+c 0 1 1 0
+
+1. adjacency matrix to adjacency lists
+
+Check each row from a to d and find the value 1
+
+a: b, c; b: a, d: c: a, d; d: c, b
+
+2. adjacency list to an incidence matrix
+
+  e1 e2 e3 e4
+
+a  1  1  0  0 
+
+b  1  0  1  0
+
+c  0  1  0  1
+
+d  0  0  1  1
+
+Find the edges and fill the vertex in.
+
+3. incidence matrix to adjacency lists
+
+Go throuh the edges and find the paired vertices and fill in the list.
+
 <h4>5-9.</h4> 
+
 
 
 <h4>5-10.</h4> 
