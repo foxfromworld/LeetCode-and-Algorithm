@@ -76,10 +76,11 @@ Not possible the pre-order and post-order traversals.
 
 <h4>5-8.</h4> 
 Ex:
-
+```python
 a — b
 |   |
 c — d
+```
 
 1. adjacency matrix -> weight matrix relateion between vertices
 
