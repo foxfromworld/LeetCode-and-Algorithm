@@ -75,5 +75,29 @@ It is possible to reconstruct the tree using the pre-order and in-order traversa
 Not possible the pre-order and post-order traversals.
 
 <h4>5-8.</h4> 
+Ex:
+
+a — b
+|   |
+c — d
+
+1. adjacency matrix -> weight matrix relateion between vertices
+
+https://en.wikipedia.org/wiki/Adjacency_matrix
+
+Check each row from 
+
+adjacency list -> the set of neighbors
+
+https://en.wikipedia.org/wiki/Adjacency_list
+
+incidence matrix -> relation between vertices and edges (direction and connection)
+
+https://en.wikipedia.org/wiki/Incidence_matrix
+
+<h4>5-9.</h4> 
+
+
+<h4>5-10.</h4> 
 
 
