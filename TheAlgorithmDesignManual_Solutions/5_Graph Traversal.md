@@ -126,9 +126,28 @@ Go throuh the edges and find the paired vertices and fill in the list.
 
 <h4>5-9.</h4> 
 
-Time complexity: O(n)
+Time complexity: O(n) 
+
+Recursive
 
 https://www.geeksforgeeks.org/evaluation-of-expression-tree/
+
+```python
+class node:
+    def __init__(self, value):
+        self.left = None
+        self.data = value
+        self.right = None
+def eval_tree(node):
+    if not node: return 0
+    if not node.left and not node.right: return int(node.data)
+    left_num = eval_tree(node.left)
+    right_num = eval_tree(node.right)
+    if node.data == '+': return left_num + right_num
+    elif node.data == '-': return left_num - right_num
+    elif node.data == '*': return left_num * right_num
+    else: return left_num / right_num
+```
 
 <h4>5-10.</h4> 
 
