@@ -147,8 +147,34 @@ def eval_tree(node):
     elif node.data == '-': return left_num - right_num
     elif node.data == '*': return left_num * right_num
     else: return left_num / right_num
+    
+root = node('+')
+root.left = node('/')
+root.left.left = node('*')
+root.left.left.left = node('3')
+root.left.left.right = node('4')
+root.left.right = node('5')
+root.right = node('+')
+root.right.left = node('2')
+root.right.right = node('*')
+root.right.right.left = node('3')
+root.right.right.right = node('4')   
 ```
 
 <h4>5-10.</h4> 
 
+Same as 5-9
+
+```python
+root = node('+')
+root.left = node('+')
+root.left.left = node('2')
+root.right = node('/')
+root.left.right = root.right.left = node('*')
+root.right.right = node('5')
+root.left.right.left = node('3')
+root.left.right.right = node('4')
+```
+
+<h4>5-11.</h4> 
 
