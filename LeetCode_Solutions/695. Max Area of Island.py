@@ -1,7 +1,20 @@
 # Source : https://leetcode.com/problems/max-area-of-island/
 # Author : foxfromworld
+# Date  : 27/05/2021
+# Third attempt (recursive)
+
+class Solution:
+  def maxAreaOfIsland(self, grid):
+    visit = set()
+    def dfs(r, c):
+      if not (0 <= r < len(grid) and 0 <= c < len(grid[0]) and grid[r][c] and not (r, c) in visit):
+        return 0
+      visit.add((r, c))
+      return (1 + dfs(r+1, c) + dfs(r-1, c) + dfs(r, c+1) + dfs(r, c-1))
+    return max(dfs(row, col) for row in range(len(grid)) for col in range(len(grid[0])))
+
 # Date  : 26/05/2021
-# Second attempt 
+# Second attempt (iterative)
 
 class Solution:
   def maxAreaOfIsland(self, grid):
