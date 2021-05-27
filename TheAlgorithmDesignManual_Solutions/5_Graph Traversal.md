@@ -60,12 +60,19 @@ Definition of the bipartite graph: https://en.wikipedia.org/wiki/Bipartite_graph
 1  3 5  7
 ```
 
-
 preorder: 4213657
 
 inorder: 1234567
 
 postorder: 1325764
+
+It is possible to reconstruct the tree using the pre-order and in-order traversals of the binary tree.
+
+1. Use preorder to indentify the root node and find the left subtree and right subtree using the root node in the inorder traversal.
+
+2. Repeat 1
+
+Not possible the pre-order and post-order traversals.
 
 <h4>5-8.</h4> 
 
