@@ -43,6 +43,7 @@
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | Easy
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") | Easy
 | 690 | [Employee Importance](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/690.%20Employee%20Importance.py "link") | Easy
+| 695 | [Max Area of Island](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/695.%20Max%20Area%20of%20Island.py "link") | Medium
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") | Medium
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") | Easy
 | 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | Easy
@@ -134,6 +135,7 @@ Medium
 | 285 | [Inorder Successor in BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py "link") |
 | 450 | [Delete Node in a BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/450.%20Delete%20Node%20in%20a%20BST.py "link") |
+| 695 | [Max Area of Island](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/695.%20Max%20Area%20of%20Island.py "link") |
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") |
 | 1136 | [Parallel Courses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1136.%20Parallel%20Courses.py "link") |
 | 1631 | [Path With Minimum Effort](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1631.%20Path%20With%20Minimum%20Effort.py "link") |
