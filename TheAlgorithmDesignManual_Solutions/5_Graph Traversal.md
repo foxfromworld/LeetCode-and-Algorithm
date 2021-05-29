@@ -176,5 +176,11 @@ root.left.right.left = node('3')
 root.left.right.right = node('4')
 ```
 
-<h4>5-11.</h4> 
+<h4>5-31.</h4> 
+
+https://www.geeksforgeeks.org/difference-between-bfs-and-dfs/
+
+BFS: queue
+
+DFS: stack 
 
