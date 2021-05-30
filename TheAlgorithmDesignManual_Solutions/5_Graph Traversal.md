@@ -184,3 +184,6 @@ BFS: queue
 
 DFS: stack 
 
+<h4>5-32.</h4> 
+
+https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py
