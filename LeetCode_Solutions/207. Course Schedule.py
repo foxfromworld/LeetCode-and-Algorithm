@@ -1,6 +1,30 @@
 # Source : https://leetcode.com/problems/course-schedule/ (Similiar to 1136	Parallel Courses)
 # Author : foxfromworld
 # Date  : 06/06/2021
+# Third attempt (DFS)
+
+class Solution(object):
+  def canFinish(self, numCourses, prerequisites):
+    graph = {v:[] for v in range(numCourses)}
+    for ed, st in prerequisites:
+      graph[st].append(ed)
+    visit_status = {} # -1: visiting; False: visited
+    def isCyclic(node):
+      if node not in visit_status:
+        visit_status[node] = -1
+      else:
+        return visit_status[node]
+      for end_node in graph[node]:
+        if isCyclic(end_node):
+          return True
+      visit_status[node] = False
+      return False
+    for node in graph:
+      if isCyclic(node):
+        return False
+    return True
+
+# Date  : 06/06/2021
 # Second attempt (Topological Sort)
 
 class Solution(object):
