@@ -20,7 +20,7 @@ row2│  5  │  3  │  5  │
     └─────┴─────┴─────┘
 
 Min heap
-max_difference, x, y
+(max_difference, x, y)
 
 Initial
 ---------------------
