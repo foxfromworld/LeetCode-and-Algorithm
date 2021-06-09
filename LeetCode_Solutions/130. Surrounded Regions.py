@@ -19,7 +19,7 @@ class Solution(object):
         board[r][c] = '@'
         for dif_r, dif_c in (0, 1), (0, -1), (1, 0), (-1, 0):
           if 0 <= r+dif_r < row and 0 <= c+dif_c < col:
-            bfs(r+dif_r, c+dif_c)
+            queue.append((r+dif_r, c+dif_c))
     for rw in 0, row -1:
       for cl in range(col):
         if board[rw][cl] == 'O':
@@ -41,7 +41,7 @@ class Solution(object):
         if board[rw][cl] == '@':
           board[rw][cl] = 'O'
         elif board[rw][cl] == 'O':
-          board[rw][cl] = 'X'  
+          board[rw][cl] = 'X' 
 
 # Date  : 09/06/2021
 # Third attempt (bfs, stack as queue)
