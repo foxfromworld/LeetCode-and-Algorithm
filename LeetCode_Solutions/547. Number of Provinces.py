@@ -1,7 +1,7 @@
 # Source : https://leetcode.com/problems/number-of-provinces/
 # Author : foxfromworld
 # Date  : 13/06/2021
-# First attempt (BFS)
+# Second attempt (BFS)
 
 class Solution(object):
   def findCircleNum(self, isConnected):
