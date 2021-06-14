@@ -1,5 +1,27 @@
 # Source : https://leetcode.com/problems/number-of-provinces/
 # Author : foxfromworld
+# Date  : 14/06/2021
+# Second attempt (Union Find)
+
+class Solution(object):
+  def findCircleNum(self, isConnected):    
+    def find(i):
+      if parent[i] == -1:
+        return i
+      return find(parent[i])
+    def union(x, y): 
+      x = find(x)
+      y = find(y)
+      if x != y:
+        parent[x] = y
+    num = len(isConnected)
+    parent = [-1] * num
+    for i in range(num):
+      for j in range(num):
+        if isConnected[i][j] == 1 and i != j:
+          union(i, j)
+    return parent.count(-1)
+
 # Date  : 13/06/2021
 # Second attempt (BFS)
 
