@@ -22,6 +22,7 @@
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | Easy
 | 168 | [Excel Sheet Column Title](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/168.%20Excel%20Sheet%20Column%20Title.py "link") | Easy
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") | Easy
+| 200 | [Number of Islands](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/200.%20Number%20of%20Islands.py "link") | Medium
 | 205 | [Isomorphic Strings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/205.%20Isomorphic%20Strings.py "link") | Easy
 | 206 | [Reverse Linked List](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/206.%20Reverse%20Linked%20List.py "link") | Easy
 | 207 | [Course Schedule](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/207.%20Course%20Schedule.py "link") | Medium
@@ -138,6 +139,7 @@ Medium
 | 142 | [Linked List Cycle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/142.%20Linked%20List%20Cycle%20II.py "link") |
 | 151 | [Reverse Words in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/151.%20Reverse%20Words%20in%20a%20String.py "link") |
 | 207 | [Course Schedule](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/207.%20Course%20Schedule.py "link") | 
+| 200 | [Number of Islands](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/200.%20Number%20of%20Islands.py "link") | 
 | 215 | [Kth Largest Element in an Array](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.py "link") | 
 | 230 | [Kth Smallest Element in a BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py "link") | 
 | 238 | [Product of Array Except Self](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/238.%20Product%20of%20Array%20Except%20Self.py "link") |
