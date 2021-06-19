@@ -14,5 +14,5 @@ insert into Employee (Id, Salary) values ('3', '300');
 SELECT( 
     SELECT DISTINCT Salary 
     FROM Employee 
-    ORDER BY Salary DESC LIMIT 1,1
+    ORDER BY Salary DESC LIMIT 1,1 # return 1 row after skipping 1 row
 ) AS SecondHighestSalary
