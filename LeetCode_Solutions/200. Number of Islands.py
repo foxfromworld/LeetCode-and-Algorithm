@@ -22,19 +22,19 @@ class Solution(object):
           queue.append((rw, cl))
           while queue:
             r, c = queue.popleft()
-            if r >= 1 and grid[r-1][c] == '1':
-              queue.append((r-1, c))
-              grid[r-1][c] = '0'
-            if r < row-1 and grid[r+1][c] == '1':
-              queue.append((r+1, c))
-              grid[r+1][c] = '0'
-            if c >= 1 and grid[r][c-1] == '1':
-              queue.append((r, c-1)) 
-              grid[r][c-1] = '0'           
-            if c < col-1 and grid[r][c+1] == '1':
-              queue.append((r, c+1))
-              grid[r][c+1] = '0'
-    return count
+            if r + 1 < row and grid[r +1 ][c] == '1':
+              grid[r + 1][c] = '0'  
+              queue.append((r + 1, c))          
+            if r - 1 >= 0 and grid[r - 1][c] == '1':
+              grid[r - 1][c] = '0'
+              queue.append((r - 1, c))
+            if c - 1 >= 0 and grid[r][c - 1] == '1':
+              grid[r][c - 1] = '0'  
+              queue.append((r, c-1))          
+            if c + 1 < col and grid[r][c + 1] == '1':
+              grid[r][c + 1] = '0'              
+              queue.append((r, c + 1))
+    return count 
 
 # Date  : 22/06/2021
 # Fourth attempt (BFS)
