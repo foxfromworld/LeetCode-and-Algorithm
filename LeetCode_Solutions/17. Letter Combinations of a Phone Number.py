@@ -1,7 +1,7 @@
 # Source : https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 # Author : foxfromworld
 # Date  : 16/06/2021
-# F attempt
+# First attempt
 
 class Solution(object):
     def letterCombinations(self, digits):
