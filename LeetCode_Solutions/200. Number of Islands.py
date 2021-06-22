@@ -1,5 +1,33 @@
 # Source : https://leetcode.com/problems/number-of-islands/
 # Author : foxfromworld
+# Date  : 22/06/2021
+# Third attempt
+
+class Solution(object):
+  def numIslands(self, grid):
+    """
+    :type grid: List[List[str]]
+    :rtype: int
+    """
+    if not grid: return 0
+    row, col = len(grid), len(grid[0])
+    visit = set()
+    count = 0
+    for rw in range(row):
+      for cl in range(col):
+        if (rw, cl) not in visit and grid[rw][cl] == '1':
+          count += 1
+          from collections import deque
+          queue = deque([(rw, cl)])
+          visit.add((rw, cl))
+          while queue:
+            r, c = queue.popleft()
+            for adj_r, adj_c in (r+1, c), (r-1, c), (r, c+1), (r, c-1):
+              if 0 <= adj_r < row and 0 <= adj_c < col and grid[adj_r][adj_c] == '1' and (adj_r, adj_c) not in visit:
+                visit.add((adj_r, adj_c))
+                queue.append((adj_r, adj_c))
+    return count  
+
 # Date  : 19/06/2021
 # Second attempt
 
