@@ -1,5 +1,37 @@
 # Source : https://leetcode.com/problems/number-of-islands/
 # Author : foxfromworld
+# Date  : 24/06/2021
+# Sixth attempt (Union Find)
+
+class Solution(object):
+  def numIslands(self, grid):
+    """
+    :type grid: List[List[str]]
+    :rtype: int
+    """
+    if not grid: return 0
+    row, col = len(grid), len(grid[0])
+    parent = [i for i in range(row * col)]
+    self.count = sum(grid[r][c] == '1' for r in range(row) for c in range(col))
+    def findParent(i):
+      if parent[i] != i:
+        return findParent(parent[i])
+      return i
+    def union(prev, next):
+      prev, next = findParent(prev), findParent(next)
+      if prev == next: return
+      parent[prev] = next
+      self.count -= 1
+    for r in range(row):
+      for c in range(col):
+        if grid[r][c] == '0': continue
+        index = c + r * col
+        if c + 1 < col and grid[r][c + 1] == '1':
+          union(index, index + 1)
+        if r + 1 < row and grid[r + 1][c] == '1':
+          union(index, index + col)
+    return self.count
+
 # Date  : 22/06/2021
 # Fifth attempt (BFS)
 
