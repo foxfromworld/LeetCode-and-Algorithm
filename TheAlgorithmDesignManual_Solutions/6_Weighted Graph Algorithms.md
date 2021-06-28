@@ -8,6 +8,8 @@
 
 <h4>6-2.</h4> 
 
+In 6-1, path between the two vertices isn't always the shortest. For example, the path between G and H in G1 in (b). However, there is another way to link the tree. You can choose to link "D to G or R to G", or "G to I or G to J" because the weight of the path are the same.
+
 <h4>6-3.</h4> 
 
 <h4>6-4.</h4> 
