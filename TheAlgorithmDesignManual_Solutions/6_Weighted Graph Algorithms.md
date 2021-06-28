@@ -12,14 +12,15 @@ In 6-1, path between the two vertices isn't always the shortest. For example, th
 
 <h4>6-3.</h4> 
 
-For example. 
+For example, in the graph, "A—2—B—3—C—4—A", the minimum spanning tree has a total weight of 5 with edges {A,B},{B,C}; while in the full graph the minimum distance between A and C is 4.
 
- ┎ A ┓
- 
- C - B
 <h4>6-4.</h4> 
 
+If the weights of edges are unique, the result will be the same. If not, in Prim’s algorithm, you can choose a different edge with the same weight; while in Kruskal's algorithm, always the vertex with smaller number is selected first.
+
 <h4>6-5.</h4> 
+
+Yes. They can work with numerical weights.
 
 <h4>6-6.</h4> 
 
