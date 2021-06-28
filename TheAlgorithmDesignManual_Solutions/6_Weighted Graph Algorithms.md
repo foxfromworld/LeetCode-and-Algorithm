@@ -50,6 +50,8 @@ https://en.wikipedia.org/wiki/Feedback_arc_set
 
 <h4>6-11.</h4> 
 
+Use a min heap to keep the weight of edges. Extract one, mark the visited vertex, and add new edges...
+
 <h3>Union-Find</h3>
 
 <h4>6-12.</h4> 
