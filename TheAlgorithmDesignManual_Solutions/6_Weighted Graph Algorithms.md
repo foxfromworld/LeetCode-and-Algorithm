@@ -24,13 +24,25 @@ Yes. They can work with numerical weights.
 
 <h4>6-6.</h4> 
 
+Find the edge with the highest weight and replace it with the new one if the weight of the new one is lower than it.
+
 <h4>6-7.</h4> 
+
+(a) Yes. Because differences between weights are the same. If you sort all weights, they are still in the same order
+
+(b) No. For example, in the graph, "A—(-1)—B—(-1)—C—(-1)—A", the shortest path has a total weight of -2 with edges {A,B},{B,C}. If the weights are increased, like "A—(1)—B—(1)—C—(1)—A". The shortest path will be {A,C}.
 
 <h4>6-8.</h4> 
 
+
+
 <h4>6-9.</h4> 
 
+
+
 <h4>6-10.</h4> 
+
+
 
 <h4>6-11.</h4> 
 
