@@ -12,6 +12,11 @@ In 6-1, path between the two vertices isn't always the shortest. For example, th
 
 <h4>6-3.</h4> 
 
+For example. 
+
+ ┎ A ┓
+ 
+ C - B
 <h4>6-4.</h4> 
 
 <h4>6-5.</h4> 
