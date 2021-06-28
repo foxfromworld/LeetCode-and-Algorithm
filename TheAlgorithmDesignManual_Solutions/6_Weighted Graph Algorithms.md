@@ -34,15 +34,19 @@ Find the edge with the highest weight and replace it with the new one if the wei
 
 <h4>6-8.</h4> 
 
-
+Find the edge, e, with the largest weighted in the MST and set the non-MST edge value smaller than the e's weight.
 
 <h4>6-9.</h4> 
 
-
-
 <h4>6-10.</h4> 
 
+(a) Find the edge where the cycle exists and add the edge into the feedback-edge set.
 
+(b) Find the edge where the cycle exists and add the edge into the feedback-edge set (starts from the edge with the larger weight).
+
+https://algorist.com/problems/Feedback_Edge_Vertex_Set.html
+https://www.slideshare.net/AlexandreLewkowicz/slides-46398494
+https://en.wikipedia.org/wiki/Feedback_arc_set
 
 <h4>6-11.</h4> 
 
