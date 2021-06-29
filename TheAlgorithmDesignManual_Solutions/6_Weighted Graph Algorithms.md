@@ -70,7 +70,15 @@ https://en.wikipedia.org/wiki/Shortest_path_problem
 
 <h4>6-15.</h4> 
 
-<h4>6-16.</h4> 
+No. For example, in the graph, "A—(1)—B—(1)—C—(3)—A,C—(1)—D,B—(4)—D", the shortest path from A to D has a total weight of 3 with edges {A,B},{B,C},{C,D}. If the weights are increased by a constant number 9, like "A—(10)—B—(10)—C—(12)—A,C—(10)—D,B—(13)—D". The shortest path will be {A,C},{C,D} woth the total weight, 22.
+
+<h4>6-16.</h4>
+
+(a) "A—(1)—B, B—(1)—C, C—(3)—A, C—(1)—D, B—(4)—D"
+
+(b) "A→(11)→B, B→(11)→C, C←(13)←A, C→(11)→D, B→(14)→D"
+
+(c) Two paths are edge-disjoint if they have no edge in common.
 
 <h4>6-17.</h4> 
 
