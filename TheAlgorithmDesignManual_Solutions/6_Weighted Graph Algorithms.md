@@ -45,7 +45,9 @@ Find the edge, e, with the largest weighted in the MST and set the non-MST edge 
 (b) Find the edge where the cycle exists and add the edge into the feedback-edge set (starts from the edge with the larger weight).
 
 https://algorist.com/problems/Feedback_Edge_Vertex_Set.html
+
 https://www.slideshare.net/AlexandreLewkowicz/slides-46398494
+
 https://en.wikipedia.org/wiki/Feedback_arc_set
 
 <h4>6-11.</h4> 
@@ -63,6 +65,7 @@ Use a min heap to keep the weight of edges. Extract one, mark the visited vertex
 <h4>6-14.</h4> 
 
 http://mathcenter.oxford.emory.edu/site/cs171/dijkstrasShortestPathAlgorithm/
+
 https://en.wikipedia.org/wiki/Shortest_path_problem
 
 <h4>6-15.</h4> 
