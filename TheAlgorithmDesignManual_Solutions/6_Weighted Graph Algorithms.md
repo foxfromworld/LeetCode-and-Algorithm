@@ -62,6 +62,9 @@ Use a min heap to keep the weight of edges. Extract one, mark the visited vertex
 
 <h4>6-14.</h4> 
 
+http://mathcenter.oxford.emory.edu/site/cs171/dijkstrasShortestPathAlgorithm/
+https://en.wikipedia.org/wiki/Shortest_path_problem
+
 <h4>6-15.</h4> 
 
 <h4>6-16.</h4> 
