@@ -26,6 +26,7 @@
 | 205 | [Isomorphic Strings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/205.%20Isomorphic%20Strings.py "link") | Easy
 | 206 | [Reverse Linked List](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/206.%20Reverse%20Linked%20List.py "link") | Easy
 | 207 | [Course Schedule](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/207.%20Course%20Schedule.py "link") | Medium
+| 210 | [Course Schedule II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/210.%20Course%20Schedule%20II.py "link") | Medium
 | 215 | [Kth Largest Element in an Array](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.py "link") | Medium
 | 219 | [Contains Duplicate II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/219.%20Contains%20Duplicate%20II.py "link") | Easy
 | 226 | [Invert Binary Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/226.%20Invert%20Binary%20Tree.py "link") | Easy
@@ -142,8 +143,9 @@ Medium
 | 130 | [Surrounded Regions](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/130.%20Surrounded%20Regions.py "link") | 
 | 142 | [Linked List Cycle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/142.%20Linked%20List%20Cycle%20II.py "link") |
 | 151 | [Reverse Words in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/151.%20Reverse%20Words%20in%20a%20String.py "link") |
-| 207 | [Course Schedule](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/207.%20Course%20Schedule.py "link") | 
 | 200 | [Number of Islands](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/200.%20Number%20of%20Islands.py "link") | 
+| 207 | [Course Schedule](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/207.%20Course%20Schedule.py "link") | 
+| 210 | [Course Schedule II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/210.%20Course%20Schedule%20II.py "link") | 
 | 215 | [Kth Largest Element in an Array](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.py "link") | 
 | 230 | [Kth Smallest Element in a BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py "link") | 
 | 238 | [Product of Array Except Self](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/238.%20Product%20of%20Array%20Except%20Self.py "link") |
