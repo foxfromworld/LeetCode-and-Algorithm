@@ -1,5 +1,34 @@
 # Source : https://leetcode.com/problems/course-schedule-ii/
 # Author : foxfromworld
+# Date  : 14/07/2021
+# Third attempt (DFS)
+
+class Solution(object):
+  def findOrder(self, numCourses, prerequisites):
+    """
+    :type numCourses: int
+    :type prerequisites: List[List[int]]
+    :rtype: List[int]
+    """
+    graph = {i:[] for i in range(numCourses)}
+    visited = [0] * numCourses
+    stack = []
+    for end, start in prerequisites:
+      graph[start].append(end)
+    def dfs(node):
+      if visited[node] == -1: return False
+      elif visited[node] == 1: return True
+      visited[node] = -1
+      for end in graph[node]:
+        if not dfs(end):
+          return False
+      visited[node] = 1
+      stack.append(node)
+      return True
+    for node in range(numCourses):
+      if not dfs(node): return []
+    return stack[::-1]
+
 # Date  : 13/07/2021
 # Second attempt (BFS)
 
@@ -10,7 +39,6 @@ class Solution(object):
     :type prerequisites: List[List[int]]
     :rtype: List[int]
     """
-    if numCourses == 1: return [0]
     graph = {i:[] for i in range(numCourses)}
     in_edge = {i:0 for i in range(numCourses)}
     queue = []
