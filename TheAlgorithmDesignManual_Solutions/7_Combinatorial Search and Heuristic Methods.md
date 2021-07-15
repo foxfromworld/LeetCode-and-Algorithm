@@ -28,7 +28,7 @@ https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Soluti
 
 <h4>7-5.</h4> 
 
-
+Find the subgraph and do as 7-3.
 
 <h4>7-6.</h4> 
 
