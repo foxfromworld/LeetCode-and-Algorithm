@@ -52,6 +52,7 @@
 | 504 | [Base 7](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/504.%20Base%207.py "link") | Easy
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | Medium
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | Easy
+| 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") | Easy
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") | Easy
 | 634 | [Find the Derangement of An Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/634.%20Find%20the%20Derangement%20of%20An%20Array.py "link") | Medium
 | 690 | [Employee Importance](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/690.%20Employee%20Importance.py "link") | Easy
@@ -118,6 +119,7 @@ Easy
 | 501 | [Find Mode in Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py "link") |
 | 504 | [Base 7](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/504.%20Base%207.py "link") |
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | 
+| 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") |
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") |
 | 690 | [Employee Importance](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/690.%20Employee%20Importance.py "link") | 
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") |
