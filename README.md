@@ -79,6 +79,7 @@
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | Easy
 | 1423 | [Maximum Points You Can Obtain from Cards](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py "link") | Medium
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py "link") | Medium
+| 1525 | [Number of Good Ways to Split a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.md "link") | Medium
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py "link") | Easy
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592.%20Rearrange%20Spaces%20Between%20Words.py "link") | Easy
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | Easy
@@ -176,6 +177,7 @@ Medium
 | 1162 | [As Far from Land as Possible](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.py "link") | 
 | 1423 | [Maximum Points You Can Obtain from Cards](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py "link") | 
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py "link") | 
+| 1525 | [Number of Good Ways to Split a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.md "link") | 
 | 1631 | [Path With Minimum Effort](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1631.%20Path%20With%20Minimum%20Effort.py "link") |
 
 Hard
