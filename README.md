@@ -60,9 +60,11 @@
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") | Medium
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") | Easy
 | 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | Easy
+| 735 | [Asteroid Collision](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/735.%20Asteroid%20Collision.md "link") | Medium
 | 788 | [Rotated Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/788.%20Rotated%20Digits.py "link") | Easy
 | 836 | [Rectangle Overlap](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/836.%20Rectangle%20Overlap.py "link") | Easy
 | 843 | [Guess the Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/843.%20Guess%20the%20Word.py "link") | Hard
+| 853 | [Car Fleet](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/853.%20Car%20Fleet.md "link") | Medium
 | 876 | [Middle of the Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/876.%20Middle%20of%20the%20Linked%20List.py "link") | Easy
 | 929 | [Unique Email Addresses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/929.%20Unique%20Email%20Addresses.py "link") | Easy
 | 937 | [Reorder Data in Log Files](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/937.%20Reorder%20Data%20in%20Log%20Files.py "link") | Easy
@@ -172,6 +174,8 @@ Medium
 | 634 | [Find the Derangement of An Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/634.%20Find%20the%20Derangement%20of%20An%20Array.py "link") | 
 | 695 | [Max Area of Island](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/695.%20Max%20Area%20of%20Island.py "link") |
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") |
+| 735 | [Asteroid Collision](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/735.%20Asteroid%20Collision.md "link") | 
+| 853 | [Car Fleet](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/853.%20Car%20Fleet.md "link") | 
 | 1110 | [Delete Nodes And Return Forest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.py "link") |
 | 1136 | [Parallel Courses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1136.%20Parallel%20Courses.py "link") |
 | 1162 | [As Far from Land as Possible](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.py "link") | 
