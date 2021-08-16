@@ -39,6 +39,7 @@
 | 258 | [Add Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/258.%20Add%20Digits.py "link") | Easy
 | 270 | [Closest Binary Search Tree Value](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/270.%20Closest%20Binary%20Search%20Tree%20Value.py "link") | Easy
 | 285 | [Inorder Successor in BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") | Medium
+| 299 | [Bulls and Cows](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/299.%20Bulls%20and%20Cows.md "link") | Medium
 | 332 | [Reconstruct Itinerary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/332.%20Reconstruct%20Itinerary.py "link") | Medium
 | 345 | [Reverse Vowels of a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/345.%20Reverse%20Vowels%20of%20a%20String.py "link") | Easy
 | 346 | [Moving Average from Data Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/346.%20Moving%20Average%20from%20Data%20Stream.py "link") | Easy
@@ -166,6 +167,7 @@ Medium
 | 238 | [Product of Array Except Self](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/238.%20Product%20of%20Array%20Except%20Self.py "link") |
 | 253 | [Meeting Rooms II](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/253.%20Meeting%20Rooms%20II.py "link") |
 | 285 | [Inorder Successor in BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") |
+| 299 | [Bulls and Cows](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/299.%20Bulls%20and%20Cows.md "link") |
 | 332 | [Reconstruct Itinerary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/332.%20Reconstruct%20Itinerary.py "link") | 
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py "link") |
 | 399 | [Evaluate Division](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/399.%20Evaluate%20Division.py "link") | 
