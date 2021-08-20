@@ -142,6 +142,7 @@ Easy
 | 937 | [Reorder Data in Log Files](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/937.%20Reorder%20Data%20in%20Log%20Files.py "link") | 
 | 938 | [Range Sum of BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/938.%20Range%20Sum%20of%20BST.py "link") | 
 | 1021 | [Remove Outermost Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1021.%20Remove%20Outermost%20Parentheses.py "link") | 
+| 1048 | [Longest String Chain](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1048.%20Longest%20String%20Chain.md "link") |
 | 1086 | [High Five](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086.%20High%20Five.py "link") | 
 | 1114 | [Print in Order](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1114.%20Print%20in%20Order.py "link") |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py "link") | 
