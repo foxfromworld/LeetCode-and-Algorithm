@@ -48,6 +48,7 @@
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py "link") | Medium
 | 399 | [Evaluate Division](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/399.%20Evaluate%20Division.py "link") | Medium
 | 415 | [Add Strings](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/415.%20Add%20Strings.py "link") | Easy
+| 418 | [Sentence Screen Fitting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/418.%20Sentence%20Screen%20Fitting.md "link") | Medium
 | 450 | [Delete Node in a BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/450.%20Delete%20Node%20in%20a%20BST.py "link") | Medium
 | 501 | [Find Mode in Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py "link") | Easy
 | 504 | [Base 7](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/504.%20Base%207.py "link") | Easy
@@ -173,6 +174,7 @@ Medium
 | 332 | [Reconstruct Itinerary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/332.%20Reconstruct%20Itinerary.py "link") | 
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py "link") |
 | 399 | [Evaluate Division](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/399.%20Evaluate%20Division.py "link") | 
+| 418 | [Sentence Screen Fitting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/418.%20Sentence%20Screen%20Fitting.md "link") |
 | 450 | [Delete Node in a BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/450.%20Delete%20Node%20in%20a%20BST.py "link") |
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | 
 | 634 | [Find the Derangement of An Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/634.%20Find%20the%20Derangement%20of%20An%20Array.py "link") | 
