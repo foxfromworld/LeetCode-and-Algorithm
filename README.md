@@ -91,7 +91,7 @@
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | Easy
 | 1610 | [Maximum Number of Visible Points](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1610.%20Maximum%20Number%20of%20Visible%20Points.md "link") | Hard
 | 1631 | [Path With Minimum Effort](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1631.%20Path%20With%20Minimum%20Effort.py "link") | Medium
-
+| 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
 
 ***
 
@@ -198,3 +198,4 @@ Hard
 | --- | --- |
 | 843 | [Guess the Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/843.%20Guess%20the%20Word.py "link") | 
 | 1610 | [Maximum Number of Visible Points](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1610.%20Maximum%20Number%20of%20Visible%20Points.md "link") | 
+| 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | 
