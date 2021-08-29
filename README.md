@@ -47,6 +47,7 @@
 | 349 | [Intersection of Two Arrays](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/349.%20Intersection%20of%20Two%20Arrays.py "link") | Easy
 | 359 | [Logger Rate Limiter](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/359.%20Logger%20Rate%20Limiter.py "link") | Easy
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py "link") | Medium
+| 388 | [Longest Absolute File Path](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/388.%20Longest%20Absolute%20File%20Path.md "link") | Medium
 | 399 | [Evaluate Division](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/399.%20Evaluate%20Division.py "link") | Medium
 | 415 | [Add Strings](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/415.%20Add%20Strings.py "link") | Easy
 | 418 | [Sentence Screen Fitting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/418.%20Sentence%20Screen%20Fitting.md "link") | Medium
@@ -175,6 +176,7 @@ Medium
 | 332 | [Reconstruct Itinerary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/332.%20Reconstruct%20Itinerary.py "link") | 
 | 347 | [Top K Frequent Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/347.%20Top%20K%20Frequent%20Elements.md "link") |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py "link") |
+| 388 | [Longest Absolute File Path](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/388.%20Longest%20Absolute%20File%20Path.md "link") |
 | 399 | [Evaluate Division](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/399.%20Evaluate%20Division.py "link") | 
 | 418 | [Sentence Screen Fitting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/418.%20Sentence%20Screen%20Fitting.md "link") |
 | 450 | [Delete Node in a BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/450.%20Delete%20Node%20in%20a%20BST.py "link") |
