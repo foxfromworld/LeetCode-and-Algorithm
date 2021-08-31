@@ -56,6 +56,7 @@
 | 504 | [Base 7](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/504.%20Base%207.py "link") | Easy
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | Medium
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | Easy
+| 531 | [Lonely Pixel I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/531.%20Lonely%20Pixel%20I.md "link") | Medium
 | 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") | Easy
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") | Easy
 | 634 | [Find the Derangement of An Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/634.%20Find%20the%20Derangement%20of%20An%20Array.py "link") | Medium
@@ -180,6 +181,7 @@ Medium
 | 399 | [Evaluate Division](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/399.%20Evaluate%20Division.py "link") | 
 | 418 | [Sentence Screen Fitting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/418.%20Sentence%20Screen%20Fitting.md "link") |
 | 450 | [Delete Node in a BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/450.%20Delete%20Node%20in%20a%20BST.py "link") |
+| 531 | [Lonely Pixel I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/531.%20Lonely%20Pixel%20I.md "link") | 
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | 
 | 634 | [Find the Derangement of An Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/634.%20Find%20the%20Derangement%20of%20An%20Array.py "link") | 
 | 695 | [Max Area of Island](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/695.%20Max%20Area%20of%20Island.py "link") |
