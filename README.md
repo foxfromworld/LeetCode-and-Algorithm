@@ -59,8 +59,10 @@
 | 531 | [Lonely Pixel I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/531.%20Lonely%20Pixel%20I.md "link") | Medium
 | 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") | Easy
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") | Easy
+| 621 | [Task Scheduler](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/621.%20Task%20Scheduler.md "link") | Medium
 | 634 | [Find the Derangement of An Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/634.%20Find%20the%20Derangement%20of%20An%20Array.py "link") | Medium
 | 681 | [Next Closest Time](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/681.%20Next%20Closest%20Time.md "link") | Medium
+| 683 | [K Empty Slots](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/683.%20K%20Empty%20Slots.md "link") | Hard
 | 690 | [Employee Importance](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/690.%20Employee%20Importance.py "link") | Easy
 | 695 | [Max Area of Island](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/695.%20Max%20Area%20of%20Island.py "link") | Medium
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") | Medium
@@ -136,6 +138,7 @@ Easy
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | 
 | 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") |
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") |
+| 621 | [Task Scheduler](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/621.%20Task%20Scheduler.md "link") |
 | 690 | [Employee Importance](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/690.%20Employee%20Importance.py "link") | 
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") |
 | 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | 
@@ -204,6 +207,7 @@ Hard
 
 | #	| Title	|
 | --- | --- |
+| 683 | [K Empty Slots](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/683.%20K%20Empty%20Slots.md "link") |
 | 843 | [Guess the Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/843.%20Guess%20the%20Word.py "link") | 
 | 1610 | [Maximum Number of Visible Points](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1610.%20Maximum%20Number%20of%20Visible%20Points.md "link") | 
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | 
