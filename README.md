@@ -40,6 +40,7 @@
 | 270 | [Closest Binary Search Tree Value](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/270.%20Closest%20Binary%20Search%20Tree%20Value.py "link") | Easy
 | 285 | [Inorder Successor in BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/285.%20Inorder%20Successor%20in%20BST.py "link") | Medium
 | 299 | [Bulls and Cows](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/299.%20Bulls%20and%20Cows.md "link") | Medium
+| 308 | [Range Sum Query 2D - Mutable](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/308.%20Range%20Sum%20Query%202D%20-%20Mutable.md "link") | Hard
 | 332 | [Reconstruct Itinerary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/332.%20Reconstruct%20Itinerary.py "link") | Medium
 | 345 | [Reverse Vowels of a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/345.%20Reverse%20Vowels%20of%20a%20String.py "link") | Easy
 | 346 | [Moving Average from Data Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/346.%20Moving%20Average%20from%20Data%20Stream.py "link") | Easy
@@ -211,6 +212,7 @@ Hard
 
 | #	| Title	|
 | --- | --- |
+| 308 | [Range Sum Query 2D - Mutable](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/308.%20Range%20Sum%20Query%202D%20-%20Mutable.md "link") |
 | 683 | [K Empty Slots](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/683.%20K%20Empty%20Slots.md "link") |
 | 843 | [Guess the Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/843.%20Guess%20the%20Word.py "link") | 
 | 1610 | [Maximum Number of Visible Points](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1610.%20Maximum%20Number%20of%20Visible%20Points.md "link") | 
