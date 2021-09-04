@@ -65,6 +65,7 @@
 | 634 | [Find the Derangement of An Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/634.%20Find%20the%20Derangement%20of%20An%20Array.py "link") | Medium
 | 681 | [Next Closest Time](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/681.%20Next%20Closest%20Time.md "link") | Medium
 | 683 | [K Empty Slots](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/683.%20K%20Empty%20Slots.md "link") | Hard
+| 686 | [Repeated String Match](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/686.%20Repeated%20String%20Match.md "link") | Medium
 | 690 | [Employee Importance](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/690.%20Employee%20Importance.py "link") | Easy
 | 695 | [Max Area of Island](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/695.%20Max%20Area%20of%20Island.py "link") | Medium
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") | Medium
@@ -194,6 +195,7 @@ Medium
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | 
 | 634 | [Find the Derangement of An Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/634.%20Find%20the%20Derangement%20of%20An%20Array.py "link") | 
 | 681 | [Next Closest Time](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/681.%20Next%20Closest%20Time.md "link") |
+| 686 | [Repeated String Match](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/686.%20Repeated%20String%20Match.md "link") |
 | 695 | [Max Area of Island](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/695.%20Max%20Area%20of%20Island.py "link") |
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") |
 | 735 | [Asteroid Collision](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/735.%20Asteroid%20Collision.md "link") | 
