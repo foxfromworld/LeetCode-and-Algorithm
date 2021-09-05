@@ -85,6 +85,7 @@
 | 1007 | [Minimum Domino Rotations For Equal Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md "link") | Medium
 | 1021 | [Remove Outermost Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1021.%20Remove%20Outermost%20Parentheses.py "link") | Easy
 | 1048 | [Longest String Chain](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1048.%20Longest%20String%20Chain.md "link") | Medium
+| 1057 | [Campus Bikes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1057.%20Campus%20Bikes.md "link") | Medium
 | 1086 | [High Five](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086.%20High%20Five.py "link") | Easy
 | 1110 | [Delete Nodes And Return Forest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.py "link") | Medium
 | 1114 | [Print in Order](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1114.%20Print%20in%20Order.py "link") | Easy
@@ -204,6 +205,7 @@ Medium
 | 904 | [Fruit Into Baskets](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/904.%20Fruit%20Into%20Baskets.md "link") |
 | 1007 | [Minimum Domino Rotations For Equal Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md "link") |
 | 1048 | [Longest String Chain](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1048.%20Longest%20String%20Chain.md "link") |
+| 1057 | [Campus Bikes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1057.%20Campus%20Bikes.md "link") |
 | 1110 | [Delete Nodes And Return Forest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.py "link") |
 | 1136 | [Parallel Courses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1136.%20Parallel%20Courses.py "link") |
 | 1162 | [As Far from Land as Possible](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.py "link") | 
