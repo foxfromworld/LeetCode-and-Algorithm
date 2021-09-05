@@ -1,6 +1,18 @@
 # Source : https://leetcode.com/problems/length-of-last-word/
 # Author : foxfromworld
 # Date  : 05/09/2021
+# Third attempt 
+
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        words = s.split()
+        return len(words[-1])
+
+# Date  : 05/09/2021
 # Second attempt 
 
 class Solution(object):
