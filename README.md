@@ -98,6 +98,8 @@
 | 1136 | [Parallel Courses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1136.%20Parallel%20Courses.py "link") | Medium
 | 1162 | [As Far from Land as Possible](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.py "link") | Medium
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py "link") | Easy
+| 1189 | [Maximum Number of Balloons](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1189.%20Maximum%20Number%20of%20Balloons.md
+ "link") | Easy
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py "link") | Easy
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.py "link") | Easy
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | Easy
@@ -166,6 +168,8 @@ Easy
 | 938 | [Range Sum of BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/938.%20Range%20Sum%20of%20BST.py "link") | 
 | 1021 | [Remove Outermost Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1021.%20Remove%20Outermost%20Parentheses.py "link") | 
 | 1086 | [High Five](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086.%20High%20Five.py "link") | 
+| 1189 | [Maximum Number of Balloons](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1189.%20Maximum%20Number%20of%20Balloons.md
+ "link") | 
 | 1114 | [Print in Order](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1114.%20Print%20in%20Order.py "link") |
 | 1119 | [Remove Vowels from a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1119.%20Remove%20Vowels%20from%20a%20String.md "link") | 
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py "link") | 
