@@ -26,6 +26,7 @@
 | 151 | [Reverse Words in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/151.%20Reverse%20Words%20in%20a%20String.py "link") |  Medium
 | 157 | [Read N Characters Given Read4](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/157.%20Read%20N%20Characters%20Given%20Read4.py "link") | Easy
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | Easy
+| 167 | [Two Sum II - Input array is sorted](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md "link") | Easy
 | 168 | [Excel Sheet Column Title](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/168.%20Excel%20Sheet%20Column%20Title.py "link") | Easy
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") | Easy
 | 200 | [Number of Islands](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/200.%20Number%20of%20Islands.py "link") | Medium
@@ -141,6 +142,7 @@ Easy
 | 141 | [Linked List Cycle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/141.%20Linked%20List%20Cycle.py "link") |
 | 157 | [Read N Characters Given Read4](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/157.%20Read%20N%20Characters%20Given%20Read4.py "link") | 
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | 
+| 167 | [Two Sum II - Input array is sorted](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md "link") | 
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") |
 | 168 | [Excel Sheet Column Title](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/168.%20Excel%20Sheet%20Column%20Title.py "link") | 
 | 205 | [Isomorphic Strings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/205.%20Isomorphic%20Strings.py "link") | 
