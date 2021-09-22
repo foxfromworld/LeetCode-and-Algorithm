@@ -1,7 +1,9 @@
-# Source : https://leetcode.com/problems/two-sum/
-# Author : foxfromworld
-# Date  : 21/09/2021
-# First attempt
+/**
+* Source : https://leetcode.com/problems/two-sum/
+* Author : foxfromworld
+* Date  : 22/09/2021
+* First attempt
+*/
 
 /**
  * @param {number[]} nums
