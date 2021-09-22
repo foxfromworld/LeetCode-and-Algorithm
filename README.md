@@ -4,6 +4,7 @@
 
 | #	| Title	| Difficulty |
 | --- | --- | --- |
+| 1 | [Two Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1.%20Two%20Sum.md "link") | Easy
 | 9 | [Palindrome Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/9.%20Palindrome%20Number.md "link") | Easy
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | Medium
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | Easy
@@ -128,6 +129,7 @@ Easy
 
 | #	| Title	|
 | --- | --- |
+| 1 | [Two Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1.%20Two%20Sum.md "link") |
 | 9 | [Palindrome Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/9.%20Palindrome%20Number.md "link") | Easy
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | 
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | 
