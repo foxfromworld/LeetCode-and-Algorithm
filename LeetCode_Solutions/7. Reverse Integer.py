@@ -1,8 +1,23 @@
 ```python
 # Source : https://leetcode.com/problems/reverse-integer/
-# Author : foxfrom
+# Author : foxfromworld
 # Date  : 26/09/2021
-# Second attemptworld
+# Fourth attempt
+
+class Solution:
+  def reverse(self, x: int) -> int:
+    if x < 0: 
+        isNegative = True
+    else:
+        isNegative = False
+    x = str(abs(x))
+    ret = int(x[::-1])
+    if isNegative: 
+        ret = 0 - ret
+    return ret if ret <= 2147483647 and ret > -2147483648 else 0  
+
+# Date  : 26/09/2021
+# Third attempt
 
 class Solution:
   def reverse(self, x: int) -> int:
