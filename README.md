@@ -126,6 +126,9 @@
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") | Easy
 
+| 2016 | [Maximum Difference Between Increasing Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py "link") | Easy
+
+
 ***
 
 <h3>LeetCode Problems (Categorized by Difficulty)</h3>
@@ -201,6 +204,7 @@ Easy
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592.%20Rearrange%20Spaces%20Between%20Words.py "link") | 
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | 
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") |
+| 2016 | [Maximum Difference Between Increasing Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py "link") |
 
 Medium
 
