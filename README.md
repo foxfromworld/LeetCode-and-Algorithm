@@ -125,6 +125,7 @@
 | 1631 | [Path With Minimum Effort](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1631.%20Path%20With%20Minimum%20Effort.py "link") | Medium
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") | Easy
+| 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") | Easy
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") | Easy
 | 2011 | [Final Value of Variable After Performing Operations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py  "link") | Easy
 | 2016 | [Maximum Difference Between Increasing Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py "link") | Easy
@@ -205,6 +206,7 @@ Easy
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592.%20Rearrange%20Spaces%20Between%20Words.py "link") | 
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | 
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") |
+| 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") |
 | 2011 | [Final Value of Variable After Performing Operations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py  "link") |
 | 2016 | [Maximum Difference Between Increasing Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py "link") |
