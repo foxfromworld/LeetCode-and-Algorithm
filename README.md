@@ -8,6 +8,7 @@
 | 2 | [Add Two Numbers](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2.%20Add%20Two%20Numbers.md "link") | Medium
 | 7 | [Reverse Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/7.%20Reverse%20Integer.py "link") | Easy
 | 9 | [Palindrome Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/9.%20Palindrome%20Number.md "link") | Easy
+| 13 | [Roman to Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/13.%20Roman%20to%20Integer.py "link") | Easy
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | Medium
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | Easy
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
@@ -31,6 +32,7 @@
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | Easy
 | 167 | [Two Sum II - Input array is sorted](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md "link") | Easy
 | 168 | [Excel Sheet Column Title](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/168.%20Excel%20Sheet%20Column%20Title.py "link") | Easy
+| 170 | [Two Sum III - Data structure design](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/170.%20Two%20Sum%20III%20-%20Data%20structure%20design.py "link") | Easy
 | 171 | [Excel Sheet Column Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/171.%20Excel%20Sheet%20Column%20Number.md "link") | Easy
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") | Easy
 | 200 | [Number of Islands](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/200.%20Number%20of%20Islands.py "link") | Medium
@@ -141,7 +143,8 @@ Easy
 | --- | --- |
 | 1 | [Two Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1.%20Two%20Sum.md "link") |
 | 7 | [Reverse Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/7.%20Reverse%20Integer.py "link") |
-| 9 | [Palindrome Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/9.%20Palindrome%20Number.md "link") | Easy
+| 9 | [Palindrome Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/9.%20Palindrome%20Number.md "link") | 
+| 13 | [Roman to Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/13.%20Roman%20to%20Integer.py "link") |
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | 
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | 
 | 67 | [Add Binary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/67.%20Add%20Binary.md "link") | 
@@ -156,6 +159,7 @@ Easy
 | 157 | [Read N Characters Given Read4](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/157.%20Read%20N%20Characters%20Given%20Read4.py "link") | 
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | 
 | 167 | [Two Sum II - Input array is sorted](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md "link") | 
+| 170 | [Two Sum III - Data structure design](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/170.%20Two%20Sum%20III%20-%20Data%20structure%20design.py "link") |
 | 171 | [Excel Sheet Column Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/171.%20Excel%20Sheet%20Column%20Number.md "link") | 
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") |
 | 168 | [Excel Sheet Column Title](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/168.%20Excel%20Sheet%20Column%20Title.py "link") | 
