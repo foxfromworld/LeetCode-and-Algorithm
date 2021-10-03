@@ -6,6 +6,7 @@
 | --- | --- | --- |
 | 1 | [Two Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1.%20Two%20Sum.md "link") | Easy
 | 2 | [Add Two Numbers](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2.%20Add%20Two%20Numbers.md "link") | Medium
+| 3 | [Longest Substring Without Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py "link") | Medium
 | 7 | [Reverse Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/7.%20Reverse%20Integer.py "link") | Easy
 | 9 | [Palindrome Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/9.%20Palindrome%20Number.md "link") | Easy
 | 13 | [Roman to Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/13.%20Roman%20to%20Integer.py "link") | Easy
@@ -220,6 +221,7 @@ Medium
 | #	| Title	|
 | --- | --- |
 | 2 | [Add Two Numbers](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2.%20Add%20Two%20Numbers.md "link") | Medium
+| 3 | [Longest Substring Without Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py "link") |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | 
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | 
 | 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98.%20Validate%20Binary%20Search%20Tree.py "link") |
