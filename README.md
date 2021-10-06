@@ -13,6 +13,7 @@
 | 14 | [Longest Common Prefix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/14.%20Longest%20Common%20Prefix.py "link") | Easy
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | Medium
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | Easy
+| 21 | [Merge Two Sorted Lists](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/21.%20Merge%20Two%20Sorted%20Lists.py "link") | Easy
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | Medium
 | 67 | [Add Binary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/67.%20Add%20Binary.md "link") | Easy
@@ -149,6 +150,7 @@ Easy
 | 13 | [Roman to Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/13.%20Roman%20to%20Integer.py "link") |
 | 14 | [Longest Common Prefix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/14.%20Longest%20Common%20Prefix.py "link") |
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | 
+| 21 | [Merge Two Sorted Lists](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/21.%20Merge%20Two%20Sorted%20Lists.py "link") |
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | 
 | 67 | [Add Binary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/67.%20Add%20Binary.md "link") | 
 | 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | 
