@@ -17,6 +17,8 @@
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py "link") | Easy
 | 27 | [Remove Element](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/27.%20Remove%20Element.py "link") | Easy
 | 28 | [Implement strStr()](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/28.%20Implement%20strStr().py "link") | Easy
+| 35 | [Search Insert Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/35.%20Search%20Insert%20Position.py "link") | Easy
+| 53 | [Maximum Subarray](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/53.%20Maximum%20Subarray.py "link") | Easy
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | Medium
 | 67 | [Add Binary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/67.%20Add%20Binary.md "link") | Easy
@@ -157,6 +159,8 @@ Easy
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py "link") | 
 | 27 | [Remove Element](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/27.%20Remove%20Element.py "link") | 
 | 28 | [Implement strStr()](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/28.%20Implement%20strStr().py "link") | 
+| 35 | [Search Insert Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/35.%20Search%20Insert%20Position.py "link") |
+| 53 | [Maximum Subarray](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/53.%20Maximum%20Subarray.py "link") |
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | 
 | 67 | [Add Binary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/67.%20Add%20Binary.md "link") | 
 | 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | 
