@@ -21,6 +21,7 @@
 | 53 | [Maximum Subarray](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/53.%20Maximum%20Subarray.py "link") | Easy
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | Medium
+| 66 | [Plus One](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/66.%20Plus%20One.py "link") | Easy
 | 67 | [Add Binary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/67.%20Add%20Binary.md "link") | Easy
 | 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | Easy
 | 83 | [Remove Duplicates from Sorted List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md "link") | Easy
@@ -162,6 +163,7 @@ Easy
 | 35 | [Search Insert Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/35.%20Search%20Insert%20Position.py "link") |
 | 53 | [Maximum Subarray](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/53.%20Maximum%20Subarray.py "link") |
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | 
+| 66 | [Plus One](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/66.%20Plus%20One.py "link") | 
 | 67 | [Add Binary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/67.%20Add%20Binary.md "link") | 
 | 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | 
 | 83 | [Remove Duplicates from Sorted List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md "link") | 
