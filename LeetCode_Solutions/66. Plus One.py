@@ -1,6 +1,14 @@
 # Source : https://leetcode.com/problems/plus-one/
 # Author : foxfromworld
 # Date  : 10/10/2021
+# Second attempt 
+
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        a = str(int(''.join([str(digit) for digit in digits])) + 1)
+        return [int(digit) for digit in a]
+
+# Date  : 10/10/2021
 # First attempt 
 
 class Solution:
