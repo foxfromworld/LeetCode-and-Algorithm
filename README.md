@@ -26,6 +26,7 @@
 | 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | Easy
 | 70 | [Climbing Stairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/70.%20Climbing%20Stairs.py "link") | Easy
 | 83 | [Remove Duplicates from Sorted List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md "link") | Easy
+| 88 | [Merge Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/88.%20Merge%20Sorted%20Array.py "link") | Easy
 | 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98.%20Validate%20Binary%20Search%20Tree.py "link") | Medium
 | 100 | [Same Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/100.%20Same%20Tree.py "link") | Easy
 | 101 | [Symmetric Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/101.%20Symmetric%20Tree.py "link") | Easy
@@ -169,6 +170,7 @@ Easy
 | 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | 
 | 70 | [Climbing Stairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/70.%20Climbing%20Stairs.py "link") |
 | 83 | [Remove Duplicates from Sorted List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md "link") | 
+| 88 | [Merge Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/88.%20Merge%20Sorted%20Array.py "link") | 
 | 100 | [Same Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/100.%20Same%20Tree.py "link") | 
 | 101 | [Symmetric Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/101.%20Symmetric%20Tree.py "link") | 
 | 110 | [Balanced Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/110.%20Balanced%20Binary%20Tree.py "link") | 
