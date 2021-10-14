@@ -31,6 +31,7 @@
 | 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98.%20Validate%20Binary%20Search%20Tree.py "link") | Medium
 | 100 | [Same Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/100.%20Same%20Tree.py "link") | Easy
 | 101 | [Symmetric Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/101.%20Symmetric%20Tree.py "link") | Easy
+| 104 | [Maximum Depth of Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py "link") | Easy
 | 110 | [Balanced Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/110.%20Balanced%20Binary%20Tree.py "link") | Easy
 | 111 | [Minimum Depth of Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.md "link") | Easy
 | 114 | [Flatten Binary Tree to Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py "link") | Medium
@@ -175,6 +176,7 @@ Easy
 | 94 | [Binary Tree Inorder Traversal](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/94.%20Binary%20Tree%20Inorder%20Traversal.py "link") | 
 | 100 | [Same Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/100.%20Same%20Tree.py "link") | 
 | 101 | [Symmetric Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/101.%20Symmetric%20Tree.py "link") | 
+| 104 | [Maximum Depth of Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py "link") | 
 | 110 | [Balanced Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/110.%20Balanced%20Binary%20Tree.py "link") | 
 | 111 | [Minimum Depth of Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.md "link") | 
 | 119 | [Pascal's Triangle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/119.%20Pascal's%20Triangle%20II.md "link") | 
