@@ -1,6 +1,6 @@
 # Source : https://leetcode.com/problems/median-of-two-sorted-arrays/
 # Author : foxfromworld
-# Date  : 11/10/2021
+# Date  : 15/10/2021
 # Second attempt
 
 
