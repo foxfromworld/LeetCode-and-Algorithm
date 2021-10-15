@@ -36,6 +36,7 @@
 | 110 | [Balanced Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/110.%20Balanced%20Binary%20Tree.py "link") | Easy
 | 111 | [Minimum Depth of Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.md "link") | Easy
 | 114 | [Flatten Binary Tree to Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py "link") | Medium
+| 118 | [Pascal's Triangle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/118.%20Pascal's%20Triangle.py "link") | Easy
 | 119 | [Pascal's Triangle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/119.%20Pascal's%20Triangle%20II.md "link") | Easy
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md "link") | Medium
 | 130 | [Surrounded Regions](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/130.%20Surrounded%20Regions.py "link") | Medium
@@ -181,6 +182,7 @@ Easy
 | 108 | [Convert Sorted Array to Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py "link") |
 | 110 | [Balanced Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/110.%20Balanced%20Binary%20Tree.py "link") | 
 | 111 | [Minimum Depth of Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.md "link") | 
+| 118 | [Pascal's Triangle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/118.%20Pascal's%20Triangle.py "link") | 
 | 119 | [Pascal's Triangle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/119.%20Pascal's%20Triangle%20II.md "link") | 
 | 141 | [Linked List Cycle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/141.%20Linked%20List%20Cycle.py "link") |
 | 157 | [Read N Characters Given Read4](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/157.%20Read%20N%20Characters%20Given%20Read4.py "link") | 
