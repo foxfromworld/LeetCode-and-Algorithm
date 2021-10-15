@@ -1,7 +1,7 @@
 # Source : https://leetcode.com/problems/maximum-depth-of-binary-tree/
 # Author : foxfromworld
 # Date  : 14/10/2021
-# T attempt
+# Third attempt
 
 # Definition for a binary tree node.
 # class TreeNode:
