@@ -51,6 +51,7 @@
 | 170 | [Two Sum III - Data structure design](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/170.%20Two%20Sum%20III%20-%20Data%20structure%20design.py "link") | Easy
 | 171 | [Excel Sheet Column Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/171.%20Excel%20Sheet%20Column%20Number.md "link") | Easy
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") | Easy
+| 190 | [Reverse Bits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/190.%20Reverse%20Bits.py "link") | Easy
 | 200 | [Number of Islands](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/200.%20Number%20of%20Islands.py "link") | Medium
 | 205 | [Isomorphic Strings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/205.%20Isomorphic%20Strings.py "link") | Easy
 | 206 | [Reverse Linked List](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/206.%20Reverse%20Linked%20List.py "link") | Easy
@@ -193,6 +194,7 @@ Easy
 | 171 | [Excel Sheet Column Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/171.%20Excel%20Sheet%20Column%20Number.md "link") | 
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") |
 | 168 | [Excel Sheet Column Title](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/168.%20Excel%20Sheet%20Column%20Title.py "link") | 
+| 190 | [Reverse Bits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/190.%20Reverse%20Bits.py "link") | 
 | 205 | [Isomorphic Strings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/205.%20Isomorphic%20Strings.py "link") | 
 | 206 | [Reverse Linked List](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/206.%20Reverse%20Linked%20List.py "link") | 
 | 219 | [Contains Duplicate II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/219.%20Contains%20Duplicate%20II.py "link") | 
