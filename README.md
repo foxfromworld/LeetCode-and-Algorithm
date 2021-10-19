@@ -36,6 +36,7 @@
 | 108 | [Convert Sorted Array to Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py "link") | Easy
 | 110 | [Balanced Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/110.%20Balanced%20Binary%20Tree.py "link") | Easy
 | 111 | [Minimum Depth of Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.md "link") | Easy
+| 112 | [Path Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/112.%20Path%20Sum.py "link") | Easy
 | 114 | [Flatten Binary Tree to Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py "link") | Medium
 | 118 | [Pascal's Triangle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/118.%20Pascal's%20Triangle.py "link") | Easy
 | 119 | [Pascal's Triangle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/119.%20Pascal's%20Triangle%20II.md "link") | Easy
@@ -184,6 +185,7 @@ Easy
 | 108 | [Convert Sorted Array to Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py "link") |
 | 110 | [Balanced Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/110.%20Balanced%20Binary%20Tree.py "link") | 
 | 111 | [Minimum Depth of Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.md "link") | 
+| 112 | [Path Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/112.%20Path%20Sum.py "link") |
 | 118 | [Pascal's Triangle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/118.%20Pascal's%20Triangle.py "link") | 
 | 119 | [Pascal's Triangle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/119.%20Pascal's%20Triangle%20II.md "link") | 
 | 141 | [Linked List Cycle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/141.%20Linked%20List%20Cycle.py "link") |
