@@ -3,6 +3,14 @@
 # Date  : 18/10/2021
 # Second attempt
 
+class Solution:
+    def reverseBits(self, n: int) -> int:
+        ret = ''
+        while n:
+            ret += str(n & 1)
+            n >>= 1
+        ret += (32-len(ret)) * '0'
+        return int(ret, 2)
 
 # Date  : 18/10/2021
 # First attempt
