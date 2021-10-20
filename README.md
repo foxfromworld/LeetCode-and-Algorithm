@@ -25,6 +25,7 @@
 | 67 | [Add Binary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/67.%20Add%20Binary.md "link") | Easy
 | 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | Easy
 | 70 | [Climbing Stairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/70.%20Climbing%20Stairs.py "link") | Easy
+| 73 | [Set Matrix Zeroes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/73.%20Set%20Matrix%20Zeroes.py "link") | Medium
 | 74 | [Search a 2D Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/74.%20Search%20a%202D%20Matrix.py "link") | Medium
 | 83 | [Remove Duplicates from Sorted List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md "link") | Easy
 | 88 | [Merge Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/88.%20Merge%20Sorted%20Array.py "link") | Easy
@@ -259,6 +260,7 @@ Medium
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py "link") |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | 
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | 
+| 73 | [Set Matrix Zeroes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/73.%20Set%20Matrix%20Zeroes.py "link") |
 | 74 | [Search a 2D Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/74.%20Search%20a%202D%20Matrix.py "link") | 
 | 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98.%20Validate%20Binary%20Search%20Tree.py "link") |
 | 114 | [Flatten Binary Tree to Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py "link") | 
