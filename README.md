@@ -19,6 +19,7 @@
 | 28 | [Implement strStr()](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/28.%20Implement%20strStr().py "link") | Easy
 | 35 | [Search Insert Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/35.%20Search%20Insert%20Position.py "link") | Easy
 | 53 | [Maximum Subarray](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/53.%20Maximum%20Subarray.py "link") | Easy
+| 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") | Medium
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | Medium
 | 66 | [Plus One](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/66.%20Plus%20One.py "link") | Easy
@@ -260,6 +261,7 @@ Medium
 | 2 | [Add Two Numbers](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2.%20Add%20Two%20Numbers.md "link") | 
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py "link") |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | 
+| 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") |
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | 
 | 71 | [Simplify Path](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/71.%20Simplify%20Path.py "link") | 
 | 73 | [Set Matrix Zeroes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/73.%20Set%20Matrix%20Zeroes.py "link") |
