@@ -91,6 +91,7 @@
 | 418 | [Sentence Screen Fitting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/418.%20Sentence%20Screen%20Fitting.md "link") | Medium
 | 450 | [Delete Node in a BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/450.%20Delete%20Node%20in%20a%20BST.py "link") | Medium
 | 482 | [License Key Formatting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/482.%20License%20Key%20Formatting.md "link") | Easy
+| 500 | [Keyboard Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/500.%20Keyboard%20Row.py "link") | Easy
 | 501 | [Find Mode in Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py "link") | Easy
 | 504 | [Base 7](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/504.%20Base%207.py "link") | Easy
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | Medium
@@ -148,6 +149,7 @@
 | 1610 | [Maximum Number of Visible Points](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1610.%20Maximum%20Number%20of%20Visible%20Points.md "link") | Hard
 | 1631 | [Path With Minimum Effort](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1631.%20Path%20With%20Minimum%20Effort.py "link") | Medium
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
+| 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") | Easy
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") | Easy
 | 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") | Easy
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") | Easy
@@ -219,6 +221,7 @@ Easy
 | 359 | [Logger Rate Limiter](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/359.%20Logger%20Rate%20Limiter.py "link") | 
 | 415 | [Add Strings](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/415.%20Add%20Strings.py "link") | 
 | 482 | [License Key Formatting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/482.%20License%20Key%20Formatting.md "link") |
+| 500 | [Keyboard Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/500.%20Keyboard%20Row.py "link") |
 | 501 | [Find Mode in Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py "link") |
 | 504 | [Base 7](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/504.%20Base%207.py "link") |
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | 
@@ -248,6 +251,7 @@ Easy
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py "link") | 
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592.%20Rearrange%20Spaces%20Between%20Words.py "link") | 
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | 
+| 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") |
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") |
 | 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") |
