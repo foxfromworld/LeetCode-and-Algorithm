@@ -1,5 +1,7 @@
 # Source : https://leetcode.com/problems/sign-of-the-product-of-an-array/
 # Author : foxfromworld
+# Date  : 30/10/2021
+# Second attempt
 
 class Solution:
     def arraySign(self, nums: List[int]) -> int:
