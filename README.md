@@ -22,6 +22,7 @@
 | 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") | Medium
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | Medium
+| 62 | [Unique Paths](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/62.%20Unique%20Paths.py "link") | Medium
 | 66 | [Plus One](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/66.%20Plus%20One.py "link") | Easy
 | 67 | [Add Binary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/67.%20Add%20Binary.md "link") | Easy
 | 69 | [Sqrt(x)](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/69.%20Sqrt(x).py "link") | Easy
@@ -87,6 +88,9 @@
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py "link") | Medium
 | 388 | [Longest Absolute File Path](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/388.%20Longest%20Absolute%20File%20Path.md "link") | Medium
 | 399 | [Evaluate Division](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/399.%20Evaluate%20Division.py "link") | Medium
+| 404 | [Sum of Left Leaves](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/404.%20Sum%20of%20Left%20Leaves.py "link") | Easy
+| 408 | [Valid Word Abbreviation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/408.%20Valid%20Word%20Abbreviation.py "link") | Easy
+| 412 | [Fizz Buzz.py](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/412.%20Fizz%20Buzz.py "link") | Easy
 | 415 | [Add Strings](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/415.%20Add%20Strings.py "link") | Easy
 | 418 | [Sentence Screen Fitting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/418.%20Sentence%20Screen%20Fitting.md "link") | Medium
 | 450 | [Delete Node in a BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/450.%20Delete%20Node%20in%20a%20BST.py "link") | Medium
@@ -151,6 +155,7 @@
 | 1631 | [Path With Minimum Effort](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1631.%20Path%20With%20Minimum%20Effort.py "link") | Medium
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") | Easy
+| 1822 | [Sign of the Product of an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py "link") | Easy
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") | Easy
 | 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") | Easy
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") | Easy
@@ -220,6 +225,9 @@ Easy
 | 349 | [Intersection of Two Arrays](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/349.%20Intersection%20of%20Two%20Arrays.py "link") | 
 | 350 | [Intersection of Two Arrays II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/350.%20Intersection%20of%20Two%20Arrays%20II.md "link") |
 | 359 | [Logger Rate Limiter](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/359.%20Logger%20Rate%20Limiter.py "link") | 
+| 404 | [Sum of Left Leaves](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/404.%20Sum%20of%20Left%20Leaves.py "link") | 
+| 408 | [Valid Word Abbreviation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/408.%20Valid%20Word%20Abbreviation.py "link") | 
+| 412 | [Fizz Buzz.py](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/412.%20Fizz%20Buzz.py "link") | 
 | 415 | [Add Strings](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/415.%20Add%20Strings.py "link") | 
 | 482 | [License Key Formatting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/482.%20License%20Key%20Formatting.md "link") |
 | 500 | [Keyboard Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/500.%20Keyboard%20Row.py "link") |
@@ -254,6 +262,7 @@ Easy
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592.%20Rearrange%20Spaces%20Between%20Words.py "link") | 
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | 
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") |
+| 1822 | [Sign of the Product of an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py "link") |
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") |
 | 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") |
@@ -269,6 +278,7 @@ Medium
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | 
 | 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") |
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | 
+| 62 | [Unique Paths](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/62.%20Unique%20Paths.py "link") |
 | 71 | [Simplify Path](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/71.%20Simplify%20Path.py "link") | 
 | 73 | [Set Matrix Zeroes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/73.%20Set%20Matrix%20Zeroes.py "link") |
 | 74 | [Search a 2D Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/74.%20Search%20a%202D%20Matrix.py "link") | 
