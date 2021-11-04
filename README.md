@@ -160,6 +160,7 @@
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") | Easy
 | 1822 | [Sign of the Product of an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py "link") | Easy
+| 1844 | [Replace All Digits with Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1844.%20Replace%20All%20Digits%20with%20Characters.py "link") | Easy
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") | Easy
 | 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") | Easy
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") | Easy
@@ -271,6 +272,7 @@ Easy
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | 
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") |
 | 1822 | [Sign of the Product of an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py "link") |
+| 1844 | [Replace All Digits with Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1844.%20Replace%20All%20Digits%20with%20Characters.py "link") |
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") |
 | 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") |
