@@ -1,4 +1,4 @@
-# Source : https://leetcode.com/problems/number-of-days-in-a-month/submissions/
+# Source : https://leetcode.com/problems/number-of-days-in-a-month/
 # Author : foxfromworld
 # Date  : 08/11/2021
 # First attempt
