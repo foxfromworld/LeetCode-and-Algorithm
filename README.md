@@ -126,6 +126,7 @@
 | 836 | [Rectangle Overlap](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/836.%20Rectangle%20Overlap.py "link") | Easy
 | 843 | [Guess the Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/843.%20Guess%20the%20Word.py "link") | Hard
 | 848 | [Shifting Letters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/848.%20Shifting%20Letters.md "link") | Medium
+| 852| [Peak Index in a Mountain Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py "link") | Easy
 | 853 | [Car Fleet](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/853.%20Car%20Fleet.md "link") | Medium
 | 867 | [Transpose Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/867.%20Transpose%20Matrix.py "link") | Easy
 | 876 | [Middle of the Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/876.%20Middle%20of%20the%20Linked%20List.py "link") | Easy
@@ -164,6 +165,7 @@
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | Easy
 | 1610 | [Maximum Number of Visible Points](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1610.%20Maximum%20Number%20of%20Visible%20Points.md "link") | Hard
 | 1631 | [Path With Minimum Effort](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1631.%20Path%20With%20Minimum%20Effort.py "link") | Medium
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py "link") | Easy
 | 1732 | [Find the Highest Altitude](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1732.%20Find%20the%20Highest%20Altitude.py "link") | Easy
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") | Easy
@@ -263,6 +265,7 @@ Easy
 | 796 | [Rotate String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/796.%20Rotate%20String.py "link") |
 | 804 | [Unique Morse Code Words](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/804.%20Unique%20Morse%20Code%20Words.py "link") | 
 | 836 | [Rectangle Overlap](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/836.%20Rectangle%20Overlap.py "link") | 
+| 852| [Peak Index in a Mountain Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py "link") | Easy
 | 867 | [Transpose Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/867.%20Transpose%20Matrix.py "link") | 
 | 876 | [Middle of the Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/876.%20Middle%20of%20the%20Linked%20List.py "link") | 
 | 929 | [Unique Email Addresses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/929.%20Unique%20Email%20Addresses.py "link") | 
@@ -285,6 +288,7 @@ Easy
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py "link") | 
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592.%20Rearrange%20Spaces%20Between%20Words.py "link") | 
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | 
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py "link") | Easy
 | 1732 | [Find the Highest Altitude](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1732.%20Find%20the%20Highest%20Altitude.py "link") | 
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") |
 | 1812 | [Determine Color of a Chessboard Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py "link") | 
