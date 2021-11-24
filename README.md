@@ -117,6 +117,7 @@
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") | Medium
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") | Easy
 | 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | Easy
+| 724 | [Find Pivot Index](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/724.%20Find%20Pivot%20Index.py 'link') | Easy
 | 735 | [Asteroid Collision](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/735.%20Asteroid%20Collision.md "link") | Medium
 | 744 | [Find Smallest Letter Greater Than Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py "link") | Easy
 | 755 | [Pour Water](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/755.%20Pour%20Water.py "link") | Medium
@@ -124,6 +125,7 @@
 | 792 | [Number of Matching Subsequences](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/792.%20Number%20of%20Matching%20Subsequences.md "link") | Medium
 | 796 | [Rotate String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/796.%20Rotate%20String.py "link") | Easy
 | 804 | [Unique Morse Code Words](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/804.%20Unique%20Morse%20Code%20Words.py "link") | Easy
+| 821 | [Shortest Distance to a Character](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/821.%20Shortest%20Distance%20to%20a%20Character.py 'link') | Easy
 | 836 | [Rectangle Overlap](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/836.%20Rectangle%20Overlap.py "link") | Easy
 | 843 | [Guess the Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/843.%20Guess%20the%20Word.py "link") | Hard
 | 848 | [Shifting Letters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/848.%20Shifting%20Letters.md "link") | Medium
@@ -151,6 +153,7 @@
 | 1162 | [As Far from Land as Possible](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.py "link") | Medium
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py "link") | Easy
 | 1189 | [Maximum Number of Balloons](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1189.%20Maximum%20Number%20of%20Balloons.md  "link") | Easy
+| 1217 | [Minimum Cost to Move Chips to The Same Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.py 'link') | Easy
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py "link") | Easy
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.py "link") | Easy
 | 1344 | [Angle Between Hands of a Clock](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.py "link") | Medium
@@ -266,10 +269,12 @@ Easy
 | 696 | [Count Binary Substrings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/696.%20Count%20Binary%20Substrings.md "link") | 
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") |
 | 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | 
+| 724 | [Find Pivot Index](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/724.%20Find%20Pivot%20Index.py 'link') | Easy
 | 744 | [Find Smallest Letter Greater Than Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py "link") |
 | 788 | [Rotated Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/788.%20Rotated%20Digits.py "link") | 
 | 796 | [Rotate String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/796.%20Rotate%20String.py "link") |
 | 804 | [Unique Morse Code Words](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/804.%20Unique%20Morse%20Code%20Words.py "link") | 
+| 821 | [Shortest Distance to a Character](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/821.%20Shortest%20Distance%20to%20a%20Character.py 'link') | Easy
 | 836 | [Rectangle Overlap](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/836.%20Rectangle%20Overlap.py "link") | 
 | 852| [Peak Index in a Mountain Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py "link") | Easy
 | 860 | [Lemonade Change](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/860.%20Lemonade%20Change.py "link") | Easy
@@ -286,6 +291,7 @@ Easy
 | 1119 | [Remove Vowels from a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1119.%20Remove%20Vowels%20from%20a%20String.md "link") | 
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py "link") | 
 | 1189 | [Maximum Number of Balloons](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1189.%20Maximum%20Number%20of%20Balloons.md  "link") |
+| 1217 | [Minimum Cost to Move Chips to The Same Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.py 'link') | Easy
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py "link") | 
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.py "link") |
 | 1346 | [Check If N and Its Double Exist](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py "link") | 
