@@ -120,6 +120,7 @@
 | 724 | [Find Pivot Index](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/724.%20Find%20Pivot%20Index.py 'link') | Easy
 | 735 | [Asteroid Collision](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/735.%20Asteroid%20Collision.md "link") | Medium
 | 744 | [Find Smallest Letter Greater Than Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py "link") | Easy
+| 747 | [Largest Number At Least Twice of Others](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py "link") | Easy
 | 755 | [Pour Water](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/755.%20Pour%20Water.py "link") | Medium
 | 788 | [Rotated Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/788.%20Rotated%20Digits.py "link") | Easy
 | 792 | [Number of Matching Subsequences](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/792.%20Number%20of%20Matching%20Subsequences.md "link") | Medium
@@ -271,6 +272,7 @@ Easy
 | 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | 
 | 724 | [Find Pivot Index](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/724.%20Find%20Pivot%20Index.py 'link') | Easy
 | 744 | [Find Smallest Letter Greater Than Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py "link") |
+| 747 | [Largest Number At Least Twice of Others](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py "link") | 
 | 788 | [Rotated Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/788.%20Rotated%20Digits.py "link") | 
 | 796 | [Rotate String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/796.%20Rotate%20String.py "link") |
 | 804 | [Unique Morse Code Words](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/804.%20Unique%20Morse%20Code%20Words.py "link") | 
