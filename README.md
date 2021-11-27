@@ -67,6 +67,7 @@
 | 219 | [Contains Duplicate II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/219.%20Contains%20Duplicate%20II.py "link") | Easy
 | 226 | [Invert Binary Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/226.%20Invert%20Binary%20Tree.py "link") | Easy
 | 230 | [Kth Smallest Element in a BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py "link") | Medium
+| 231 | [Power of Two](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/231.%20Power%20of%20Two.py "link") | Easy
 | 238 | [Product of Array Except Self](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/238.%20Product%20of%20Array%20Except%20Self.py "link") | Medium
 | 242 | [Valid Anagram](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/242.%20Valid%20Anagram.py "link") | Easy
 | 246 | [Strobogrammatic Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/246.%20Strobogrammatic%20Number.py "link") | Easy
@@ -99,6 +100,7 @@
 | 500 | [Keyboard Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/500.%20Keyboard%20Row.py "link") | Easy
 | 501 | [Find Mode in Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py "link") | Easy
 | 504 | [Base 7](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/504.%20Base%207.py "link") | Easy
+| 506 | [Relative Ranks](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/506.%20Relative%20Ranks.py "link") | Easy
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | Easy
 | 531 | [Lonely Pixel I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/531.%20Lonely%20Pixel%20I.md "link") | Medium
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | Medium
@@ -240,6 +242,7 @@ Easy
 | 217 | [Contains Duplicate](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/217.%20Contains%20Duplicate.py "link") |
 | 219 | [Contains Duplicate II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/219.%20Contains%20Duplicate%20II.py "link") | 
 | 226 | [Invert Binary Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/226.%20Invert%20Binary%20Tree.py "link") |
+| 231 | [Power of Two](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/231.%20Power%20of%20Two.py "link") | 
 | 242 | [Valid Anagram](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/242.%20Valid%20Anagram.py "link") | 
 | 246 | [Strobogrammatic Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/246.%20Strobogrammatic%20Number.py "link") |
 | 252 | [Meeting Rooms](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/252.%20Meeting%20Rooms.md "link") |
@@ -260,6 +263,7 @@ Easy
 | 500 | [Keyboard Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/500.%20Keyboard%20Row.py "link") |
 | 501 | [Find Mode in Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py "link") |
 | 504 | [Base 7](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/504.%20Base%207.py "link") |
+| 506 | [Relative Ranks](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/506.%20Relative%20Ranks.py "link") | 
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | 
 | 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") |
 | 598 | [Range Addition II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/598.%20Range%20Addition%20II.py "link") |
