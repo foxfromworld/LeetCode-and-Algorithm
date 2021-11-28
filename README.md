@@ -162,6 +162,7 @@
 | 1344 | [Angle Between Hands of a Clock](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.py "link") | Medium
 | 1346 | [Check If N and Its Double Exist](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py "link") | Easy
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py "link") | Easy
+| 1394 | [Find Lucky Integer in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.py 'link') | Easy
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | Easy
 | 1423 | [Maximum Points You Can Obtain from Cards](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py "link") | Medium
 | 1448 | [Count Good Nodes in Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md "link") | Medium
@@ -302,6 +303,7 @@ Easy
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.py "link") |
 | 1346 | [Check If N and Its Double Exist](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py "link") | 
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py "link") |
+| 1394 | [Find Lucky Integer in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.py 'link') | 
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | 
 | 1464 | [Maximum Product of Two Elements in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py "link") | 
 | 1469 | [Find All The Lonely Nodes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1469.%20Find%20All%20The%20Lonely%20Nodes.py "link") | 
