@@ -190,6 +190,7 @@
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") | Easy
 | 2011 | [Final Value of Variable After Performing Operations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py  "link") | Easy
 | 2016 | [Maximum Difference Between Increasing Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py "link") | Easy
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py "link") | Easy
 
 
 ***
@@ -324,6 +325,8 @@ Easy
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") |
 | 2011 | [Final Value of Variable After Performing Operations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py  "link") |
 | 2016 | [Maximum Difference Between Increasing Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py "link") |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py "link") | 
+
 
 Medium
 
