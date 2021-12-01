@@ -169,6 +169,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py "link") | Easy
 | 1469 | [Find All The Lonely Nodes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1469.%20Find%20All%20The%20Lonely%20Nodes.py "link") | Easy
 | 1470 | [Shuffle the Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1470.%20Shuffle%20the%20Array.py "link") | Easy
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py 'link') | Easy
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py "link") | Medium
 | 1525 | [Number of Good Ways to Split a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.md "link") | Medium
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py "link") | Easy
@@ -179,6 +180,7 @@
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py "link") | Easy
 | 1732 | [Find the Highest Altitude](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1732.%20Find%20the%20Highest%20Altitude.py "link") | Easy
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
+| 1796 | [Second Largest Digit in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.py 'link') | Easy
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") | Easy
 | 1812 | [Determine Color of a Chessboard Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py "link") | Easy
 | 1822 | [Sign of the Product of an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py "link") | Easy
@@ -308,12 +310,14 @@ Easy
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | 
 | 1464 | [Maximum Product of Two Elements in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py "link") | 
 | 1469 | [Find All The Lonely Nodes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1469.%20Find%20All%20The%20Lonely%20Nodes.py "link") | 
-| 1470 | [Shuffle the Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1470.%20Shuffle%20the%20Array.py "link") | Easy
+| 1470 | [Shuffle the Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1470.%20Shuffle%20the%20Array.py "link") | 
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py 'link') | 
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py "link") | 
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592.%20Rearrange%20Spaces%20Between%20Words.py "link") | 
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | 
-| 1725 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py "link") | Easy
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py "link") |
 | 1732 | [Find the Highest Altitude](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1732.%20Find%20the%20Highest%20Altitude.py "link") | 
+| 1796 | [Second Largest Digit in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.py 'link') | 
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") |
 | 1812 | [Determine Color of a Chessboard Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py "link") | 
 | 1822 | [Sign of the Product of an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py "link") |
