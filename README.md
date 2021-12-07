@@ -109,6 +109,7 @@
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") | Easy
 | 621 | [Task Scheduler](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/621.%20Task%20Scheduler.md "link") | Medium
 | 634 | [Find the Derangement of An Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/634.%20Find%20the%20Derangement%20of%20An%20Array.py "link") | Medium
+| 674 | [Longest Continuous Increasing Subsequence](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.py "link") | Easy
 | 680 | [Valid Palindrome II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/680.%20Valid%20Palindrome%20II.md "link") | Easy
 | 681 | [Next Closest Time](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/681.%20Next%20Closest%20Time.md "link") | Medium
 | 683 | [K Empty Slots](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/683.%20K%20Empty%20Slots.md "link") | Hard
@@ -155,6 +156,7 @@
 | 1136 | [Parallel Courses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1136.%20Parallel%20Courses.py "link") | Medium
 | 1162 | [As Far from Land as Possible](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.py "link") | Medium
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py "link") | Easy
+| 1184 | [Distance Between Bus Stops](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1184.%20Distance%20Between%20Bus%20Stops.py "link") | Easy
 | 1189 | [Maximum Number of Balloons](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1189.%20Maximum%20Number%20of%20Balloons.md  "link") | Easy
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.py 'link') | Easy
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py "link") | Easy
@@ -162,6 +164,7 @@
 | 1344 | [Angle Between Hands of a Clock](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.py "link") | Medium
 | 1346 | [Check If N and Its Double Exist](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py "link") | Easy
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py "link") | Easy
+| 1356 | [Sort Integers by The Number of 1 Bits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py "link") | Easy
 | 1394 | [Find Lucky Integer in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.py 'link') | Easy
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | Easy
 | 1423 | [Maximum Points You Can Obtain from Cards](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py "link") | Medium
@@ -170,6 +173,7 @@
 | 1469 | [Find All The Lonely Nodes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1469.%20Find%20All%20The%20Lonely%20Nodes.py "link") | Easy
 | 1470 | [Shuffle the Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1470.%20Shuffle%20the%20Array.py "link") | Easy
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py 'link') | Easy
+| 1507 | [Reformat Date](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1507.%20Reformat%20Date.py "link") | Easy
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py "link") | Medium
 | 1525 | [Number of Good Ways to Split a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.md "link") | Medium
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py "link") | Easy
@@ -273,21 +277,22 @@ Easy
 | 598 | [Range Addition II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/598.%20Range%20Addition%20II.py "link") |
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") |
 | 621 | [Task Scheduler](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/621.%20Task%20Scheduler.md "link") |
+| 674 | [Longest Continuous Increasing Subsequence](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.py "link") | 
 | 680 | [Valid Palindrome II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/680.%20Valid%20Palindrome%20II.md "link") | 
 | 690 | [Employee Importance](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/690.%20Employee%20Importance.py "link") | 
 | 696 | [Count Binary Substrings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/696.%20Count%20Binary%20Substrings.md "link") | 
 | 703 | [Kth Largest Element in a Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py "link") |
 | 706 | [Design HashMap](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/706.%20Design%20HashMap.py "link") | 
-| 724 | [Find Pivot Index](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/724.%20Find%20Pivot%20Index.py 'link') | Easy
+| 724 | [Find Pivot Index](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/724.%20Find%20Pivot%20Index.py 'link') | 
 | 744 | [Find Smallest Letter Greater Than Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py "link") |
 | 747 | [Largest Number At Least Twice of Others](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py "link") | 
 | 788 | [Rotated Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/788.%20Rotated%20Digits.py "link") | 
 | 796 | [Rotate String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/796.%20Rotate%20String.py "link") |
 | 804 | [Unique Morse Code Words](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/804.%20Unique%20Morse%20Code%20Words.py "link") | 
-| 821 | [Shortest Distance to a Character](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/821.%20Shortest%20Distance%20to%20a%20Character.py 'link') | Easy
+| 821 | [Shortest Distance to a Character](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/821.%20Shortest%20Distance%20to%20a%20Character.py 'link') | 
 | 836 | [Rectangle Overlap](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/836.%20Rectangle%20Overlap.py "link") | 
 | 852| [Peak Index in a Mountain Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py "link") | Easy
-| 860 | [Lemonade Change](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/860.%20Lemonade%20Change.py "link") | Easy
+| 860 | [Lemonade Change](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/860.%20Lemonade%20Change.py "link") | 
 | 867 | [Transpose Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/867.%20Transpose%20Matrix.py "link") | 
 | 876 | [Middle of the Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/876.%20Middle%20of%20the%20Linked%20List.py "link") | 
 | 929 | [Unique Email Addresses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/929.%20Unique%20Email%20Addresses.py "link") | 
@@ -300,18 +305,21 @@ Easy
 | 1118 | [Number of Days in a Month](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1118.%20Number%20of%20Days%20in%20a%20Month.py "link") | 
 | 1119 | [Remove Vowels from a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1119.%20Remove%20Vowels%20from%20a%20String.md "link") | 
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py "link") | 
+| 1184 | [Distance Between Bus Stops](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1184.%20Distance%20Between%20Bus%20Stops.py "link") | E
 | 1189 | [Maximum Number of Balloons](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1189.%20Maximum%20Number%20of%20Balloons.md  "link") |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.py 'link') | Easy
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py "link") | 
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.py "link") |
 | 1346 | [Check If N and Its Double Exist](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py "link") | 
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py "link") |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py "link") | 
 | 1394 | [Find Lucky Integer in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.py 'link') | 
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | 
 | 1464 | [Maximum Product of Two Elements in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py "link") | 
 | 1469 | [Find All The Lonely Nodes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1469.%20Find%20All%20The%20Lonely%20Nodes.py "link") | 
 | 1470 | [Shuffle the Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1470.%20Shuffle%20the%20Array.py "link") | 
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py 'link') | 
+| 1507 | [Reformat Date](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1507.%20Reformat%20Date.py "link") | 
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py "link") | 
 | 1592 | [Rearrange Spaces Between Words](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1592.%20Rearrange%20Spaces%20Between%20Words.py "link") | 
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | 
