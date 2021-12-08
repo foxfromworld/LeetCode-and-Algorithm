@@ -144,6 +144,7 @@
 | 937 | [Reorder Data in Log Files](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/937.%20Reorder%20Data%20in%20Log%20Files.py "link") | Easy
 | 938 | [Range Sum of BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/938.%20Range%20Sum%20of%20BST.py "link") | Easy
 | 1002 | [Find Common Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1002.%20Find%20Common%20Characters.py "link") | Easy
+| 1005 | [Maximize Sum Of Array After K Negations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py 'link') | Easy
 | 1007 | [Minimum Domino Rotations For Equal Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md "link") | Medium
 | 1021 | [Remove Outermost Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1021.%20Remove%20Outermost%20Parentheses.py "link") | Easy
 | 1048 | [Longest String Chain](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1048.%20Longest%20String%20Chain.md "link") | Medium
@@ -183,6 +184,7 @@
 | 1631 | [Path With Minimum Effort](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1631.%20Path%20With%20Minimum%20Effort.py "link") | Medium
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py "link") | Easy
 | 1732 | [Find the Highest Altitude](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1732.%20Find%20the%20Highest%20Altitude.py "link") | Easy
+| 1768 | [Merge Strings Alternately](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1768.%20Merge%20Strings%20Alternately.py 'link') | Easy
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
 | 1796 | [Second Largest Digit in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.py 'link') | Easy
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") | Easy
@@ -299,6 +301,7 @@ Easy
 | 937 | [Reorder Data in Log Files](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/937.%20Reorder%20Data%20in%20Log%20Files.py "link") | 
 | 938 | [Range Sum of BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/938.%20Range%20Sum%20of%20BST.py "link") | 
 | 1002 | [Find Common Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1002.%20Find%20Common%20Characters.py "link") |
+| 1005 | [Maximize Sum Of Array After K Negations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py 'link') | 
 | 1021 | [Remove Outermost Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1021.%20Remove%20Outermost%20Parentheses.py "link") | 
 | 1086 | [High Five](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086.%20High%20Five.py "link") |  
 | 1114 | [Print in Order](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1114.%20Print%20in%20Order.py "link") |
@@ -325,6 +328,7 @@ Easy
 | 1603 | [Design Parking System](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1603.%20Design%20Parking%20System.py "link") | 
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py "link") |
 | 1732 | [Find the Highest Altitude](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1732.%20Find%20the%20Highest%20Altitude.py "link") | 
+| 1768 | [Merge Strings Alternately](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1768.%20Merge%20Strings%20Alternately.py 'link') | 
 | 1796 | [Second Largest Digit in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.py 'link') | 
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") |
 | 1812 | [Determine Color of a Chessboard Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py "link") | 
