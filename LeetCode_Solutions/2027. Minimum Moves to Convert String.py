@@ -1,6 +1,6 @@
 # Source : https://leetcode.com/problems/minimum-moves-to-convert-string/
 # Author : foxfromworld
-# Date  : 11/12/2021
+# Date  : 10/12/2021
 # First attempt
 
 class Solution:
