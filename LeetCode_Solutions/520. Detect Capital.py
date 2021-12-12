@@ -1,6 +1,13 @@
 # Source : https://leetcode.com/problems/detect-capital/
 # Author : foxfromworld
 # Date  : 12/12/2021
+# Second attempt
+
+class Solution:
+    def detectCapitalUse(self, word: str) -> bool:
+        return word.isupper() or word.islower() or (word[0].isupper() and word[1:].islower())
+
+# Date  : 12/12/2021
 # First attempt
 
 class Solution:
