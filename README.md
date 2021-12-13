@@ -102,6 +102,7 @@
 | 504 | [Base 7](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/504.%20Base%207.py "link") | Easy
 | 506 | [Relative Ranks](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/506.%20Relative%20Ranks.py "link") | Easy
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | Easy
+| 520 | [Detect Capital](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/520.%20Detect%20Capital.py 'link') | Easy
 | 531 | [Lonely Pixel I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/531.%20Lonely%20Pixel%20I.md "link") | Medium
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | Medium
 | 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") | Easy
@@ -173,6 +174,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py "link") | Easy
 | 1469 | [Find All The Lonely Nodes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1469.%20Find%20All%20The%20Lonely%20Nodes.py "link") | Easy
 | 1470 | [Shuffle the Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1470.%20Shuffle%20the%20Array.py "link") | Easy
+| 1475 | [Final Prices With a Special Discount in a Shop](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py 'link') | Easy
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py 'link') | Easy
 | 1507 | [Reformat Date](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1507.%20Reformat%20Date.py "link") | Easy
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py "link") | Medium
@@ -191,6 +193,8 @@
 | 1812 | [Determine Color of a Chessboard Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py "link") | Easy
 | 1822 | [Sign of the Product of an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py "link") | Easy
 | 1844 | [Replace All Digits with Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1844.%20Replace%20All%20Digits%20with%20Characters.py "link") | Easy
+| 1876 | [Substrings of Size Three with Distinct Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py 'link') | Easy
+| 1893 | [Check if All the Integers in a Range Are Covered](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py 'link') | Easy
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") | Easy
 | 1945 | [Sum of Digits of String After Convert](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py "link") | Easy
 | 1961 | [Check If String Is a Prefix of Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py "link") | Easy
@@ -198,6 +202,7 @@
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") | Easy
 | 2011 | [Final Value of Variable After Performing Operations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py  "link") | Easy
 | 2016 | [Maximum Difference Between Increasing Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py "link") | Easy
+| 2027 | [Minimum Moves to Convert String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2027.%20Minimum%20Moves%20to%20Convert%20String.py 'link') | Easy
 | 2042 | [Check if Numbers Are Ascending in a Sentence](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py "link") | Easy
 
 
@@ -275,6 +280,7 @@ Easy
 | 504 | [Base 7](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/504.%20Base%207.py "link") |
 | 506 | [Relative Ranks](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/506.%20Relative%20Ranks.py "link") | 
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | 
+| 520 | [Detect Capital](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/520.%20Detect%20Capital.py 'link') | 
 | 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") |
 | 598 | [Range Addition II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/598.%20Range%20Addition%20II.py "link") |
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") |
@@ -321,6 +327,7 @@ Easy
 | 1464 | [Maximum Product of Two Elements in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py "link") | 
 | 1469 | [Find All The Lonely Nodes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1469.%20Find%20All%20The%20Lonely%20Nodes.py "link") | 
 | 1470 | [Shuffle the Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1470.%20Shuffle%20the%20Array.py "link") | 
+| 1475 | [Final Prices With a Special Discount in a Shop](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py 'link') | 
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py 'link') | 
 | 1507 | [Reformat Date](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1507.%20Reformat%20Date.py "link") | 
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py "link") | 
@@ -334,13 +341,16 @@ Easy
 | 1812 | [Determine Color of a Chessboard Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py "link") | 
 | 1822 | [Sign of the Product of an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py "link") |
 | 1844 | [Replace All Digits with Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1844.%20Replace%20All%20Digits%20with%20Characters.py "link") |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py 'link') | 
+| 1893 | [Check if All the Integers in a Range Are Covered](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py 'link') | 
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") |
-| 1945 | [Sum of Digits of String After Convert](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py "link") | Easy
+| 1945 | [Sum of Digits of String After Convert](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py "link") | 
 | 1961 | [Check If String Is a Prefix of Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py "link") |
 | 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") |
 | 2011 | [Final Value of Variable After Performing Operations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py  "link") |
 | 2016 | [Maximum Difference Between Increasing Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py "link") |
+| 2027 | [Minimum Moves to Convert String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2027.%20Minimum%20Moves%20to%20Convert%20String.py 'link') | 
 | 2042 | [Check if Numbers Are Ascending in a Sentence](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py "link") | 
 
 
