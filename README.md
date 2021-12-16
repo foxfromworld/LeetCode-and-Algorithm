@@ -188,6 +188,7 @@
 | 1732 | [Find the Highest Altitude](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1732.%20Find%20the%20Highest%20Altitude.py "link") | Easy
 | 1768 | [Merge Strings Alternately](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1768.%20Merge%20Strings%20Alternately.py 'link') | Easy
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
+| 1791 | [Find Center of Star Graph](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1791.%20Find%20Center%20of%20Star%20Graph.py 'link') | Easy
 | 1796 | [Second Largest Digit in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.py 'link') | Easy
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") | Easy
 | 1812 | [Determine Color of a Chessboard Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py "link") | Easy
@@ -195,6 +196,7 @@
 | 1844 | [Replace All Digits with Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1844.%20Replace%20All%20Digits%20with%20Characters.py "link") | Easy
 | 1876 | [Substrings of Size Three with Distinct Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py 'link') | Easy
 | 1893 | [Check if All the Integers in a Range Are Covered](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py 'link') | Easy
+| 1913 | [Maximum Product Difference Between Two Pairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py) | Easy
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") | Easy
 | 1945 | [Sum of Digits of String After Convert](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py "link") | Easy
 | 1961 | [Check If String Is a Prefix of Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py "link") | Easy
@@ -336,6 +338,7 @@ Easy
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py "link") |
 | 1732 | [Find the Highest Altitude](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1732.%20Find%20the%20Highest%20Altitude.py "link") | 
 | 1768 | [Merge Strings Alternately](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1768.%20Merge%20Strings%20Alternately.py 'link') | 
+| 1791 | [Find Center of Star Graph](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1791.%20Find%20Center%20of%20Star%20Graph.py 'link') | 
 | 1796 | [Second Largest Digit in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.py 'link') | 
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") |
 | 1812 | [Determine Color of a Chessboard Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py "link") | 
@@ -343,6 +346,7 @@ Easy
 | 1844 | [Replace All Digits with Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1844.%20Replace%20All%20Digits%20with%20Characters.py "link") |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py 'link') | 
 | 1893 | [Check if All the Integers in a Range Are Covered](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py 'link') | 
+| 1913 | [Maximum Product Difference Between Two Pairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py) | 
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") |
 | 1945 | [Sum of Digits of String After Convert](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py "link") | 
 | 1961 | [Check If String Is a Prefix of Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py "link") |
