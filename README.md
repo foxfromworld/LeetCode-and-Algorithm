@@ -171,6 +171,7 @@
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | Easy
 | 1423 | [Maximum Points You Can Obtain from Cards](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py "link") | Medium
 | 1448 | [Count Good Nodes in Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md "link") | Medium
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.py "link") | Easy
 | 1464 | [Maximum Product of Two Elements in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py "link") | Easy
 | 1469 | [Find All The Lonely Nodes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1469.%20Find%20All%20The%20Lonely%20Nodes.py "link") | Easy
 | 1470 | [Shuffle the Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1470.%20Shuffle%20the%20Array.py "link") | Easy
@@ -318,7 +319,7 @@ Easy
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py "link") | 
 | 1184 | [Distance Between Bus Stops](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1184.%20Distance%20Between%20Bus%20Stops.py "link") | E
 | 1189 | [Maximum Number of Balloons](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1189.%20Maximum%20Number%20of%20Balloons.md  "link") |
-| 1217 | [Minimum Cost to Move Chips to The Same Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.py 'link') | Easy
+| 1217 | [Minimum Cost to Move Chips to The Same Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.py 'link') | 
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py "link") | 
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.py "link") |
 | 1346 | [Check If N and Its Double Exist](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py "link") | 
@@ -326,6 +327,7 @@ Easy
 | 1356 | [Sort Integers by The Number of 1 Bits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py "link") | 
 | 1394 | [Find Lucky Integer in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.py 'link') | 
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | 
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.py "link") | 
 | 1464 | [Maximum Product of Two Elements in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py "link") | 
 | 1469 | [Find All The Lonely Nodes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1469.%20Find%20All%20The%20Lonely%20Nodes.py "link") | 
 | 1470 | [Shuffle the Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1470.%20Shuffle%20the%20Array.py "link") | 
