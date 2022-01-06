@@ -150,6 +150,7 @@
 | 1021 | [Remove Outermost Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1021.%20Remove%20Outermost%20Parentheses.py "link") | Easy
 | 1048 | [Longest String Chain](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1048.%20Longest%20String%20Chain.md "link") | Medium
 | 1057 | [Campus Bikes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1057.%20Campus%20Bikes.md "link") | Medium
+| 1058 | [Minimize Rounding Error to Meet Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1058.%20Minimize%20Rounding%20Error%20to%20Meet%20Target.py "link") | Medium
 | 1086 | [High Five](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086.%20High%20Five.py "link") | Easy
 | 1110 | [Delete Nodes And Return Forest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.py "link") | Medium
 | 1114 | [Print in Order](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1114.%20Print%20in%20Order.py "link") | Easy
@@ -167,6 +168,7 @@
 | 1346 | [Check If N and Its Double Exist](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py "link") | Easy
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py "link") | Easy
 | 1356 | [Sort Integers by The Number of 1 Bits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py "link") | Easy
+| 1385 | [Find the Distance Value Between Two Arrays](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.py "link") | Easy
 | 1394 | [Find Lucky Integer in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.py 'link') | Easy
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | Easy
 | 1423 | [Maximum Points You Can Obtain from Cards](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py "link") | Medium
@@ -325,6 +327,7 @@ Easy
 | 1346 | [Check If N and Its Double Exist](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py "link") | 
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py "link") |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py "link") | 
+| 1385 | [Find the Distance Value Between Two Arrays](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.py "link") | 
 | 1394 | [Find Lucky Integer in an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.py 'link') | 
 | 1417 | [Reformat The String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1417.%20Reformat%20The%20String.py "link") | 
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.py "link") | 
@@ -412,6 +415,7 @@ Medium
 | 1007 | [Minimum Domino Rotations For Equal Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md "link") |
 | 1048 | [Longest String Chain](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1048.%20Longest%20String%20Chain.md "link") |
 | 1057 | [Campus Bikes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1057.%20Campus%20Bikes.md "link") |
+| 1058 | [Minimize Rounding Error to Meet Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1058.%20Minimize%20Rounding%20Error%20to%20Meet%20Target.py "link") | Medium
 | 1110 | [Delete Nodes And Return Forest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.py "link") |
 | 1136 | [Parallel Courses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1136.%20Parallel%20Courses.py "link") |
 | 1162 | [As Far from Land as Possible](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.py "link") | 
