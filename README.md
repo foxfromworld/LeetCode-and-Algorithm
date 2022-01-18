@@ -181,6 +181,7 @@
 | 1470 | [Shuffle the Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1470.%20Shuffle%20the%20Array.py "link") | Easy
 | 1475 | [Final Prices With a Special Discount in a Shop](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py 'link') | Easy
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py 'link') | Easy
+| 1493 | [Longest Subarray of 1's After Deleting One Element](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.py "link") | Medium
 | 1507 | [Reformat Date](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1507.%20Reformat%20Date.py "link") | Easy
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py "link") | Medium
 | 1525 | [Number of Good Ways to Split a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.md "link") | Medium
@@ -192,6 +193,7 @@
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py "link") | Easy
 | 1732 | [Find the Highest Altitude](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1732.%20Find%20the%20Highest%20Altitude.py "link") | Easy
 | 1768 | [Merge Strings Alternately](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1768.%20Merge%20Strings%20Alternately.py 'link') | Easy
+| 1773 | [Count Items Matching a Rule](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1773.%20Count%20Items%20Matching%20a%20Rule.py 'link') | Easy
 | 1776 | [Car Fleet II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1776.%20Car%20Fleet%20II.md "link") | Hard
 | 1791 | [Find Center of Star Graph](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1791.%20Find%20Center%20of%20Star%20Graph.py 'link') | Easy
 | 1796 | [Second Largest Digit in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.py 'link') | Easy
@@ -282,7 +284,7 @@ Easy
 | 408 | [Valid Word Abbreviation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/408.%20Valid%20Word%20Abbreviation.py "link") | 
 | 412 | [Fizz Buzz.py](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/412.%20Fizz%20Buzz.py "link") | 
 | 415 | [Add Strings](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/415.%20Add%20Strings.py "link") | 
-| 455 | [Assign Cookies](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/455.%20Assign%20Cookies.py "link") | Easy
+| 455 | [Assign Cookies](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/455.%20Assign%20Cookies.py "link") | 
 | 482 | [License Key Formatting](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/482.%20License%20Key%20Formatting.md "link") |
 | 500 | [Keyboard Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/500.%20Keyboard%20Row.py "link") |
 | 501 | [Find Mode in Binary Search Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.py "link") |
@@ -347,6 +349,7 @@ Easy
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py "link") |
 | 1732 | [Find the Highest Altitude](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1732.%20Find%20the%20Highest%20Altitude.py "link") | 
 | 1768 | [Merge Strings Alternately](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1768.%20Merge%20Strings%20Alternately.py 'link') | 
+| 1773 | [Count Items Matching a Rule](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1773.%20Count%20Items%20Matching%20a%20Rule.py 'link') | 
 | 1791 | [Find Center of Star Graph](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1791.%20Find%20Center%20of%20Star%20Graph.py 'link') | 
 | 1796 | [Second Largest Digit in a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.py 'link') | 
 | 1800 | [Maximum Ascending Subarray Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1800.%20Maximum%20Ascending%20Subarray%20Sum.py "link") |
@@ -426,6 +429,7 @@ Medium
 | 1344 | [Angle Between Hands of a Clock](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.py "link") | 
 | 1423 | [Maximum Points You Can Obtain from Cards](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py "link") | 
 | 1448 | [Count Good Nodes in Binary Tree](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md "link") |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.py "link") |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py "link") | 
 | 1525 | [Number of Good Ways to Split a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.md "link") | 
 | 1631 | [Path With Minimum Effort](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1631.%20Path%20With%20Minimum%20Effort.py "link") |
