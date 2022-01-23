@@ -1,0 +1,13 @@
+# Source : https://leetcode.com/problems/sum-of-all-subset-xor-totals/
+# Author : foxfromworld
+# Date  : 23/01/2022
+# First attempt
+
+class Solution:
+    def subsetXORSum(self, nums: List[int]) -> int:
+        def helper(i):
+            if i == len(nums):
+                return [0]
+            xors = helper(i+1)
+            return xors + [nums[i] ^ xor for xor in xors]
+        return sum(helper(0))
