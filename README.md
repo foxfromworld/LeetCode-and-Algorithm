@@ -200,6 +200,7 @@
 | 1812 | [Determine Color of a Chessboard Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py "link") | Easy
 | 1822 | [Sign of the Product of an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py "link") | Easy
 | 1844 | [Replace All Digits with Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1844.%20Replace%20All%20Digits%20with%20Characters.py "link") | Easy
+| 1863 | [Sum of All Subset XOR Totals](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.py "link") | Easy
 | 1876 | [Substrings of Size Three with Distinct Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py 'link') | Easy
 | 1893 | [Check if All the Integers in a Range Are Covered](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py 'link') | Easy
 | 1913 | [Maximum Product Difference Between Two Pairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py) | Easy
@@ -354,6 +355,7 @@ Easy
 | 1812 | [Determine Color of a Chessboard Square](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square.py "link") | 
 | 1822 | [Sign of the Product of an Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py "link") |
 | 1844 | [Replace All Digits with Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1844.%20Replace%20All%20Digits%20with%20Characters.py "link") |
+| 1863 | [Sum of All Subset XOR Totals](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.py "link") |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py 'link') | 
 | 1893 | [Check if All the Integers in a Range Are Covered](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py 'link') | 
 | 1913 | [Maximum Product Difference Between Two Pairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py) | 
