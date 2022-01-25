@@ -5,11 +5,11 @@
 
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
-        subsets = [0]
+        subset = [0]
         ret = 0
         for num in nums:
-            subsets += [subset ^ num for subset in subsets]
-        return sum(subsets)
+            subset += [element ^ num for element in subset]
+        return sum(subset)
 
 # Date  : 23/01/2022
 # Second attempt
