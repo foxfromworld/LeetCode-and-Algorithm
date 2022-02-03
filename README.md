@@ -30,6 +30,7 @@
 | 71 | [Simplify Path](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/71.%20Simplify%20Path.py "link") | Medium
 | 73 | [Set Matrix Zeroes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/73.%20Set%20Matrix%20Zeroes.py "link") | Medium
 | 74 | [Search a 2D Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/74.%20Search%20a%202D%20Matrix.py "link") | Medium
+| 78 | [Subsets](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/78.%20Subsets.py "link") | Medium
 | 83 | [Remove Duplicates from Sorted List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md "link") | Easy
 | 88 | [Merge Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/88.%20Merge%20Sorted%20Array.py "link") | Easy
 | 94 | [Binary Tree Inorder Traversal](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/94.%20Binary%20Tree%20Inorder%20Traversal.py "link") | Easy
@@ -383,6 +384,7 @@ Medium
 | 71 | [Simplify Path](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/71.%20Simplify%20Path.py "link") | 
 | 73 | [Set Matrix Zeroes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/73.%20Set%20Matrix%20Zeroes.py "link") |
 | 74 | [Search a 2D Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/74.%20Search%20a%202D%20Matrix.py "link") | 
+| 78 | [Subsets](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/78.%20Subsets.py "link") | 
 | 98 | [Validate Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/98.%20Validate%20Binary%20Search%20Tree.py "link") |
 | 114 | [Flatten Binary Tree to Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py "link") | 
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md "link") | 
