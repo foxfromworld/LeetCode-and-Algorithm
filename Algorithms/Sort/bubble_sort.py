@@ -1,5 +1,10 @@
 # Author : foxfromworld
 # Date   : 15/11/2020
+# Worst-case performance:	O(n**2) comparisons, O(n**2) swaps
+# Best-case performance: O(n) comparisons, O(1) swaps
+# Average performance: O(n**2) comparisons, O(n^2) swaps
+# Worst-case space complexity: O(n) total, O(1) auxiliary
+# Stable: Yes (when two compared elements are the same, they won't swap)
 
 """
 
@@ -10,12 +15,6 @@
      |←　 　n-1　　　→|
      
   S = n*(n-1)/2 = n**2 - n/2 ==> n**2
-  
-Worst-case performance:	O(n**2) comparisons, O(n**2) swaps
-Best-case performance: O(n) comparisons, O(1) swaps
-Average performance: O(n**2) comparisons, O(n^2) swaps
-Worst-case space complexity: O(n) total, O(1) auxiliary
-Stable: Yes (when two compared elements are the same, they won't swap)
 """
 
 def bubble_sort(nums):
