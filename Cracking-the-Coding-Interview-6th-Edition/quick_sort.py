@@ -22,7 +22,7 @@ def quickSort(l, left, right):
     if left < right:
         p_idx = random.randint(left, right)
         p_idx = partition(left, right)
-        quickSort(l, left, p_idx)
+        quickSort(l, left, p_idx - 1)
         quickSort(l, p_idx + 1, right)
 
 # take the last element as the pivot
