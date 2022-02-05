@@ -1,5 +1,3 @@
-<h1>Solutions for LeetCode and the algorithm book: The Algorithm Design Manual, 2nd Edition.</h1>
-
 <h3>LeetCode Problems (Sorted by #)</h3>
 
 | #	| Title	| Difficulty |
