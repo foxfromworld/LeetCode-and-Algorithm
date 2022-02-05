@@ -10,7 +10,7 @@
 import random
 def quickSort(l, left, right):
     def partition(left, right):
-        p_val = l[p_idx] # take the last element as the pivot
+        p_val = l[p_idx] 
         l[p_idx], l[right] = l[right], l[p_idx]
         j = left -1
         for i in range(left, right):
