@@ -14,6 +14,7 @@
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | Medium
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | Easy
 | 21 | [Merge Two Sorted Lists](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/21.%20Merge%20Two%20Sorted%20Lists.py "link") | Easy
+| 22 | [Generate Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/22.%20Generate%20Parentheses.py "link") | Medium
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py "link") | Easy
 | 27 | [Remove Element](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/27.%20Remove%20Element.py "link") | Easy
 | 28 | [Implement strStr()](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/28.%20Implement%20strStr().py "link") | Easy
@@ -378,6 +379,7 @@ Medium
 | 2 | [Add Two Numbers](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2.%20Add%20Two%20Numbers.md "link") | 
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py "link") |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | 
+| 22 | [Generate Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/22.%20Generate%20Parentheses.py "link") | 
 | 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") |
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | 
 | 62 | [Unique Paths](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/62.%20Unique%20Paths.py "link") |
