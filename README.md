@@ -107,6 +107,7 @@
 | 531 | [Lonely Pixel I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/531.%20Lonely%20Pixel%20I.md "link") | Medium
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | Medium
 | 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") | Easy
+| 575 | [Distribute Candies](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/575.%20Distribute%20Candies.py "link") | Easy
 | 598 | [Range Addition II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/598.%20Range%20Addition%20II.py "link") | Easy
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") | Easy
 | 621 | [Task Scheduler](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/621.%20Task%20Scheduler.md "link") | Medium
@@ -292,6 +293,7 @@ Easy
 | 509 | [Fibonacci Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/509.%20Fibonacci%20Number.py "link") | 
 | 520 | [Detect Capital](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/520.%20Detect%20Capital.py 'link') | 
 | 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") |
+| 575 | [Distribute Candies](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/575.%20Distribute%20Candies.py "link") | 
 | 598 | [Range Addition II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/598.%20Range%20Addition%20II.py "link") |
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") |
 | 621 | [Task Scheduler](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/621.%20Task%20Scheduler.md "link") |
@@ -309,7 +311,7 @@ Easy
 | 804 | [Unique Morse Code Words](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/804.%20Unique%20Morse%20Code%20Words.py "link") | 
 | 821 | [Shortest Distance to a Character](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/821.%20Shortest%20Distance%20to%20a%20Character.py 'link') | 
 | 836 | [Rectangle Overlap](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/836.%20Rectangle%20Overlap.py "link") | 
-| 852| [Peak Index in a Mountain Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py "link") | Easy
+| 852| [Peak Index in a Mountain Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py "link") | 
 | 860 | [Lemonade Change](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/860.%20Lemonade%20Change.py "link") | 
 | 867 | [Transpose Matrix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/867.%20Transpose%20Matrix.py "link") | 
 | 876 | [Middle of the Linked List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/876.%20Middle%20of%20the%20Linked%20List.py "link") | 
@@ -424,7 +426,7 @@ Medium
 | 1007 | [Minimum Domino Rotations For Equal Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md "link") |
 | 1048 | [Longest String Chain](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1048.%20Longest%20String%20Chain.md "link") |
 | 1057 | [Campus Bikes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1057.%20Campus%20Bikes.md "link") |
-| 1058 | [Minimize Rounding Error to Meet Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1058.%20Minimize%20Rounding%20Error%20to%20Meet%20Target.py "link") | Medium
+| 1058 | [Minimize Rounding Error to Meet Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1058.%20Minimize%20Rounding%20Error%20to%20Meet%20Target.py "link") | 
 | 1110 | [Delete Nodes And Return Forest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.py "link") |
 | 1136 | [Parallel Courses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1136.%20Parallel%20Courses.py "link") |
 | 1162 | [As Far from Land as Possible](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.py "link") | 
