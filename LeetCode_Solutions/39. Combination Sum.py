@@ -9,7 +9,8 @@ class Solution:
         def backtrack(combi, remainder, st):
             if remainder == 0:
                 #ret.append(combi) # incorrect
-                ret.append(combi[:]) # shallow copy
+                #ret.append(combi[:]) # shallow copy
+                ret.append(copy.copy(combi)) # shallow copy
                 #ret.append(combi.copy()) # shallow copy
                 #ret.append(list(combi)) # shallow copy
                 #ret.append(copy.deepcopy(combi)) # deep copy            
