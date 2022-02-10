@@ -17,6 +17,8 @@
 | 27 | [Remove Element](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/27.%20Remove%20Element.py "link") | Easy
 | 28 | [Implement strStr()](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/28.%20Implement%20strStr().py "link") | Easy
 | 35 | [Search Insert Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/35.%20Search%20Insert%20Position.py "link") | Easy
+| 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | Medium
+| 40 | [Combination Sum II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/40.%20Combination%20Sum%20II.py "link") | Medium
 | 53 | [Maximum Subarray](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/53.%20Maximum%20Subarray.py "link") | Easy
 | 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") | Medium
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
@@ -107,6 +109,7 @@
 | 531 | [Lonely Pixel I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/531.%20Lonely%20Pixel%20I.md "link") | Medium
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | Medium
 | 551 | [Student Attendance Record I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/551.%20Student%20Attendance%20Record%20I.py "link") | Easy
+| 560 | [Subarray Sum Equals K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/560.%20Subarray%20Sum%20Equals%20K.py"link") | Medium
 | 575 | [Distribute Candies](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/575.%20Distribute%20Candies.py "link") | Easy
 | 598 | [Range Addition II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/598.%20Range%20Addition%20II.py "link") | Easy
 | 617 | [Merge Two Binary Trees](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/617.%20Merge%20Two%20Binary%20Trees.py "link") | Easy
@@ -380,6 +383,8 @@ Medium
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py "link") |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | 
 | 22 | [Generate Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/22.%20Generate%20Parentheses.py "link") | 
+| 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | 
+| 40 | [Combination Sum II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/40.%20Combination%20Sum%20II.py "link") | 
 | 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") |
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | 
 | 62 | [Unique Paths](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/62.%20Unique%20Paths.py "link") |
@@ -411,6 +416,7 @@ Medium
 | 450 | [Delete Node in a BST](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/450.%20Delete%20Node%20in%20a%20BST.py "link") |
 | 531 | [Lonely Pixel I](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/531.%20Lonely%20Pixel%20I.md "link") | 
 | 547 | [Number of Provinces](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/547.%20Number%20of%20Provinces.py "link") | 
+| 560 | [Subarray Sum Equals K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/560.%20Subarray%20Sum%20Equals%20K.py"link") | 
 | 634 | [Find the Derangement of An Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/634.%20Find%20the%20Derangement%20of%20An%20Array.py "link") | 
 | 681 | [Next Closest Time](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/681.%20Next%20Closest%20Time.md "link") |
 | 686 | [Repeated String Match](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/686.%20Repeated%20String%20Match.md "link") |
