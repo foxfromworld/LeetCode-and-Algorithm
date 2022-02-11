@@ -1,6 +1,24 @@
 # Source : https://leetcode.com/problems/letter-case-permutation/
 # Author : foxfromworld
 # Date  : 11/02/2022
+# Second attempt
+
+class Solution:
+    def letterCasePermutation(self, s: str) -> List[str]:
+        ret = [[]]
+        for ch in s:
+            length = len(ret)
+            if ch.isalpha():
+                for i in range(length):
+                    ret.append(ret[i][:])
+                    ret[i].append(ch.lower())
+                    ret[length + i].append(ch.upper())
+            else:
+                for i in range(length):
+                    ret[i].append(ch)
+        return map("".join, ret)
+
+# Date  : 11/02/2022
 # First attempt
 
 class Solution:
