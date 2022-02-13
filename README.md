@@ -210,6 +210,7 @@
 | 1913 | [Maximum Product Difference Between Two Pairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py) | Easy
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") | Easy
 | 1945 | [Sum of Digits of String After Convert](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py "link") | Easy
+| 1957 | [Delete Characters to Make Fancy String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.py "link") | Easy
 | 1961 | [Check If String Is a Prefix of Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py "link") | Easy
 | 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") | Easy
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") | Easy
@@ -366,6 +367,7 @@ Easy
 | 1913 | [Maximum Product Difference Between Two Pairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py) | 
 | 1920 | [Build Array from Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1920.%20Build%20Array%20from%20Permutation.md  "link") |
 | 1945 | [Sum of Digits of String After Convert](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py "link") | 
+| 1957 | [Delete Characters to Make Fancy String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.py "link") | 
 | 1961 | [Check If String Is a Prefix of Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py "link") |
 | 2000 | [Reverse Prefix of Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2000.%20Reverse%20Prefix%20of%20Word.py  "link") |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py "link") |
