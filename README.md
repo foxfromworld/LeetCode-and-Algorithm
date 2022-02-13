@@ -83,6 +83,7 @@
 | 299 | [Bulls and Cows](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/299.%20Bulls%20and%20Cows.md "link") | Medium
 | 308 | [Range Sum Query 2D - Mutable](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/308.%20Range%20Sum%20Query%202D%20-%20Mutable.md "link") | Hard
 | 332 | [Reconstruct Itinerary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/332.%20Reconstruct%20Itinerary.py "link") | Medium
+| 343 | [Integer Break](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/343.%20Integer%20Break.py "link") | Medium
 | 345 | [Reverse Vowels of a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/345.%20Reverse%20Vowels%20of%20a%20String.py "link") | Easy
 | 346 | [Moving Average from Data Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/346.%20Moving%20Average%20from%20Data%20Stream.py "link") | Easy
 | 347 | [Top K Frequent Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/347.%20Top%20K%20Frequent%20Elements.md "link") | Medium
@@ -279,6 +280,7 @@ Easy
 | 258 | [Add Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/258.%20Add%20Digits.py "link") | 
 | 266 | [Palindrome Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/266.%20Palindrome%20Permutation.py  "link") |
 | 270 | [Closest Binary Search Tree Value](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/270.%20Closest%20Binary%20Search%20Tree%20Value.py "link") | 
+| 343 | [Integer Break](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/343.%20Integer%20Break.py "link") | 
 | 345 | [Reverse Vowels of a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/345.%20Reverse%20Vowels%20of%20a%20String.py "link") |
 | 346 | [Moving Average from Data Stream](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/346.%20Moving%20Average%20from%20Data%20Stream.py "link") | 
 | 349 | [Intersection of Two Arrays](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/349.%20Intersection%20of%20Two%20Arrays.py "link") | 
