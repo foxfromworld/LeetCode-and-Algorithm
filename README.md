@@ -219,7 +219,7 @@
 | 2016 | [Maximum Difference Between Increasing Elements](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements.py "link") | Easy
 | 2027 | [Minimum Moves to Convert String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2027.%20Minimum%20Moves%20to%20Convert%20String.py 'link') | Easy
 | 2042 | [Check if Numbers Are Ascending in a Sentence](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py "link") | Easy
-
+| 2048 | [Next Greater Numerically Balanced Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2048.%20Next%20Greater%20Numerically%20Balanced%20Number.py "link") | Medium
 
 ***
 
@@ -378,7 +378,6 @@ Easy
 | 2027 | [Minimum Moves to Convert String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2027.%20Minimum%20Moves%20to%20Convert%20String.py 'link') | 
 | 2042 | [Check if Numbers Are Ascending in a Sentence](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py "link") | 
 
-
 Medium
 
 | #	| Title	|
@@ -447,6 +446,7 @@ Medium
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py "link") | 
 | 1525 | [Number of Good Ways to Split a String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.md "link") | 
 | 1631 | [Path With Minimum Effort](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1631.%20Path%20With%20Minimum%20Effort.py "link") |
+| 2048 | [Next Greater Numerically Balanced Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2048.%20Next%20Greater%20Numerically%20Balanced%20Number.py "link") | Medium
 
 Hard
 
