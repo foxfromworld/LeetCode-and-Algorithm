@@ -55,6 +55,7 @@
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | Easy
 | 167 | [Two Sum II - Input array is sorted](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md "link") | Easy
 | 168 | [Excel Sheet Column Title](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/168.%20Excel%20Sheet%20Column%20Title.py "link") | Easy
+| 169 | [Majority Element](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/169.%20Majority%20Element.py "link") | Easy
 | 170 | [Two Sum III - Data structure design](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/170.%20Two%20Sum%20III%20-%20Data%20structure%20design.py "link") | Easy
 | 171 | [Excel Sheet Column Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/171.%20Excel%20Sheet%20Column%20Number.md "link") | Easy
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") | Easy
@@ -264,6 +265,7 @@ Easy
 | 157 | [Read N Characters Given Read4](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/157.%20Read%20N%20Characters%20Given%20Read4.py "link") | 
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | 
 | 167 | [Two Sum II - Input array is sorted](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md "link") | 
+| 169 | [Majority Element](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/169.%20Majority%20Element.py "link") | 
 | 170 | [Two Sum III - Data structure design](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/170.%20Two%20Sum%20III%20-%20Data%20structure%20design.py "link") |
 | 171 | [Excel Sheet Column Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/171.%20Excel%20Sheet%20Column%20Number.md "link") | 
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") |
