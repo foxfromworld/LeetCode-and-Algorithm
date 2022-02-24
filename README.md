@@ -5,6 +5,7 @@
 | 1 | [Two Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1.%20Two%20Sum.md "link") | Easy
 | 2 | [Add Two Numbers](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2.%20Add%20Two%20Numbers.md "link") | Medium
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py "link") | Medium
+| 4 | [Median of Two Sorted Arrays ](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.py "link") | Hard
 | 7 | [Reverse Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/7.%20Reverse%20Integer.py "link") | Easy
 | 9 | [Palindrome Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/9.%20Palindrome%20Number.md "link") | Easy
 | 13 | [Roman to Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/13.%20Roman%20to%20Integer.py "link") | Easy
@@ -462,6 +463,7 @@ Hard
 
 | #	| Title	|
 | --- | --- |
+| 4 | [Median of Two Sorted Arrays ](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.py "link") | 
 | 308 | [Range Sum Query 2D - Mutable](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/308.%20Range%20Sum%20Query%202D%20-%20Mutable.md "link") |
 | 683 | [K Empty Slots](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/683.%20K%20Empty%20Slots.md "link") |
 | 843 | [Guess the Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/843.%20Guess%20the%20Word.py "link") | 
