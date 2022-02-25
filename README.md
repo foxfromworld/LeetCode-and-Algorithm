@@ -6,6 +6,7 @@
 | 2 | [Add Two Numbers](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2.%20Add%20Two%20Numbers.md "link") | Medium
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py "link") | Medium
 | 4 | [Median of Two Sorted Arrays ](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.py "link") | Hard
+| 5 | [Longest Palindromic Substring](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/5.%20Longest%20Palindromic%20Substring.py "link") | Medium
 | 7 | [Reverse Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/7.%20Reverse%20Integer.py "link") | Easy
 | 9 | [Palindrome Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/9.%20Palindrome%20Number.md "link") | Easy
 | 13 | [Roman to Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/13.%20Roman%20to%20Integer.py "link") | Easy
@@ -391,6 +392,7 @@ Medium
 | --- | --- |
 | 2 | [Add Two Numbers](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/2.%20Add%20Two%20Numbers.md "link") | 
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py "link") |
+| 5 | [Longest Palindromic Substring](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/5.%20Longest%20Palindromic%20Substring.py "link") | 
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | 
 | 22 | [Generate Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/22.%20Generate%20Parentheses.py "link") | 
 | 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | 
