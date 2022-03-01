@@ -142,6 +142,7 @@
 | 744 | [Find Smallest Letter Greater Than Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py "link") | Easy
 | 747 | [Largest Number At Least Twice of Others](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py "link") | Easy
 | 755 | [Pour Water](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/755.%20Pour%20Water.py "link") | Medium
+| 784 | [Letter Case Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/784.%20Letter%20Case%20Permutation.py "link") | Medium
 | 788 | [Rotated Digits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/788.%20Rotated%20Digits.py "link") | Easy
 | 792 | [Number of Matching Subsequences](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/792.%20Number%20of%20Matching%20Subsequences.md "link") | Medium
 | 796 | [Rotate String](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/796.%20Rotate%20String.py "link") | Easy
@@ -446,6 +447,7 @@ Medium
 | 701 | [Insert into a Binary Search Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py "link") |
 | 735 | [Asteroid Collision](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/735.%20Asteroid%20Collision.md "link") | 
 | 755 | [Pour Water](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/755.%20Pour%20Water.py "link") | 
+| 784 | [Letter Case Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/784.%20Letter%20Case%20Permutation.py "link") | 
 | 792 | [Number of Matching Subsequences](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/792.%20Number%20of%20Matching%20Subsequences.md "link") | 
 | 848 | [Shifting Letters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/848.%20Shifting%20Letters.md "link") | 
 | 853 | [Car Fleet](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/853.%20Car%20Fleet.md "link") | 
