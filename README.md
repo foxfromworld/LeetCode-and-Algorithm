@@ -72,6 +72,7 @@
 | 215 | [Kth Largest Element in an Array](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.py "link") | Medium
 | 217 | [Contains Duplicate](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/217.%20Contains%20Duplicate.py "link") | Easy
 | 219 | [Contains Duplicate II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/219.%20Contains%20Duplicate%20II.py "link") | Easy
+| 225 | [Implement Stack using Queues](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/225.%20Implement%20Stack%20using%20Queues.py "link") | Easy
 | 226 | [Invert Binary Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/226.%20Invert%20Binary%20Tree.py "link") | Easy
 | 229 | [Majority Element II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/229.%20Majority%20Element%20II.py "link") | Medium
 | 230 | [Kth Smallest Element in a BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py "link") | Medium
@@ -281,6 +282,7 @@ Easy
 | 206 | [Reverse Linked List](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/206.%20Reverse%20Linked%20List.py "link") | 
 | 217 | [Contains Duplicate](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/217.%20Contains%20Duplicate.py "link") |
 | 219 | [Contains Duplicate II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/219.%20Contains%20Duplicate%20II.py "link") | 
+| 225 | [Implement Stack using Queues](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/225.%20Implement%20Stack%20using%20Queues.py "link") | 
 | 226 | [Invert Binary Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/226.%20Invert%20Binary%20Tree.py "link") |
 | 231 | [Power of Two](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/231.%20Power%20of%20Two.py "link") | 
 | 242 | [Valid Anagram](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/242.%20Valid%20Anagram.py "link") | 
