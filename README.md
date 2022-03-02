@@ -16,6 +16,7 @@
 | 13 | [Roman to Integer](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/13.%20Roman%20to%20Integer.py "link") | Easy
 | 14 | [Longest Common Prefix](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/14.%20Longest%20Common%20Prefix.py "link") | Easy
 | 15 | [3Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/15.%203Sum.py "link") | Medium
+| 16 | [3Sum Closest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/16.%203Sum%20Closest.py "link") | Medium
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | Medium
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | Easy
 | 21 | [Merge Two Sorted Lists](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/21.%20Merge%20Two%20Sorted%20Lists.py "link") | Easy
@@ -406,6 +407,7 @@ Medium
 | 11 | [Container With Most Water](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/11.%20Container%20With%20Most%20Water.py "link") |
 | 12 | [Integer to Roman](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/12.%20Integer%20to%20Roman.py "link") | 
 | 15 | [3Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/15.%203Sum.py "link") | 
+| 16 | [3Sum Closest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/16.%203Sum%20Closest.py "link") | 
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | 
 | 22 | [Generate Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/22.%20Generate%20Parentheses.py "link") | 
 | 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | 
