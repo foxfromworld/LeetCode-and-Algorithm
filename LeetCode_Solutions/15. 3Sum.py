@@ -7,7 +7,7 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
         ret = []
-        def twoPointer(i, nums):
+        def twoPointers(i, nums):
             lo, hi = i + 1, len(nums) - 1
             while lo < hi:
                 sum_ = nums[lo] + nums [hi] + nums[i]
