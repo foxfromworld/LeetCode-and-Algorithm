@@ -11,7 +11,7 @@ class Solution:
             lo, hi = i + 1, len(nums) - 1
             while lo < hi:
                 sum_ = nums[lo] + nums[hi] + nums[i]
-                if abs(sum_ - target) < abs(diff):
+                if abs(target - sum_) < abs(diff):
                     diff = target - sum_
                 if sum_ > target:
                     hi -= 1 
