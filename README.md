@@ -18,6 +18,7 @@
 | 15 | [3Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/15.%203Sum.py "link") | Medium
 | 16 | [3Sum Closest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/16.%203Sum%20Closest.py "link") | Medium
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | Medium
+| 18 | [4Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/18.%204Sum.py "link") | Medium
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | Easy
 | 21 | [Merge Two Sorted Lists](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/21.%20Merge%20Two%20Sorted%20Lists.py "link") | Easy
 | 22 | [Generate Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/22.%20Generate%20Parentheses.py "link") | Medium
@@ -409,6 +410,7 @@ Medium
 | 15 | [3Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/15.%203Sum.py "link") | 
 | 16 | [3Sum Closest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/16.%203Sum%20Closest.py "link") | 
 | 17 | [Letter Combinations of a Phone Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md "link") | 
+| 18 | [4Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/18.%204Sum.py "link") | 
 | 22 | [Generate Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/22.%20Generate%20Parentheses.py "link") | 
 | 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | 
 | 40 | [Combination Sum II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/40.%20Combination%20Sum%20II.py "link") | 
