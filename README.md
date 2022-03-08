@@ -23,6 +23,7 @@
 | 20 | [Valid Parentheses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/20.%20Valid%20Parentheses.py "link") | Easy
 | 21 | [Merge Two Sorted Lists](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/21.%20Merge%20Two%20Sorted%20Lists.py "link") | Easy
 | 22 | [Generate Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/22.%20Generate%20Parentheses.py "link") | Medium
+| 24 | [Swap Nodes in Pairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/24.%20Swap%20Nodes%20in%20Pairs.py "link") | Medium
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py "link") | Easy
 | 27 | [Remove Element](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/27.%20Remove%20Element.py "link") | Easy
 | 28 | [Implement strStr()](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/28.%20Implement%20strStr().py "link") | Easy
@@ -414,6 +415,7 @@ Medium
 | 18 | [4Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/18.%204Sum.py "link") | 
 | 19 | [Remove Nth Node From End of List](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py "link") | 
 | 22 | [Generate Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/22.%20Generate%20Parentheses.py "link") | 
+| 24 | [Swap Nodes in Pairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/24.%20Swap%20Nodes%20in%20Pairs.py "link") | 
 | 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | 
 | 40 | [Combination Sum II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/40.%20Combination%20Sum%20II.py "link") | 
 | 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") |
