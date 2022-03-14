@@ -29,6 +29,7 @@
 | 28 | [Implement strStr()](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/28.%20Implement%20strStr().py "link") | Easy
 | 29 | [Divide Two Integers](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/29.%20Divide%20Two%20Integers.py "link") | Medium
 | 31 | [Next Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/31.%20Next%20Permutation.py "link") | Medium
+| 33 | [Search in Rotated Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.py "link") | Medium
 | 35 | [Search Insert Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/35.%20Search%20Insert%20Position.py "link") | Easy
 | 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | Medium
 | 40 | [Combination Sum II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/40.%20Combination%20Sum%20II.py "link") | Medium
@@ -420,6 +421,7 @@ Medium
 | 24 | [Swap Nodes in Pairs](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/24.%20Swap%20Nodes%20in%20Pairs.py "link") | 
 | 29 | [Divide Two Integers](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/29.%20Divide%20Two%20Integers.py "link") | 
 | 31 | [Next Permutation](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/31.%20Next%20Permutation.py "link") | 
+| 33 | [Search in Rotated Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.py "link") | 
 | 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | 
 | 40 | [Combination Sum II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/40.%20Combination%20Sum%20II.py "link") | 
 | 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") |
