@@ -173,6 +173,7 @@
 | 929 | [Unique Email Addresses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/929.%20Unique%20Email%20Addresses.py "link") | Easy
 | 937 | [Reorder Data in Log Files](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/937.%20Reorder%20Data%20in%20Log%20Files.py "link") | Easy
 | 938 | [Range Sum of BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/938.%20Range%20Sum%20of%20BST.py "link") | Easy
+| 997 | [Find the Town Judge](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/997.%20Find%20the%20Town%20Judge.py "link") | Easy
 | 1002 | [Find Common Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1002.%20Find%20Common%20Characters.py "link") | Easy
 | 1005 | [Maximize Sum Of Array After K Negations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py 'link') | Easy
 | 1007 | [Minimum Domino Rotations For Equal Row](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md "link") | Medium
@@ -349,6 +350,7 @@ Easy
 | 929 | [Unique Email Addresses](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/929.%20Unique%20Email%20Addresses.py "link") | 
 | 937 | [Reorder Data in Log Files](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/937.%20Reorder%20Data%20in%20Log%20Files.py "link") | 
 | 938 | [Range Sum of BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/938.%20Range%20Sum%20of%20BST.py "link") | 
+| 997 | [Find the Town Judge](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/997.%20Find%20the%20Town%20Judge.py "link") |
 | 1002 | [Find Common Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1002.%20Find%20Common%20Characters.py "link") |
 | 1005 | [Maximize Sum Of Array After K Negations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py 'link') | 
 | 1021 | [Remove Outermost Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1021.%20Remove%20Outermost%20Parentheses.py "link") | 
