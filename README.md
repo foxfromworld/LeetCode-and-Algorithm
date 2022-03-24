@@ -33,6 +33,7 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py "link") | Medium
 | 35 | [Search Insert Position](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/35.%20Search%20Insert%20Position.py "link") | Easy
 | 36 | [Valid Sudoku](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/36.%20Valid%20Sudoku.py "link") | Medium
+| 38 | [Count and Say](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/38.%20Count%20and%20Say.py "link") | Medium
 | 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | Medium
 | 40 | [Combination Sum II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/40.%20Combination%20Sum%20II.py "link") | Medium
 | 53 | [Maximum Subarray](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/53.%20Maximum%20Subarray.py "link") | Easy
@@ -428,6 +429,7 @@ Medium
 | 33 | [Search in Rotated Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.py "link") | 
 | 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py "link") | 
 | 36 | [Valid Sudoku](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/36.%20Valid%20Sudoku.py "link") |
+| 38 | [Count and Say](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/38.%20Count%20and%20Say.py "link") |
 | 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | 
 | 40 | [Combination Sum II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/40.%20Combination%20Sum%20II.py "link") | 
 | 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") |
