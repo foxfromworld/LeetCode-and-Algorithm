@@ -36,6 +36,7 @@
 | 38 | [Count and Say](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/38.%20Count%20and%20Say.py "link") | Medium
 | 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | Medium
 | 40 | [Combination Sum II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/40.%20Combination%20Sum%20II.py "link") | Medium
+| 43 | [Multiply Strings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/43.%20Multiply%20Strings.py "link") | Medium
 | 53 | [Maximum Subarray](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/53.%20Maximum%20Subarray.py "link") | Easy
 | 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") | Medium
 | 58 | [Length of Last Word](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/58.%20Length%20of%20Last%20Word.py "link") | Easy
@@ -432,6 +433,7 @@ Medium
 | 38 | [Count and Say](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/38.%20Count%20and%20Say.py "link") |
 | 39 | [Combination Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/39.%20Combination%20Sum.py "link") | 
 | 40 | [Combination Sum II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/40.%20Combination%20Sum%20II.py "link") | 
+| 43 | [Multiply Strings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/43.%20Multiply%20Strings.py "link") |
 | 57 | [Insert Interval](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/57.%20Insert%20Interval.py "link") |
 | 59 | [Spiral Matrix II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/59.%20Spiral%20Matrix%20II.md "link") | 
 | 62 | [Unique Paths](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/62.%20Unique%20Paths.py "link") |
