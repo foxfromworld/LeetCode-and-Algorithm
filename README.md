@@ -88,6 +88,7 @@
 | 219 | [Contains Duplicate II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/219.%20Contains%20Duplicate%20II.py "link") | Easy
 | 225 | [Implement Stack using Queues](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/225.%20Implement%20Stack%20using%20Queues.py "link") | Easy
 | 226 | [Invert Binary Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/226.%20Invert%20Binary%20Tree.py "link") | Easy
+| 228 | [Summary Ranges](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/228.%20Summary%20Ranges.py "link") | Easy
 | 229 | [Majority Element II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/229.%20Majority%20Element%20II.py "link") | Medium
 | 230 | [Kth Smallest Element in a BST](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py "link") | Medium
 | 231 | [Power of Two](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/231.%20Power%20of%20Two.py "link") | Easy
@@ -300,6 +301,7 @@ Easy
 | 219 | [Contains Duplicate II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/219.%20Contains%20Duplicate%20II.py "link") | 
 | 225 | [Implement Stack using Queues](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/225.%20Implement%20Stack%20using%20Queues.py "link") | 
 | 226 | [Invert Binary Tree](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/226.%20Invert%20Binary%20Tree.py "link") |
+| 228 | [Summary Ranges](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/228.%20Summary%20Ranges.py "link") |
 | 231 | [Power of Two](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/231.%20Power%20of%20Two.py "link") | 
 | 242 | [Valid Anagram](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/242.%20Valid%20Anagram.py "link") | 
 | 246 | [Strobogrammatic Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/246.%20Strobogrammatic%20Number.py "link") |
