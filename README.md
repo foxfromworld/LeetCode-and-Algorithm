@@ -184,6 +184,7 @@
 | 1048 | [Longest String Chain](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1048.%20Longest%20String%20Chain.md "link") | Medium
 | 1057 | [Campus Bikes](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1057.%20Campus%20Bikes.md "link") | Medium
 | 1058 | [Minimize Rounding Error to Meet Target](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1058.%20Minimize%20Rounding%20Error%20to%20Meet%20Target.py "link") | Medium
+| 1064 | [Fixed Point](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1064.%20Fixed%20Point.py "link") | Easy
 | 1086 | [High Five](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086.%20High%20Five.py "link") | Easy
 | 1110 | [Delete Nodes And Return Forest](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.py "link") | Medium
 | 1114 | [Print in Order](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1114.%20Print%20in%20Order.py "link") | Easy
@@ -358,6 +359,7 @@ Easy
 | 1002 | [Find Common Characters](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1002.%20Find%20Common%20Characters.py "link") |
 | 1005 | [Maximize Sum Of Array After K Negations](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py 'link') | 
 | 1021 | [Remove Outermost Parentheses](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1021.%20Remove%20Outermost%20Parentheses.py "link") | 
+| 1064 | [Fixed Point](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1064.%20Fixed%20Point.py "link") |
 | 1086 | [High Five](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/1086.%20High%20Five.py "link") |  
 | 1114 | [Print in Order](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1114.%20Print%20in%20Order.py "link") |
 | 1118 | [Number of Days in a Month](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/1118.%20Number%20of%20Days%20in%20a%20Month.py "link") | 
