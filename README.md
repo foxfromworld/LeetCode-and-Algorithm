@@ -65,6 +65,7 @@
 | 118 | [Pascal's Triangle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/118.%20Pascal's%20Triangle.py "link") | Easy
 | 119 | [Pascal's Triangle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/119.%20Pascal's%20Triangle%20II.md "link") | Easy
 | 122 | [Best Time to Buy and Sell Stock II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md "link") | Medium
+| 125 | [Valid Palindrome](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/125.%20Valid%20Palindrome.py "link") | Easy
 | 130 | [Surrounded Regions](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/130.%20Surrounded%20Regions.py "link") | Medium
 | 141 | [Linked List Cycle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/141.%20Linked%20List%20Cycle.py "link") | Easy
 | 142 | [Linked List Cycle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/142.%20Linked%20List%20Cycle%20II.py "link") | Medium
@@ -286,6 +287,7 @@ Easy
 | 112 | [Path Sum](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/112.%20Path%20Sum.py "link") |
 | 118 | [Pascal's Triangle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/118.%20Pascal's%20Triangle.py "link") | 
 | 119 | [Pascal's Triangle II](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/119.%20Pascal's%20Triangle%20II.md "link") | 
+| 125 | [Valid Palindrome](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/125.%20Valid%20Palindrome.py "link") | 
 | 141 | [Linked List Cycle](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/141.%20Linked%20List%20Cycle.py "link") |
 | 157 | [Read N Characters Given Read4](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/157.%20Read%20N%20Characters%20Given%20Read4.py "link") | 
 | 163 | [Missing Ranges](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/163.%20Missing%20Ranges.py "link") | 
