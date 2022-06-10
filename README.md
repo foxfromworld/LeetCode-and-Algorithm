@@ -81,6 +81,7 @@
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") | Easy
 | 190 | [Reverse Bits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/190.%20Reverse%20Bits.py "link") | Easy
 | 200 | [Number of Islands](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/200.%20Number%20of%20Islands.py "link") | Medium
+| 202 | [Happy Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/202.%20Happy%20Number.py "link") | Easy
 | 205 | [Isomorphic Strings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/205.%20Isomorphic%20Strings.py "link") | Easy
 | 206 | [Reverse Linked List](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/206.%20Reverse%20Linked%20List.py "link") | Easy
 | 207 | [Course Schedule](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/207.%20Course%20Schedule.py "link") | Medium
@@ -300,6 +301,7 @@ Easy
 | 171 | [Excel Sheet Column Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/171.%20Excel%20Sheet%20Column%20Number.md "link") | 
 | 176 | [Second Highest Salary](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/176.%20Second%20Highest%20Salary.MYSQL "link") |
 | 190 | [Reverse Bits](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/190.%20Reverse%20Bits.py "link") | 
+| 202 | [Happy Number](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/202.%20Happy%20Number.py "link") | 
 | 205 | [Isomorphic Strings](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/205.%20Isomorphic%20Strings.py "link") | 
 | 206 | [Reverse Linked List](https://github.com/foxfromworld/Coding-Interview-Preparation-with-LeetCode-and-An-Algorithm-Book/blob/main/LeetCode_Solutions/206.%20Reverse%20Linked%20List.py "link") | 
 | 217 | [Contains Duplicate](https://github.com/foxfromworld/LeetCode-and-Algorithm/blob/main/LeetCode_Solutions/217.%20Contains%20Duplicate.py "link") |
